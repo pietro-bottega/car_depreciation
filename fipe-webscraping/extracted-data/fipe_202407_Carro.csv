@@ -1,0 +1,70 @@
+fipe_cod,tabela_id,anoref,mesref,tipo,marca_id,marca,modelo_id,modelo,anomod,comb_cod,comb_sigla,comb,valor
+007006-8,311,2024,7,1,5,Asia Motors,40,Towner SDX / DLX/ STD,1994,1,G,Gasolina,4984
+007007-6,311,2024,7,1,5,Asia Motors,42,Towner Truck,1993,1,G,Gasolina,4095
+008007-1,311,2024,7,1,6,Audi,69,A4 1.8  Mec.,1996,1,G,Gasolina,14209
+008036-5,311,2024,7,1,6,Audi,88,A4 2.8 Avant V6 12V,1997,1,G,Gasolina,20715
+008201-5,311,2024,7,1,6,Audi,7255,Q3 1.4 TFSI/TFSI Flex S-tronic 5p,2019,1,G,Gasolina,121866
+008238-4,311,2024,7,1,6,Audi,8584,Q5 Prestige 2.0 TFSI Quattro S tronic,2019,1,G,Gasolina,181951
+008141-8,311,2024,7,1,6,Audi,5128,TTS 2.0 TFSI QUATTRO S Tronic,2011,1,G,Gasolina,164329
+009258-4,311,2024,7,1,7,BMW,8946,118i Sport 1.5 TB 12V Aut. 5p,2020,1,G,Gasolina,157110
+009025-5,311,2024,7,1,7,BMW,207,540iA,1997,1,G,Gasolina,40810
+009073-5,311,2024,7,1,7,BMW,232,M3 3.2 24V,2000,1,G,Gasolina,63567
+009227-4,311,2024,7,1,7,BMW,9797,X3 M40i 3.0 Turbo V6  Aut.,2019,1,G,Gasolina,304493
+073029-7,311,2024,7,1,161,Caoa Chery/Chery,9162,Tiggo 8 TXS 1.6 16V TGDi Aut.,2021,1,G,Gasolina,138781
+064003-4,311,2024,7,1,136,CHANA,4394,Cargo CE 1.0 8V 53cv (Pick-Up),2006,1,G,Gasolina,9869
+031051-4,311,2024,7,1,20,Ferrari,9528,Roma 3.9 V8 620cv,2021,1,G,Gasolina,2952091
+001302-1,311,2024,7,1,21,Fiat,5105,Doblo  Cargo 1.4 mpi Fire Flex 8V 3p,2011,1,G,Gasolina,33220
+001328-5,311,2024,7,1,21,Fiat,5340,Idea ATTRACTIVE 1.4 Fire Flex 8V 5p,2011,1,G,Gasolina,29159
+001066-9,311,2024,7,1,21,Fiat,519,Palio ELX 1.0/ 1.0 Fire Flex 8V 2p,2011,1,G,Gasolina,22993
+001066-9,311,2024,7,1,21,Fiat,519,Palio ELX 1.0/ 1.0 Fire Flex 8V 2p,2010,1,G,Gasolina,22033
+001066-9,311,2024,7,1,21,Fiat,519,Palio ELX 1.0/ 1.0 Fire Flex 8V 2p,2008,1,G,Gasolina,19182
+001066-9,311,2024,7,1,21,Fiat,519,Palio ELX 1.0/ 1.0 Fire Flex 8V 2p,1999,1,G,Gasolina,9165
+001324-2,311,2024,7,1,21,Fiat,5293,Palio ESSENCE 1.6 Flex 16V 5p,2012,1,G,Gasolina,30646
+001315-3,311,2024,7,1,21,Fiat,5272,Palio Week. ATTRACTIVE 1.4 Fire Flex 8V,2013,1,G,Gasolina,34800
+001391-9,311,2024,7,1,21,Fiat,6096,Strada Working Celeb.1.4 Fire Flex 8V CD,2010,1,G,Gasolina,41779
+001046-4,311,2024,7,1,21,Fiat,647,Uno Mille 1.0/ i.e./Electronic/Brio 2p,1990,1,G,Gasolina,5248
+001018-9,311,2024,7,1,21,Fiat,649,Uno Mille/ Mille EX/ Smart 2p,1997,1,G,Gasolina,6763
+003140-2,311,2024,7,1,22,Ford,670,Courier XL/XL-RS 1.6/ XL 1.6 Flex,2009,1,G,Gasolina,33108
+003140-2,311,2024,7,1,22,Ford,670,Courier XL/XL-RS 1.6/ XL 1.6 Flex,2002,1,G,Gasolina,20626
+003320-0,311,2024,7,1,22,Ford,4257,EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut.,2006,1,G,Gasolina,25593
+003074-0,311,2024,7,1,22,Ford,717,Explorer XLT 4x4 4.0 V6,1993,1,G,Gasolina,21395
+003163-1,311,2024,7,1,22,Ford,724,F-1000 CD/Blazer 3.9 Dies.,1989,3,D,Diesel,58979
+003355-3,311,2024,7,1,22,Ford,6032,F-250 Tropica./Tropmine Exec. 3.9 Diesel,2007,3,D,Diesel,110999
+003311-1,311,2024,7,1,22,Ford,4136,Fiesta Sedan 1.0 8V Flex 4p,2007,1,G,Gasolina,18823
+003228-0,311,2024,7,1,22,Ford,798,Focus 2.0 16V/ 2.0 16V Flex 5p,2001,1,G,Gasolina,12016
+003282-4,311,2024,7,1,22,Ford,807,Focus Sedan 2.0 16V/2.0 16V Flex 4p Aut.,2010,1,G,Gasolina,31000
+003282-4,311,2024,7,1,22,Ford,807,Focus Sedan 2.0 16V/2.0 16V Flex 4p Aut.,2004,1,G,Gasolina,17352
+003054-6,311,2024,7,1,22,Ford,845,Pampa L 1.6,1995,2,Á,Álcool,11585
+003054-6,311,2024,7,1,22,Ford,845,Pampa L 1.6,1988,1,G,Gasolina,7084
+003276-0,311,2024,7,1,22,Ford,875,Ranger XLS 2.3 16V 145cv/150cv 4x2 CD,2007,1,G,Gasolina,43891
+004023-1,311,2024,7,1,23,GM - Chevrolet,930,A-20 Custom/ C-20 S 4.1,1992,1,G,Gasolina,14267
+004023-1,311,2024,7,1,23,GM - Chevrolet,930,A-20 Custom/ C-20 S 4.1,1986,1,G,Gasolina,9824
+004084-3,311,2024,7,1,23,GM - Chevrolet,9629,Astra Sedan GL 1.8 MPFI 4p,2001,1,G,Gasolina,15220
+004129-7,311,2024,7,1,23,GM - Chevrolet,975,C-20 Custom De Luxe 4.1,1991,1,G,Gasolina,23775
+004131-9,311,2024,7,1,23,GM - Chevrolet,976,C-20 Custom De Luxe CD 4.1,1989,1,G,Gasolina,20995
+004137-8,311,2024,7,1,23,GM - Chevrolet,988,Caravan L/SL/S/SS 2.5/4.1/4.2,1986,1,G,Gasolina,4757
+004003-7,311,2024,7,1,23,GM - Chevrolet,1026,Corsa Pick-Up GL/ Champ 1.6 MPFI / EFI,1995,1,G,Gasolina,13299
+004040-1,311,2024,7,1,23,GM - Chevrolet,1080,Ipanema GLS/SLE 2.0EFI /SL/e1.8/Sol/Wave,1990,1,G,Gasolina,7812
+004075-4,311,2024,7,1,23,GM - Chevrolet,1088,Lumina,1991,1,G,Gasolina,10487
+004240-4,311,2024,7,1,23,GM - Chevrolet,1096,MONTANA  Sport 1.8 MPFI FlexPower 8V,2004,1,G,Gasolina,26855
+004050-9,311,2024,7,1,23,GM - Chevrolet,1105,Monza GLS/ Hi-Tech 2.0 EFI 2p e 4p,1994,1,G,Gasolina,13766
+004358-3,311,2024,7,1,23,GM - Chevrolet,4849,PRISMA Sed. Joy/ LS 1.0 8V FlexPower 4p,2009,1,G,Gasolina,19526
+004244-7,311,2024,7,1,23,GM - Chevrolet,1128,S10 Blazer Executive 2.8 4x4 TDI Diesel,2005,3,D,Diesel,63062
+004413-0,311,2024,7,1,23,GM - Chevrolet,6101,S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.,2018,3,D,Diesel,125733
+004301-0,311,2024,7,1,23,GM - Chevrolet,1143,S10 P-Up Colina 2.8 TDI 4x2/4x4 CS Dies.,2006,3,D,Diesel,55807
+004435-0,311,2024,7,1,23,GM - Chevrolet,6490,SPIN LS 1.8 8V Econo.Flex 5p Mec.,2019,1,G,Gasolina,57189
+004414-8,311,2024,7,1,23,GM - Chevrolet,6104,SPIN LT 1.8 8V Econo.Flex 5p Mec.,2013,1,G,Gasolina,37883
+004153-0,311,2024,7,1,23,GM - Chevrolet,1198,Suburban 5.7/6.5 V8/5.3 V8,2007,1,G,Gasolina,162854
+004188-2,311,2024,7,1,23,GM - Chevrolet,1210,Trafic Furgao Carga 2.2,1992,1,G,Gasolina,7855
+004249-8,311,2024,7,1,23,GM - Chevrolet,1236,Zafira Elite 2.0 MPFI FlexPower 8V  Aut,2006,1,G,Gasolina,27778
+014014-7,311,2024,7,1,25,Honda,1242,Accord Sedan EX 2.4/2.3/ 2.2 16V,2002,1,G,Gasolina,23471
+014015-5,311,2024,7,1,25,Honda,1244,Accord Sedan EXR,1996,1,G,Gasolina,13601
+014045-7,311,2024,7,1,25,Honda,10815,Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.,2015,1,G,Gasolina,60472
+014045-7,311,2024,7,1,25,Honda,10815,Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.,2007,1,G,Gasolina,30753
+014042-2,311,2024,7,1,25,Honda,1277,Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Aut.,2005,1,G,Gasolina,26865
+015032-0,311,2024,7,1,26,Hyundai,1286,Accent GLS 1.5 12V/16V Aut.,1995,1,G,Gasolina,6424
+015010-0,311,2024,7,1,26,Hyundai,1335,Sonata GL 2.0 4p,1993,1,G,Gasolina,5012
+033013-2,311,2024,7,1,33,Land Rover,1443,Defender 110 2.5 HCPU TDi CS Diesel,1998,3,D,Diesel,55120
+033003-5,311,2024,7,1,33,Land Rover,1454,Defender 90 Soft Top Diesel,1997,3,D,Diesel,39164
+033009-4,311,2024,7,1,33,Land Rover,1472,Range Rover HSE 4.4/ 4.6,1999,1,G,Gasolina,33796
+033096-5,311,2024,7,1,33,Land Rover,6783,Range Rover Vogue 3.0 TDV6 Diesel Aut.,2015,3,D,Diesel,312374

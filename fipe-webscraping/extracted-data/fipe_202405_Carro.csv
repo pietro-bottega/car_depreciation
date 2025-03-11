@@ -1,0 +1,81 @@
+fipe_cod,tabela_id,anoref,mesref,tipo,marca_id,marca,modelo_id,modelo,anomod,comb_cod,comb_sigla,comb,valor
+008021-7,309,2024,5,1,6,Audi,78,A4 2.4 30V Avant Tip./Multitronic,1998,1,G,Gasolina,22271
+008154-0,309,2024,5,1,6,Audi,5549,A7 Sportback 3.0 TFSI Quattro S Tronic,2013,1,G,Gasolina,151731
+008062-4,309,2024,5,1,6,Audi,126,A8 4.2 Quattro Tiptronic,2005,1,G,Gasolina,154789
+008014-4,309,2024,5,1,6,Audi,127,A8 4.2 V8 32V Tiptronic,1995,1,G,Gasolina,27032
+008242-2,309,2024,5,1,6,Audi,8628,RS4 2.9 Avant V6 TFSI Quattro Tiptronic,2021,1,G,Gasolina,580439
+008191-4,309,2024,5,1,6,Audi,6769,S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic,2015,1,G,Gasolina,140687
+009088-3,309,2024,5,1,7,BMW,194,330iA MotorSport 4p,2002,1,G,Gasolina,62874
+009238-0,309,2024,5,1,7,BMW,9960,530e M Sport 2.0 Turbo Aut. (Híbrido),2021,1,G,Gasolina,329975
+009017-4,309,2024,5,1,7,BMW,206,540i/iA Touring,1996,1,G,Gasolina,31969
+009073-5,309,2024,5,1,7,BMW,232,M3 3.2 24V,2001,1,G,Gasolina,80414
+009127-8,309,2024,5,1,7,BMW,4527,M3 Coupê 4.0 32V,2008,1,G,Gasolina,247459
+009236-3,309,2024,5,1,7,BMW,10872,X4 XDRIVE 30i M-Sport 2.0 TB 252cv Aut,2019,1,G,Gasolina,294574
+009265-7,309,2024,5,1,7,BMW,9038,X7 M50i 4.4 V8 Bi-TB Aut.,2020,1,G,Gasolina,710012
+062002-5,309,2024,5,1,123,Bugre,5190,Buggy VII/VII BIG/VII Flex,2019,1,G,Gasolina,35600
+010012-9,309,2024,5,1,12,Chrysler,274,Neon Sport 1.8/2.0,1995,1,G,Gasolina,7330
+013031-1,309,2024,5,1,17,Dodge,5695,JOURNEY RT  3.6 V6 Aut.,2011,1,G,Gasolina,48696
+013026-5,309,2024,5,1,17,Dodge,4575,Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.,2005,3,D,Diesel,114564
+066001-9,309,2024,5,1,147,EFFA,4637,M-100 1.0 8V 5p,2006,1,G,Gasolina,7706
+043001-3,309,2024,5,1,18,Engesa,411,Engesa 4x4 2.5/4.1,1989,1,G,Gasolina,34003
+001352-8,309,2024,5,1,21,Fiat,5536,Doblo ESSENCE 1.8 Flex 16V 5p,2015,1,G,Gasolina,48665
+001260-2,309,2024,5,1,21,Fiat,4749,LINEA ABSOLUTE 1.9/1.8 Flex Dualogic 4p,2011,1,G,Gasolina,26220
+001355-2,309,2024,5,1,21,Fiat,5578,LINEA ESSENCE Dualogic 1.8 Flex 16V 4p,2012,1,G,Gasolina,27042
+001267-0,309,2024,5,1,21,Fiat,4828,Palio 1.0 ECONOMY Fire Flex 8V 4p,2009,1,G,Gasolina,20935
+001314-5,309,2024,5,1,21,Fiat,5271,Palio ATTRA./ITÁLIA 1.4 EVO F.Flex 8V 5p,2012,1,G,Gasolina,32594
+001071-5,309,2024,5,1,21,Fiat,525,Palio ELX 1.5 4p,1999,2,Á,Álcool,8905
+001230-0,309,2024,5,1,21,Fiat,3813,Stilo 1.8/ 1.8 Connect Flex 8V 5p,2006,1,G,Gasolina,18551
+001293-9,309,2024,5,1,21,Fiat,5066,Strada Working 1.4 mpi Fire Flex 8V CD,2011,1,G,Gasolina,44294
+001433-8,309,2024,5,1,21,Fiat,7136,Strada Working HARD 1.4 Fire Flex 8V CS,2015,1,G,Gasolina,46086
+001161-4,309,2024,5,1,21,Fiat,644,Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p,2007,1,G,Gasolina,15284
+003139-9,309,2024,5,1,22,Ford,666,Courier 1.6 L/ 1.6 Flex,2000,1,G,Gasolina,16006
+003374-0,309,2024,5,1,22,Ford,6264,EcoSport TITANIUM 2.0 16V Flex 5p Aut.,2013,1,G,Gasolina,49413
+003039-2,309,2024,5,1,22,Ford,707,Escort XR3 1.8 / 1.6 Conversível,1986,1,G,Gasolina,7240
+003242-5,309,2024,5,1,22,Ford,758,F-250 Tropical SL/ Van T.Diesel (todas),2000,3,D,Diesel,89433
+003262-0,309,2024,5,1,22,Ford,802,Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut,2006,1,G,Gasolina,21989
+003174-7,309,2024,5,1,22,Ford,809,Furglaine 3.9 Diesel,1986,3,D,Diesel,13968
+003223-9,309,2024,5,1,22,Ford,834,Mondeo GLX 2.0 16V 4p Aut,1995,1,G,Gasolina,7906
+003059-7,309,2024,5,1,22,Ford,905,Royale GL 1.8/1.8i  2p e 4p,1993,1,G,Gasolina,6922
+004255-2,309,2024,5,1,23,GM - Chevrolet,942,Astra Elegance 2.0 MPFI FlexPower 8V 5p,2005,1,G,Gasolina,21320
+004084-3,309,2024,5,1,23,GM - Chevrolet,9629,Astra Sedan GL 1.8 MPFI 4p,1999,1,G,Gasolina,14283
+004183-1,309,2024,5,1,23,GM - Chevrolet,969,Brasinca Blazer CD 4.0 Diesel,1989,3,D,Diesel,39196
+004272-2,309,2024,5,1,23,GM - Chevrolet,1031,Corsa Sed Class.Life 1.0/1.0 FlexPower,2008,1,G,Gasolina,17752
+004273-0,309,2024,5,1,23,GM - Chevrolet,1033,Corsa Sed Class.Spirit 1.0/1.0 FlexPower,2005,2,Á,Álcool,15272
+004034-7,309,2024,5,1,23,GM - Chevrolet,1074,D-20 S / Luxe 3.9/4.0 Diesel,1991,3,D,Diesel,57768
+004034-7,309,2024,5,1,23,GM - Chevrolet,1074,D-20 S / Luxe 3.9/4.0 Diesel,1987,3,D,Diesel,49818
+004041-0,309,2024,5,1,23,GM - Chevrolet,1082,Kadett GL/SL/Lite/Turim 1.8,1995,1,G,Gasolina,9421
+004041-0,309,2024,5,1,23,GM - Chevrolet,1082,Kadett GL/SL/Lite/Turim 1.8,1990,1,G,Gasolina,6027
+004051-7,309,2024,5,1,23,GM - Chevrolet,1101,Monza Classic SE 2.0 /MPFI e EFI 2p e 4p,1989,1,G,Gasolina,11148
+004010-0,309,2024,5,1,23,GM - Chevrolet,1112,Omega GLS 2.2 / 2.0,1994,1,G,Gasolina,18247
+004426-1,309,2024,5,1,23,GM - Chevrolet,6234,ONIX HATCH LTZ 1.4 8V FlexPower 5p Mec.,2013,1,G,Gasolina,43645
+004518-7,309,2024,5,1,23,GM - Chevrolet,8950,ONIX SEDAN Plus LT 1.0 12V Flex 4p Mec.,2020,1,G,Gasolina,63664
+004020-7,309,2024,5,1,23,GM - Chevrolet,1127,S10 Blazer DLX 4.3 V6,1997,1,G,Gasolina,25618
+004464-4,309,2024,5,1,23,GM - Chevrolet,7305,S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.,2020,3,D,Diesel,187174
+004464-4,309,2024,5,1,23,GM - Chevrolet,7305,S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.,2019,3,D,Diesel,172503
+004464-4,309,2024,5,1,23,GM - Chevrolet,7305,S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.,2018,3,D,Diesel,164705
+004464-4,309,2024,5,1,23,GM - Chevrolet,7305,S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.,2016,3,D,Diesel,141148
+004060-6,309,2024,5,1,23,GM - Chevrolet,1167,S10 P-Up Luxe 2.5 4x2 CD TB Max HST Dies,2000,3,D,Diesel,37116
+004060-6,309,2024,5,1,23,GM - Chevrolet,1167,S10 P-Up Luxe 2.5 4x2 CD TB Max HST Dies,1999,3,D,Diesel,34791
+004060-6,309,2024,5,1,23,GM - Chevrolet,1167,S10 P-Up Luxe 2.5 4x2 CD TB Max HST Dies,1998,3,D,Diesel,32499
+004060-6,309,2024,5,1,23,GM - Chevrolet,1167,S10 P-Up Luxe 2.5 4x2 CD TB Max HST Dies,1996,3,D,Diesel,22299
+004145-9,309,2024,5,1,23,GM - Chevrolet,1168,S10 P-Up Luxe 2.5 4x4 CD TB Max HST Dies,2000,3,D,Diesel,39855
+004145-9,309,2024,5,1,23,GM - Chevrolet,1168,S10 P-Up Luxe 2.5 4x4 CD TB Max HST Dies,1999,3,D,Diesel,37855
+004145-9,309,2024,5,1,23,GM - Chevrolet,1168,S10 P-Up Luxe 2.5 4x4 CD TB Max HST Dies,1998,3,D,Diesel,34398
+004435-0,309,2024,5,1,23,GM - Chevrolet,6490,SPIN LS 1.8 8V Econo.Flex 5p Mec.,2020,1,G,Gasolina,62358
+004324-9,309,2024,5,1,23,GM - Chevrolet,3820,Vectra Elegan. 2.0 MPFI 8V FlexPower Aut,2006,1,G,Gasolina,27383
+004066-5,309,2024,5,1,23,GM - Chevrolet,1224,Vectra GLS/Expres.2.2/ 2.0 e 2.0 CD 8V,2002,1,G,Gasolina,19255
+004066-5,309,2024,5,1,23,GM - Chevrolet,1224,Vectra GLS/Expres.2.2/ 2.0 e 2.0 CD 8V,1997,1,G,Gasolina,15899
+004066-5,309,2024,5,1,23,GM - Chevrolet,1224,Vectra GLS/Expres.2.2/ 2.0 e 2.0 CD 8V,1994,1,G,Gasolina,13507
+004071-1,309,2024,5,1,23,GM - Chevrolet,1227,Veraneio S/ Luxe 4.0 Dies./TB Dies.,1993,3,D,Diesel,75318
+004248-0,309,2024,5,1,23,GM - Chevrolet,1237,Zafira Elite 2.0 MPFI FlexPower 8V 5p,2006,1,G,Gasolina,25658
+014059-7,309,2024,5,1,25,Honda,4975,CITY Sedan LX 1.5 Flex 16V 4p Aut.,2019,1,G,Gasolina,79385
+014059-7,309,2024,5,1,25,Honda,4975,CITY Sedan LX 1.5 Flex 16V 4p Aut.,2013,1,G,Gasolina,50241
+014039-2,309,2024,5,1,25,Honda,1276,Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.,2007,1,G,Gasolina,26471
+014042-2,309,2024,5,1,25,Honda,1277,Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Aut.,2008,1,G,Gasolina,32341
+014073-2,309,2024,5,1,25,Honda,6270,Fit Twist 1.5 Flex 16V 5p Aut.,2014,1,G,Gasolina,53290
+014087-2,309,2024,5,1,25,Honda,7150,HR-V EX 1.8 Flexone 16V 5p Aut.,2016,1,G,Gasolina,81439
+015083-5,309,2024,5,1,26,Hyundai,5726,AZERA 3.0 V6 24V 4p Aut.,2013,1,G,Gasolina,72814
+015101-7,309,2024,5,1,26,Hyundai,6435,HB20S C.Style/C.Plus1.6 Flex 16V Aut. 4p,2014,1,G,Gasolina,48285
+015219-6,309,2024,5,1,26,Hyundai,10014,HB20S Limited 1.0  Flex 12V Mec.,2023,1,G,Gasolina,78374
+015051-7,309,2024,5,1,26,Hyundai,1333,Santa Fe GLS 2.7 V6 4x4TipTronic,2004,1,G,Gasolina,24715
+015105-0,309,2024,5,1,26,Hyundai,6439,Santa Fe/GLS 3.3 V6 4X4 Tiptronic,2014,1,G,Gasolina,88804
