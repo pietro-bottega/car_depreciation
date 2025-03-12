@@ -8,5 +8,12 @@ Based on the FIPE historicals, and a set of features from each car (technical sp
 **Data sources:**
 - [Tabela FIPE:](https://veiculos.fipe.org.br) national survey of monthly average car prices on resalle for end customers in Brazil.
 
-**Model:**
-- Use KNN to measure similarity between cars, and use yearly depreciation from that custer, weighted by distance to centroid.
+## **Work in progress notes**
+
+**Current status:**
+- Extracted FIPE data, using a crawler available in github; faced with the challenge of a time consuming extraction (month by month) and list of car models seemingly not complete.
+- For a first version, decided to use data from last 10 months, and have a small and less specific feature to define cars models (could not find easily accessible dataset with car model characteristics). As a consequence, will be able to predict for a short period, and risk underfitting due to lack of features.
+
+**Next steps:**
+- Data manipulation to extract most features possible from "model description" from FIPE dataset
+- Use KNN to measure similarity between cars, and use month depreciation from that cluster, weighted by distance to centroid.
