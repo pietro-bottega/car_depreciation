@@ -1,19 +1,41 @@
-# Predictor of car depreciation
+# Car Matching system
 
-**Problem to solve and expected outcome:**
-From the moment your car is out of the dealership, it is a used car and depreciation starts.
-In Brazil, Tabela FIPE serves as a guide to the industry of historical average price offered for used cars, but it does not provide predictions of future depreciation from newly bought cars.
-Based on the FIPE historicals, and a set of features from each car (technical specs, sales data..), the model can input a car that the user intends to buy, and outputs what would be the depreciation in a 3-5 years horizon.
+## Overview
 
-**Data sources:**
-- [Tabela FIPE:](https://veiculos.fipe.org.br) national survey of monthly average car prices on resalle for end customers in Brazil.
+This project aims to create a model to match similar cars from Brazil's market based on user input. It is based on Python, and uses as features information extracted from *Tabela FIPE*, a monthly survey of car prices in Brazil.
 
-## **Work in progress notes**
+## Dataset
+The data set is [*Tabela FIPE*:](https://veiculos.fipe.org.br), a national survey of monthly average car prices on resalle for end customers in Brazil.
+For data extraction, I leveraged the [fipe-crawler](https://github.com/rafaelgou/fipe-crawler/) created by @rafaelgou.
 
-**Current status:**
-- Extracted FIPE data, using a crawler available in github; faced with the challenge of a time consuming extraction (month by month) and list of car models seemingly not complete.
-- For a first version, decided to use data from last 10 months, and have a small and less specific feature to define cars models (could not find easily accessible dataset with car model characteristics). As a consequence, will be able to predict for a short period, and risk underfitting due to lack of features.
+## Methodology
 
-**Next steps:**
-- Data manipulation to extract most features possible from "model description" from FIPE dataset
-- Use KNN to measure similarity between cars, and use month depreciation from that cluster, weighted by distance to centroid.
+This project uses a machine learning algorithm to compare similar cars from the dataset. The process involves feature extraction from the dataset, defining a similarity function, and training based on available data.
+
+## Tools and Technologies
+
+### Programming language
+
+- Python
+
+### Libraries:
+
+- Pandas: used to manipulate structured data, such as .csv files extracted from the *Tabela FIPE*.
+
+### Data Visualization:
+
+(Work in progress..)
+
+## Setup process
+
+(Work in progress..)
+
+## Sample usage
+
+### Input from the user
+
+(Work in progress..)
+
+### Output from model
+
+(Work in progress..)
