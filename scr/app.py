@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
+import path
 
 dir = path.Path(__file__).abspath()
 sys.path.append(dir.parent.parent)
