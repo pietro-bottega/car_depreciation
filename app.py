@@ -7,9 +7,9 @@ import path
 dir = path.Path(__file__).abspath()
 sys.path.append(dir.parent.parent)
 
-fipe_features_PCA_path = "../data/output/fipe_features_PCA.csv"
-fipe_features_path = "../data/output/fipe_features.csv"
-fipe_data_path = "../data/output/fipe_data.csv"
+fipe_features_PCA_path = "./data/output/fipe_features_PCA.csv"
+fipe_features_path = "./data/output/fipe_features.csv"
+fipe_data_path = "./data/output/fipe_data.csv"
 
 fipe_features_PCA = pd.read_csv(fipe_features_PCA_path)
 fipe_features = pd.read_csv(fipe_features_path)
