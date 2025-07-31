@@ -7,13 +7,13 @@ import path
 dir = path.Path(__file__).abspath()
 sys.path.append(dir.parent.parent)
 
-fipe_features_PCA_path = "./data/output/fipe_features_PCA.csv"
-fipe_features_path = "./data/output/fipe_features.csv"
-fipe_data_path = "./data/output/fipe_data.csv"
+fipe_features_PCA_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_data.csv"
+fipe_features_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_features.csv"
+fipe_data_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_data.csv"
 
-fipe_features_PCA = pd.read_csv(fipe_features_PCA_path)
-fipe_features = pd.read_csv(fipe_features_path)
-fipe_data = pd.read_csv(fipe_data_path)
+fipe_features_PCA = pd.read_csv(fipe_features_PCA_path, encoding='latin1')
+fipe_features = pd.read_csv(fipe_features_path, encoding='latin1')
+fipe_data = pd.read_csv(fipe_data_path, encoding='latin1')
 
 no_models = fipe_features.shape[0] -1
 
