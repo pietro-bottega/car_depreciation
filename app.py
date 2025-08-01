@@ -69,7 +69,7 @@ user_input = st.text_input(f"Select a car model from {no_models} available", key
 display_selected = car_selector(user_input)
 display_final_view = cars_finder(user_input)
 
-if user_input is not None:
+if user_input is not '':
     st.write("Selected model:")
     display_selected
     st.write("Similar models:")
