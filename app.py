@@ -66,9 +66,6 @@ st.title("Find similar cars")
 
 user_input = st.text_input(f"Select a car model from {no_models} available", key="target")
 
-display_selected = car_selector(user_input)
-display_final_view = cars_finder(user_input)
-
 if user_input:
     try:
         target_car_index = int(user_input)
