@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
-import path
+from sklearn.manifold import TSNE
+import matplotlib.pyplot as plt
 
 # Loading data
 
@@ -24,6 +25,27 @@ def load_data():
         return None, None, None
 
 fipe_features_PCA, fipe_features, fipe_data = load_data()
+
+# Calculating T-SNE
+@st.cache_data
+def compute_tsne(data_pca):
+    """Calculates t-SNE coordinates"""
+    tsne = TSNE(
+        n_components=2,
+        verbose=0,
+        perplexity=40,
+        max_iter=1000,
+        learning_rate='auto',
+        random_state=42
+        )
+    tsne_results = tsne.fit_transform(data_pca)
+    return tsne_results
+
+if fipe_features_PCA is not None and fipe_features is not None:
+    tsne_results = compute_tsne(fipe_features_PCA)
+    fipe_features['tsne-2d-one'] = tsne_results[:,0]
+    fipe_features['tsne-2d-two'] = tsne_results[:,1]
+
 
 # Model training
 
@@ -80,6 +102,28 @@ def cars_finder(car_index: int):
 
     return final_view[['modelo','marca','distance','price']]
 
+def plot_tsne_chart(target_index, similar_indices):
+    """Creates and returns a plto with t-SNE."""
+    fig, ax = plt.subplots(figsize=(12, 9))
+
+    # Plotting all models
+    ax.scatter(fipe_features['tsne-2d-one'], fipe_features['tsne-2d-two'], c='lightgray', alpha=0.5, label='Other models')
+
+    # Highlight 5 similar models
+    ax.scatter(fipe_features.iloc[similar_indices]['tsne-2d-one'], fipe_features.iloc[similar_indices]['tsne-2d-two'], c='orange', s=60, label='Similar models')
+
+    # Highlights model select
+    ax.scatter(fipe_features.iloc[target_index]['tsne-2d-one'], fipe_features.iloc[target_index]['tsne-2d-two'], c='red', s=120, label='Selected model')
+
+    ax.set_title("Car models 2D t-SNE components", fontsize=16)
+    ax.set_xlabel("t-SNE Component 1")
+    ax.set_ylabel("t-SNE Component 2")
+    ax.legend()
+    ax.set_xticks([])
+    ax.set_yticks([])
+
+    return fig
+
 # Create the Streamlit interface
 
 st.title("Find similar cars")
@@ -106,12 +150,28 @@ else:
                 similar_models_df = cars_finder(target_car_index)
                 
             st.subheader("Selected model:")
-            st.dataframe(selected_model_df)
+            selected_model_df_rename = selected_model_df.rename(columns={
+                'modelo': 'Model',
+                'marcar': ' Marca'
+            })
+            st.dataframe(selected_model_df_rename)
 
             st.subheader("Similar models:")
-            st.dataframe(similar_models_df)
+            similar_models_df_rename = similar_models_df.rename(columns={
+                'modelo': 'Model',
+                'marcar': ' Brand',
+                'distance': 'Similarity Index',
+                'price': 'Estimated Price (R$)'
+            })
+            st.dataframe(similar_models_df_rename)
 
-            st.info("Lower distance, higher similarity. Price considered here is the lastest record in Tabela FIPE")
+            st.info("Lower similarity index, higher similarity. Price considered here is the lastest record in Tabela FIPE")
+
+            st.subheader("Visualizing car models into a 2D space")
+            with st.spinner("Plotting chart.."):
+                similar_indices = similar_models_df.index
+                tsne_fig = plot_tsne_chart(target_car_index, similar_indices)
+                st.pyplot(tsne_fig)
 
         except Exception as e:
             st.error(f"Unexpected error: {e}")
