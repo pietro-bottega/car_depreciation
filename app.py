@@ -4,40 +4,63 @@ import numpy as np
 from sklearn.neighbors import NearestNeighbors
 import path
 
-fipe_features_PCA_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_data.csv"
-fipe_features_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_features.csv"
-fipe_data_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_data.csv"
+# Loading data
 
-fipe_features_PCA = pd.read_csv(fipe_features_PCA_path, encoding='latin1')
-fipe_features = pd.read_csv(fipe_features_path, encoding='latin1')
-fipe_data = pd.read_csv(fipe_data_path, encoding='latin1')
+@st.cache_data
+def load_data():
+    """Load all dataframe from repo"""
 
-no_models = fipe_features.shape[0] -1
+    fipe_features_PCA_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_features_PCA.csv"
+    fipe_features_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_features.csv"
+    fipe_data_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_data.csv"
 
-def car_selector(selected_car):
-    selected_car_index = int(selected_car)
-    selected_car_loc = fipe_features.iloc[selected_car_index]
+    try:
+        fipe_features_PCA = pd.read_csv(fipe_features_PCA_path, encoding='latin1')
+        fipe_features = pd.read_csv(fipe_features_path, encoding='latin1')
+        fipe_data = pd.read_csv(fipe_data_path, encoding='latin1')
+        return fipe_features_PCA, fipe_features, fipe_data
+    except Exception as e:
+        st.error(f"Error loading repo data: {e}")
+        return None, None, None
+
+fipe_features_PCA, fipe_features, fipe_data = load_data()
+
+# Model training
+
+@st.cache_resource
+def get_knn_model(data_pca):
+    """Creates and trains the model"""
+    if data_pca is not None:
+        knn_model = NearestNeighbors(n_neighbors=100, metric='euclidean')
+        knn_model.fit(data_pca)
+        return knn_model
+    return None
+
+if fipe_features_PCA is not None and fipe_features is not None and fipe_data is not None:
+    knn_model = get_knn_model(fipe_features_PCA)
+else:
+    knn_model = None
+
+# Complementary functions
+
+def car_selector(car_index: int):
+    """Returns data from selected car based on index"""
+    selected_car_loc = fipe_features.iloc[car_index]
     selected_car_filter = selected_car_loc[['modelo','marca']]
-    
-    return pd.DataFrame(selected_car_filter)
+    return pd.DataFrame(selected_car_loc[['modelo','marca']]).T
 
 def get_latest_value(group):
+    """Gets latest value from a group of car models"""
     sorted_group = group.sort_values(by=['anoref','mesref', 'anomod'], ascending=[False, False,False])
-    top_performer = sorted_group.iloc[0]
-    return top_performer['valor']
+    return sorted_group.iloc[0]['valor']
 
-def cars_finder(target_car):
+def cars_finder(car_index: int):
     """
     Performs KNN to find nearest neighboors.
     Creates a table with top 3 models and their prices.
     """
 
-    knn_model = NearestNeighbors(n_neighbors=100, metric='euclidean')
-    knn_model.fit(fipe_features_PCA)
-
-    target_car_index = target_car
-    target_car_features = fipe_features_PCA.iloc[[target_car_index]]
-
+    target_car_features = fipe_features_PCA.iloc[[car_index]]
     distances, indices = knn_model.kneighbors(target_car_features)
 
     indices = indices[0]
@@ -47,8 +70,7 @@ def cars_finder(target_car):
     selected_cars['distance'] = distances
 
     brand_mask = selected_cars['marca'] != selected_cars.iloc[0]['marca']
-    selected_cars_brands = selected_cars[brand_mask]
-    selected_cars_brands = selected_cars_brands.head(5)
+    selected_cars_brands = selected_cars[brand_mask].head(5)
 
     models_list = selected_cars_brands['modelo_id'].tolist()
     fipe_data_filtered = fipe_data[fipe_data['modelo_id'].isin(models_list)]
@@ -58,26 +80,37 @@ def cars_finder(target_car):
 
     return final_view[['modelo','marca','distance','price']]
 
-
-
 # Create the Streamlit interface
 
 st.title("Find similar cars")
 
-user_input = st.text_input(f"Select a car model from {no_models} available", key="target")
+if knn_model is None:
+    st.warning("Error while loading models, review logs.")
+else:
+    no_models = fipe_features.shape[0] - 1
+    user_input = st.text_input(f"Select a car model from {no_models} available", key="target")
 
-if user_input:
-    try:
-        target_car_index = int(user_input)
-        if 0 <= target_car_index <= no_models:
-            st.write("Selected model:")
-            st.dataframe(display_selected)
+    if user_input:
+        try:
+            target_car_index = int(user_input)
 
-            st.write("Similar models:")
-            st.dataframe(display_final_view)
+            if 0 <= target_car_index <= no_models:
+                with st.spinner("Calculating.."):
+                    selected_model_df = car_selector(target_car_index)
+                    similar_models_df = cars_finder(target_car_index)
+                
+                st.subheader("Selected model:")
+                st.dataframe(selected_model_df)
 
-            st.info("Lower distance is better. Price considered is the lastest registry in Tabela FIPE")
-        else:
-            st.error(f"Invalid index, please write a number between 0 and {no_models}")
-    except ValueError:
-        st.error("error: please write only numbers")
+                st.subheader("Similar models:")
+                st.dataframe(similar_models_df)
+
+                st.info("Lower distance is better. Price considered is the lastest registry in Tabela FIPE")
+
+            else:
+                st.error(f"Invalid index, please write a number between 0 and {no_models}")
+
+        except ValueError:
+            st.error("error: please write only numbers")
+        except Exception as e:
+            st.error(f"Unexpected error: {e}")
