@@ -69,9 +69,18 @@ user_input = st.text_input(f"Select a car model from {no_models} available", key
 display_selected = car_selector(user_input)
 display_final_view = cars_finder(user_input)
 
-if user_input is not '':
-    st.write("Selected model:")
-    display_selected
-    st.write("Similar models:")
-    display_final_view
-    st.write("Lower distance is better. Price considered is the lastest registry in Tabela FIPE")
+if user_input:
+    try:
+        target_car_index = int(user_input)
+        if 0 <= target_car_index <= no_models:
+            st.write("Selected model:")
+            st.dataframe(display_selected)
+
+            st.write("Similar models:")
+            st.dataframe(display_final_view)
+
+            st.info("Lower distance is better. Price considered is the lastest registry in Tabela FIPE")
+        else:
+            st.error(f"Invalid index, please write a number between 0 and {no_models}")
+    except ValueError:
+        st.error("error: please write only numbers")
