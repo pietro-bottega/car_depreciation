@@ -86,4 +86,4 @@ PCA is a dimensionality reduction method used to transform a large set of variab
 t-SNE (t-distributed Stochastic Neighbor Embedding) is a statistical method for visualizing high-dimensional data by giving each datapoint a location in a two or three-dimensional map. It's particularly useful for revealing the underlying structure of the data, such as clusters. In this project, it was used to visually confirm that the feature space created by PCA effectively groups similar cars together, validating the model's ability to find meaningful similarities.
 
 #### t-SNE plot into 2 dimensions
-![t-SNE Plot](https://raw.githubusercontent.com/pietro-bottega/car_depreciation/main/images/tsne_plot.png)
+![t-SNE Plot](https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/assets/t-sne_2d.png)
