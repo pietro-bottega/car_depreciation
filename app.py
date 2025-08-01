@@ -87,30 +87,31 @@ st.title("Find similar cars")
 if knn_model is None:
     st.warning("Error while loading models, review logs.")
 else:
-    no_models = fipe_features.shape[0] - 1
-    user_input = st.text_input(f"Select a car model from {no_models} available", key="target")
+    fipe_features['display_name'] = fipe_features['marca'] + " - " + fipe_features['modelo']
+    model_otions = fipe_features['display_name'].sort_values().tolist()
 
-    if user_input:
+    selected_model = st.selectbox(
+        label="Select a car model from the list:",
+        options=model_otions,
+        index=None,
+        placeholder="Select a car to find similar models"
+    )
+
+    if selected_model:
         try:
-            target_car_index = int(user_input)
+            target_car_index = fipe_features[fipe_features['display_name'] == selected_model].index[0]
 
-            if 0 <= target_car_index <= no_models:
-                with st.spinner("Calculating.."):
-                    selected_model_df = car_selector(target_car_index)
-                    similar_models_df = cars_finder(target_car_index)
+            with st.spinner("Calculating.."):
+                selected_model_df = car_selector(target_car_index)
+                similar_models_df = cars_finder(target_car_index)
                 
-                st.subheader("Selected model:")
-                st.dataframe(selected_model_df)
+            st.subheader("Selected model:")
+            st.dataframe(selected_model_df)
 
-                st.subheader("Similar models:")
-                st.dataframe(similar_models_df)
+            st.subheader("Similar models:")
+            st.dataframe(similar_models_df)
 
-                st.info("Lower distance is better. Price considered is the lastest registry in Tabela FIPE")
+            st.info("Lower distance, higher similarity. Price considered here is the lastest record in Tabela FIPE")
 
-            else:
-                st.error(f"Invalid index, please write a number between 0 and {no_models}")
-
-        except ValueError:
-            st.error("error: please write only numbers")
         except Exception as e:
             st.error(f"Unexpected error: {e}")
