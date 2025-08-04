@@ -196,4 +196,4 @@ fipe_data.to_csv("../data/output/fipe_data.csv")
 
 fipe_data[['version', 'engine', 'category', 'transmission_type', 'doors', 'hp', 'valves']] = fipe_data['modelo'].apply(extract_features_from_modelo)
 fipe_features = fipe_data[['modelo_id','modelo', 'marca', 'comb', 'version', 'engine', 'category', 'transmission_type', 'doors', 'hp', 'valves']].drop_duplicates()
-fipe_features.to_csv("../data/output/fipe_features.csv")
+fipe_features.to_csv("../data/output/fipe_features.csv", encoding='utf-8')
