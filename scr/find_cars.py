@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
+from sklearn.manifold import TSNE
 
 def get_latest_value(group):
     sorted_group = group.sort_values(by=['anoref','mesref', 'anomod'], ascending=[False, False,False])
@@ -39,6 +40,34 @@ def cars_finder(target_car):
 
     return final_view
 
+def create_TSNE(dataset):
+    """
+    Plots models into 2d dimensions for easier visualization.
+
+    Paramenters:
+    - dataset (str): path with dataframe to be used
+
+    Returns:
+    - X_TSNE (pd.DataFrame): dataframe with coordinates into 2d space of each car model
+    """
+    X = pd.read_csv(dataset)
+
+    tsne = TSNE(
+        n_components=2,
+        perplexity=30,
+        max_iter=1000,
+        random_state=42
+    )
+
+    X_TSNE = tsne.fit_transform(X)
+
+    return pd.DataFrame(X_TSNE) 
+
+car_models_TSNE = create_TSNE('../data/output/fipe_features_PCA.csv')
+car_models_TSNE.to_csv('../data/output/car_models_TSNE.csv')
+
 fipe_features_PCA = pd.read_csv("../data/output/fipe_features_PCA.csv")
 fipe_features = pd.read_csv("../data/output/fipe_features.csv")
 fipe_data = pd.read_csv("../data/output/fipe_data.csv")
+
+print("Created model and TSNE map")

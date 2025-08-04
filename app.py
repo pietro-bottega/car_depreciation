@@ -1,4 +1,4 @@
-import streamlit as st
+voimport streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
@@ -14,17 +14,19 @@ def load_data():
     fipe_features_PCA_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_features_PCA.csv"
     fipe_features_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_features.csv"
     fipe_data_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_data.csv"
+    TSNE_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/car_models_TSNE.csv"
 
     try:
         fipe_features_PCA = pd.read_csv(fipe_features_PCA_path, encoding='latin1')
         fipe_features = pd.read_csv(fipe_features_path, encoding='latin1')
         fipe_data = pd.read_csv(fipe_data_path, encoding='latin1')
-        return fipe_features_PCA, fipe_features, fipe_data
+        car_models_TSNE = pd.read_csv(TSNE_path, encoding='latin1')
+        return fipe_features_PCA, fipe_features, fipe_data, car_models_TSNE
     except Exception as e:
         st.error(f"Error loading repo data: {e}")
         return None, None, None
 
-fipe_features_PCA, fipe_features, fipe_data = load_data()
+fipe_features_PCA, fipe_features, fipe_data, car_models_TSNE = load_data()
 
 # Calculating T-SNE
 @st.cache_data
