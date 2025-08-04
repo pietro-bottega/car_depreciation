@@ -1,4 +1,4 @@
-voimport streamlit as st
+import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
@@ -27,27 +27,6 @@ def load_data():
         return None, None, None
 
 fipe_features_PCA, fipe_features, fipe_data, car_models_TSNE = load_data()
-
-# Calculating T-SNE
-@st.cache_data
-def compute_tsne(data_pca):
-    """Calculates t-SNE coordinates"""
-    tsne = TSNE(
-        n_components=2,
-        verbose=0,
-        perplexity=40,
-        max_iter=1000,
-        learning_rate='auto',
-        random_state=42
-        )
-    tsne_results = tsne.fit_transform(data_pca)
-    return tsne_results
-
-if fipe_features_PCA is not None and fipe_features is not None:
-    tsne_results = compute_tsne(fipe_features_PCA)
-    fipe_features['tsne-2d-one'] = tsne_results[:,0]
-    fipe_features['tsne-2d-two'] = tsne_results[:,1]
-
 
 # Model training
 
@@ -104,18 +83,18 @@ def cars_finder(car_index: int):
 
     return final_view[['modelo','marca','distance','price']]
 
-def plot_tsne_chart(target_index, similar_indices):
-    """Creates and returns a plto with t-SNE."""
+def plot_tsne_chart_v2(target_index, similar_indices):
+    """Creates and returns a plot with t-SNE 2d."""
     fig, ax = plt.subplots(figsize=(12, 9))
 
     # Plotting all models
-    ax.scatter(fipe_features['tsne-2d-one'], fipe_features['tsne-2d-two'], c='lightgray', alpha=0.5, label='Other models')
+    ax.scatter(car_models_TSNE['0'], car_models_TSNE['1'], c='lightgray', alpha=0.5, label='Other models')
 
     # Highlight 5 similar models
-    ax.scatter(fipe_features.iloc[similar_indices]['tsne-2d-one'], fipe_features.iloc[similar_indices]['tsne-2d-two'], c='orange', s=60, label='Similar models')
+    ax.scatter(car_models_TSNE.iloc[similar_indices]['0'], car_models_TSNE.iloc[similar_indices]['1'], c='orange', s=60, label='Similar models')
 
     # Highlights model select
-    ax.scatter(fipe_features.iloc[target_index]['tsne-2d-one'], fipe_features.iloc[target_index]['tsne-2d-two'], c='red', s=120, label='Selected model')
+    ax.scatter(car_models_TSNE.iloc[target_index]['0'], car_models_TSNE.iloc[target_index]['1'], c='red', s=120, label='Selected model')
 
     ax.set_title("Car models 2D t-SNE components", fontsize=16)
     ax.set_xlabel("t-SNE Component 1")
@@ -125,6 +104,7 @@ def plot_tsne_chart(target_index, similar_indices):
     ax.set_yticks([])
 
     return fig
+
 
 # Create the Streamlit interface
 
@@ -172,7 +152,7 @@ else:
             st.subheader("Visualizing car models into a 2D space")
             with st.spinner("Plotting chart.."):
                 similar_indices = similar_models_df.index
-                tsne_fig = plot_tsne_chart(target_car_index, similar_indices)
+                tsne_fig = plot_tsne_chart_v2(target_car_index, similar_indices)
                 st.pyplot(tsne_fig)
 
         except Exception as e:

@@ -70,4 +70,26 @@ fipe_features_PCA = pd.read_csv("../data/output/fipe_features_PCA.csv")
 fipe_features = pd.read_csv("../data/output/fipe_features.csv")
 fipe_data = pd.read_csv("../data/output/fipe_data.csv")
 
+from sklearn.manifold import TSNE
+import matplotlib.pyplot as plt
+
+tsne_v2 = TSNE(
+    n_components=2,      # We want a 2D plot
+    perplexity=30,       # A good default value, relates to the number of nearest neighbors
+    n_iter=1000,         # Number of optimization iterations
+    random_state=42      # For reproducible results
+)
+X_tsne_v2 = tsne_v2.fit_transform(fipe_features_PCA)
+
+plt.style.use('seaborn-v0_8-whitegrid')
+plt.figure(figsize=(12, 8))
+plt.scatter(
+    x=X_tsne_v2[:, 0],
+    y=X_tsne_v2[:, 1])
+
+plt.title('t-SNE Visualization of Feature Space for KNN')
+plt.xlabel('t-SNE Dimension 1')
+plt.ylabel('t-SNE Dimension 2')
+plt.show()
+
 print("Created model and TSNE map")

@@ -36,7 +36,7 @@ def select_features(dataset: str) -> pd.DataFrame:
     fipe_features_encoded = pd.DataFrame(encoded_data, columns=encoder.get_feature_names_out(categorical_cols))
 
     # dealing with Non values in categorical columns
-    none_patterns = ['_None', '_Other']
+    none_patterns = ['_None', '_Other', '_nan']
 
     columns_to_drop = []
     for col in fipe_features_encoded.columns:
@@ -46,8 +46,7 @@ def select_features(dataset: str) -> pd.DataFrame:
     fipe_features_encoded = fipe_features_encoded.drop(columns=columns_to_drop)
 
     print("Categorical features OneHotEncoded..")
-
-
+    
     ##-----------------------
     ## Scale NUMERICAL features
     ##-----------------------
@@ -61,7 +60,6 @@ def select_features(dataset: str) -> pd.DataFrame:
     fipe_features_processed[numerical_features] = scaler.fit_transform(fipe_features_processed[numerical_features])
 
     print("Numerical features scaled..")
-
 
     #-----------------------
     # FEATURE SELECTION
@@ -81,6 +79,9 @@ def select_features(dataset: str) -> pd.DataFrame:
     print(f"Shape of data after VarianceThreshold: {X_selected_df.shape}")
     print(f"Selected features: {selected_feature_names}")
 
+    # Drop highly correlated columns
+    X_selected_df = X_selected_df.drop('engine_Diesel', axis=1)
+
     ##-----------------------
     ## Dimensionality Reduction with PCA
     ##-----------------------
@@ -97,7 +98,6 @@ def select_features(dataset: str) -> pd.DataFrame:
     print(f"{no_pc} PCs explain 95% of variance")
 
     return X_selected_pca_df
-
 
 fipe_features_PCA = select_features('../data/output/fipe_features.csv')
 fipe_features_PCA.to_csv("../data/output/fipe_features_PCA.csv")
