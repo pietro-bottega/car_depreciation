@@ -38,7 +38,8 @@ Modules performing main steps of analysis:
 2. `feature_selection.py`: selecting features via variance threshold and correlation, dimensionality reduction with PCA.
 3. `find_cars.py`: implementing similarity model via K-Nearest Neighboors.
 
-This [**interactive app**](https://cardepreciation.streamlit.app) can be used to explore results.
+> [!TIP]
+> This [**interactive app**](https://cardepreciation.streamlit.app) can be used to explore results.
 ---
 
 ## Tools and Technologies
@@ -86,4 +87,4 @@ PCA is a dimensionality reduction method used to transform a large set of variab
 t-SNE (t-distributed Stochastic Neighbor Embedding) is a statistical method for visualizing high-dimensional data by giving each datapoint a location in a two or three-dimensional map. It's particularly useful for revealing the underlying structure of the data, such as clusters. In this project, it was used to visually confirm that the feature space created by PCA effectively groups similar cars together, validating the model's ability to find meaningful similarities.
 
 #### t-SNE plot into 2 dimensions
-![t-SNE Plot](https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/assets/t-SNE_2d.png)
+![t-SNE Plot](https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/assets/t-SNE_2d_v2.png)
