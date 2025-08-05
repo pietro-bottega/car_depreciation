@@ -4,7 +4,7 @@ This project analyzes vehicle data to identify and suggest similar car models ba
 <br>
 
 > [!TIP]
-> This [**interactive app**](https://cardepreciation.streamlit.app) can be used to explore results.
+> This [**interactive app**](https://car-finder.streamlit.app) can be used to explore results.
 
 ---
 
