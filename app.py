@@ -18,7 +18,7 @@ def load_data():
 
     try:
         fipe_features_PCA = pd.read_csv(fipe_features_PCA_path, encoding='latin1')
-        fipe_features = pd.read_csv(fipe_features_path, encoding='latin1')
+        fipe_features = pd.read_csv(fipe_features_path, encoding='utf-8')
         fipe_data = pd.read_csv(fipe_data_path, encoding='latin1')
         car_models_TSNE = pd.read_csv(TSNE_path, encoding='latin1')
         return fipe_features_PCA, fipe_features, fipe_data, car_models_TSNE
@@ -151,7 +151,9 @@ else:
 
             st.subheader("Visualizing car models into a 2D space")
             with st.spinner("Plotting chart.."):
-                similar_indices = similar_models_df.index
+                similar_model_list = similar_models_df_rename['Model'].tolist()
+                similar_models_filter = fipe_features[fipe_features['modelo'].isin(similar_model_list)]
+                similar_indices = similar_models_filter.index
                 tsne_fig = plot_tsne_chart_v2(target_car_index, similar_indices)
                 st.pyplot(tsne_fig)
 
