@@ -1,20 +1,10 @@
-# Car Matching system
-
-## Overview
-
-This project aims to create a model to match similar cars from Brazil's market based on user input. It is based on Python, and uses as features information extracted from *Tabela FIPE*, a monthly survey of car prices in Brazil.
-
-## Dataset
-The data set is [*Tabela FIPE*:](https://veiculos.fipe.org.br), a national survey of monthly average car prices on resalle for end customers in Brazil.
-For data extraction, I leveraged the [fipe-crawler](https://github.com/rafaelgou/fipe-crawler/) created by @rafaelgou.
-
-
-
 # Similar Car Finder Project
 
 This project analyzes vehicle data to identify and suggest similar car models based on their technical and market features. The core of the project involves data processing, dimensionality reduction, and applying a nearest neighbors algorithm to find similarities.
 <br>
-[Explore results in the app.](https://cardepreciation.streamlit.app)
+
+> [!TIP]
+> This [**interactive app**](https://cardepreciation.streamlit.app) can be used to explore results.
 
 ---
 
@@ -38,8 +28,6 @@ Modules performing main steps of analysis:
 2. `feature_selection.py`: selecting features via variance threshold and correlation, dimensionality reduction with PCA.
 3. `find_cars.py`: implementing similarity model via K-Nearest Neighboors.
 
-> [!TIP]
-> This [**interactive app**](https://cardepreciation.streamlit.app) can be used to explore results.
 ---
 
 ## Tools and Technologies
