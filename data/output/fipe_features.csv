@@ -1,0 +1,2062 @@
+,modelo_id,modelo,marca,comb,version,engine,category,transmission_type,doors,hp,valves
+0,1,Integra GS 1.8,Acura,Gasolina,1.8,,,,,,
+1,4564,MARRUÁ AM 100 2.8  CS TDI Diesel,Agrale,Diesel,2.8,Diesel,,,,,
+2,4568,MARRUÁ AM 200 2.8 CS TDI Diesel,Agrale,Diesel,2.8,Diesel,,,,,
+4,27,Hi-Topic STD Diesel,Asia Motors,Diesel,,Diesel,,,,,
+5,6906,DB9 Coupe 6.0 V12 510cv,ASTON MARTIN,Gasolina,6.0,Other,Coupe,,,5,
+6,45,100 S-4 2.2 Avant Turbo,Audi,Gasolina,2.2,Turbo,MPV,,,,
+7,6200,A1 Sportback 1.4 TFSI 5p S-tronic,Audi,Gasolina,1.4,,Sport,,5,,
+9,55,A3 1.6 5p Aut.,Audi,Gasolina,1.6,,,Auto,5,,
+10,58,A3 1.8 5p Aut.,Audi,Gasolina,1.8,,,Auto,5,,
+12,64,A3 1.8 Turbo 3p Aut.,Audi,Gasolina,1.8,Turbo,,Auto,3,,
+13,8561,A3 Sedan Prestige 1.4 TFSI Flex Tip.,Audi,Gasolina,1.4,Flex,Sedan,,,,
+14,5125,A3 Sport 2.0 16V TFSI S- tronic,Audi,Gasolina,2.0,Other,Sport,,,,16
+15,71,A4 1.8 Avant Mec.,Audi,Gasolina,1.8,,MPV,Manual,,,
+17,75,A4 1.8 Turbo,Audi,Gasolina,1.8,Turbo,,,,,
+18,80,A4 2.4 30V Tip./Multitronic,Audi,Gasolina,2.4,,,,,,30
+19,87,A4 2.8 30V Mec.,Audi,Gasolina,2.8,,,Manual,,,30
+20,95,A4 3.0 30V 218cv Multitronic 4p,Audi,Gasolina,3.0,,,,4,2,30
+21,100,A6 2.4 30V Mec,Audi,Gasolina,2.4,,,Manual,,,30
+25,101,A6 2.4 30V Tip./Multitronic,Audi,Gasolina,2.4,,,,,,30
+30,102,A6 2.4 Avant 30V Mec.,Audi,Gasolina,2.4,,MPV,Manual,,,30
+33,103,A6 2.4 Avant 30V Tip./ Multitronic,Audi,Gasolina,2.4,,MPV,,,,30
+34,112,A6 2.8,Audi,Gasolina,2.8,,,,,,
+35,115,A6 2.8 Avant,Audi,Gasolina,2.8,,MPV,,,,
+36,6414,A6 3.0 TFSI V6 Quattro S tronic 4p,Audi,Gasolina,3.0,V6/V8,,,4,,
+37,6462,A6 Allroad 3.0 TFSI V6 Quattro S tronic,Audi,Gasolina,3.0,V6/V8,,,,,
+38,5549,A7 Sportback 3.0 TFSI Quattro S Tronic,Audi,Gasolina,3.0,,Sport,,,,
+40,6631,A8 4.0 TFSI Quattro Tiptronic,Audi,Gasolina,4.0,,,,,,
+41,6044,Q3 2.0 TFSI Quat. 170/180cv S-tronic 5p,Audi,Gasolina,2.0,,,,5,1,
+42,8230,Q3 Black Ed. 1.4 TFSI Flex/Black S-tron.,Audi,Gasolina,1.4,Flex,,,,,
+43,8036,Q5 Ambiente 2.0 TFSI Quattro S tronic,Audi,Gasolina,2.0,,,,,,
+44,10045,Q5 Perf. Black 2.0 TFSIe S.Tr. Qt (Hib.),Audi,Gasolina,2.0,,,,,,
+45,8773,Q5 S-Line 2.0 TFSI Quattro S-tronic,Audi,Gasolina,2.0,,,,,,
+47,9486,Q5 S-Line Black 2.0 TFSI Quat. S-Tronic,Audi,Gasolina,2.0,,,,,,
+50,5922,RS3 Sportback 2.5 TFSI Quattro S-tronic,Audi,Gasolina,2.5,,Sport,,,,
+51,6487,RS4 4.2 Avant 32V FSI Quattro S-tronic,Audi,Gasolina,4.2,,MPV,,,,32
+53,5410,RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p,Audi,Gasolina,4.2,V6/V8,,,2,4,
+55,10227,RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.),Audi,Gasolina,4.0,,MPV,,,,
+56,6769,S Q5 3.0 V6 TFSI 354cv Quattro Tiptronic,Audi,Gasolina,3.0,V6/V8,,,,3,
+57,139,S6 2.2 Avant 20V TB,Audi,Gasolina,2.2,,MPV,,,,20
+58,148,S8 4.2 Tiptronic,Audi,Gasolina,4.2,,,,,,
+59,151,TT Roadster 1.8 TB Quattro 225cv (Conv.),Audi,Gasolina,1.8,,,,,2,
+60,8275,Buggy 1.6/ TST/ RS 1.6 4-Lug.,Baby,Gasolina,1.6,,,,,,
+65,153,120iA 2.0 16V 150cv/ 156cv 5p,BMW,Gasolina,2.0,Other,,,5,1,16
+66,4199,130iA 3.0 24V 265cv 5p,BMW,Gasolina,3.0,,,,5,2,24
+67,5607,318iA 2.0 16V 136cv 5p,BMW,Gasolina,2.0,Other,,,5,1,16
+68,158,318iS/ISA 1.9 16V,BMW,Gasolina,1.9,Other,,,,,16
+73,159,318Ti Compact Mec,BMW,Gasolina,,,,Manual,,,
+77,160,318Ti/TiA Compact 1.9 16V,BMW,Gasolina,1.9,Other,,,,,16
+78,7256,320iA 2.0 TB M Sport A.Flex/M.Sport 4p,BMW,Gasolina,2.0,Flex,Sport,,4,,
+79,6091,320iA Modern/Sport TB 2.0/A.Flex/GP 4p,BMW,Gasolina,2.0,Flex,Sport,,4,,
+81,185,328i Touring/Sport,BMW,Gasolina,,,Sport,,,,
+84,188,328i/iA Cabrio,BMW,Gasolina,,,,,,,
+85,6633,328iA GT M Sport 2.0 Turbo 16V 245cv 5p,BMW,Gasolina,2.0,Turbo,Sport,,5,2,16
+86,6049,328iA Sport 2.0 16V/2.0 16V Flex 4p,BMW,Gasolina,2.0,Other,Sport,,4,,16
+87,191,330Ci Cabriolet,BMW,Gasolina,,,,,,,
+88,9956,330e M Sport 2.0 Turbo Aut. (Híbrido),BMW,Gasolina,2.0,Turbo,Sport,Auto,,,
+89,194,330iA MotorSport 4p,BMW,Gasolina,,,Sport,,4,,
+90,195,330iA Top 4p,BMW,Gasolina,,,,,4,,
+91,201,528iA Touring,BMW,Gasolina,,,,,,,
+92,7919,540i M Sport 3.0 Turbo 340cv Aut.,BMW,Gasolina,3.0,Turbo,Sport,Auto,,3,
+93,207,540iA,BMW,Gasolina,,,,,,,
+95,6378,640i Gran Coupe 3.0 320cv 4p,BMW,Gasolina,3.0,,Coupe,,4,3,
+96,6634,650i Gran Coupe 4.4 V8 450cv 4p,BMW,Gasolina,4.4,V6/V8,Coupe,,4,4,
+97,216,740i,BMW,Gasolina,,,,,,,
+98,221,750i,BMW,Gasolina,,,,,,,
+99,225,840Ci,BMW,Gasolina,,,,,,,
+100,11104,iX 2 xDrive 30 M Sport (Elétrico),BMW,Gasolina,,Electric,Sport,,,,
+102,9103,M2 Competition Ed. Espe. 3.0 Bi-TB Mec.,BMW,Gasolina,3.0,,,Manual,,,
+103,10825,M2 Coupe 3.0 Bi-Turbo 24V 3p,BMW,Gasolina,3.0,Turbo,Coupe,,3,,24
+104,7130,M3 Sedan 3.0 Bi-Turbo 24V 4p,BMW,Gasolina,3.0,Turbo,Sedan,,4,,24
+105,4823,M3 Sedan 4.0 32V,BMW,Gasolina,4.0,,Sedan,,,,32
+106,7116,M4 Coupe 3.0 Bi-Turbo 24V 431cv 2p,BMW,Gasolina,3.0,Turbo,Coupe,,2,4,24
+107,237,M5 5.0 32V/ 40V,BMW,Gasolina,5.0,,,,,,32
+108,8570,X1 SDRIVE 20i X-Line 2.0 TB Active Flex,BMW,Gasolina,2.0,Flex,,,,,
+110,9797,X3 M40i 3.0 Turbo V6  Aut.,BMW,Gasolina,3.0,Turbo,,Auto,,,
+111,6417,X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.,BMW,Gasolina,2.0,Flex,,Auto,,,
+113,4331,X5 Sport 4.8 4x4 V8 32V 355cv,BMW,Gasolina,4.8,V6/V8,Sport,,,3,32
+114,5356,X5 XDRIVE 35i 3.0 306cv Bi-Turbo,BMW,Gasolina,3.0,Turbo,,,,3,
+116,6911,X5 XDRIVE 35i Full 3.0 306cv Bi-Turbo,BMW,Gasolina,3.0,Turbo,,,,3,
+120,10079,X5 XDRIVE 45e 3.0 M.Sport  Aut. (Híb.),BMW,Gasolina,3.0,,Sport,Auto,,,
+121,5590,X5 XDRIVE 50i Security 4.4 Bi-Turbo,BMW,Gasolina,4.4,Turbo,,,,,
+122,249,Z3 Roadster 1.9 Mec.,BMW,Gasolina,1.9,,,Manual,,,
+123,251,Z4 Roadster 3.0 V6 24V Aut.,BMW,Gasolina,3.0,V6/V8,,Auto,,,24
+124,8689,Z4 Roadster sDRIVE 30i MSport 2.0 TB Aut,BMW,Gasolina,2.0,,Sport,Auto,,,
+125,255,Buggy W. Turing/Luxo/M-11 Absolut 1.6 8V,BRM,Gasolina,1.6,Other,,,,,8
+128,9860,Han EV  (Elétrico),BYD,Gasolina,,Electric,,,,,
+129,5021,Tiggo 2.0 16V Mec. 5p,Caoa Chery/Chery,Gasolina,2.0,Other,,Manual,5,,16
+131,9162,Tiggo 8 TXS 1.6 16V TGDi Aut.,Caoa Chery/Chery,Gasolina,1.6,Other,,Auto,,,16
+132,4396,Utility 1.0 8V 53cv  (Furgão),CHANA,Gasolina,1.0,Other,,,,5,8
+133,3881,300 C 5.7 V8 16V 340cv Aut.,Chrysler,Gasolina,5.7,V6/V8,,Auto,,3,16
+134,266,Grand Caravan SE 3.3 V6,Chrysler,Gasolina,3.3,V6/V8,,,,,
+135,271,LE Baron 3.0 V6 Conv.,Chrysler,Gasolina,3.0,V6/V8,,,,,
+136,273,Neon LE/Highline 2.0,Chrysler,Gasolina,2.0,,,,,,
+137,275,PT Cruiser Limited 2.0 16V 4p,Chrysler,Gasolina,2.0,Other,,,4,,16
+139,278,Stratus LE 2.0,Chrysler,Gasolina,2.0,,,,,,
+140,4623,TOWN & COUNTRY Limited 3.8 /3.6 V6 Aut.,Chrysler,Gasolina,3.8,V6/V8,,Auto,,,
+141,6420,AIRCROSS GLX ATACAMA 1.6 Flex 16V 5p Aut,Citroën,Gasolina,1.6,Flex,,Auto,5,,16
+143,6421,AIRCROSS GLX ATACAMA 1.6 Flex 16V 5p Mec,Citroën,Gasolina,1.6,Flex,,Manual,5,,16
+145,7422,AIRCROSS Live 1.5 Flex 8V 5p Mec.,Citroën,Gasolina,1.5,Flex,,Manual,5,,8
+147,7423,AIRCROSS Live 1.6 Flex 16V 5p Aut.,Citroën,Gasolina,1.6,Flex,,Auto,5,,16
+152,7962,AIRCROSS Live 1.6 Flex 16V 5p Mec.,Citroën,Gasolina,1.6,Flex,,Manual,5,,16
+153,7424,AIRCROSS Shine 1.6 Flex 16V 5p Aut.,Citroën,Gasolina,1.6,Flex,,Auto,5,,16
+154,289,C3 Exclus./Excl.Solaris 1.6 Flex 16V Mec,Citroën,Gasolina,1.6,Flex,,Manual,,,16
+155,4302,C3 XTR 1.4 Flex 8V 5p,Citroën,Gasolina,1.4,Flex,,,5,,8
+156,4397,C4 PAL.Excl/Excl(Tech.) 2.0/2.0 Flex Aut,Citroën,Gasolina,2.0,Flex,,Auto,,,
+157,304,Jumper 2.8 Furgão 35MH Diesel,Citroën,Diesel,2.8,Diesel,,,,,
+158,317,Xantia VSX 2.0,Citroën,Gasolina,2.0,,,,,,
+159,335,Xsara Exclusive 2.0 16V,Citroën,Gasolina,2.0,Other,,,,,16
+161,347,Xsara Picasso GLX 1.6/ 1.6 Flex 16V,Citroën,Gasolina,1.6,Flex,,,,,16
+162,356,ZX Volcane 3p e 5p,Citroën,Gasolina,,,,,3,,
+163,10627,Buggy SKY GT 1.6 Flex 16V Mec.,D2D Motors,Gasolina,1.6,Flex,,Manual,,,16
+164,371,Super Salon Ace,Daewoo,Gasolina,,,,,,,
+166,372,Tico,Daewoo,Gasolina,,,,,,,
+168,373,Applause 1.6 16V,Daihatsu,Gasolina,1.6,Other,,,,,16
+170,374,Applause DLX 1.6 16V,Daihatsu,Gasolina,1.6,Other,,,,,16
+172,375,Charade CX/TS 1.0,Daihatsu,Gasolina,1.0,,,,,,
+174,411,Engesa 4x4 2.5/4.1,Engesa,Gasolina,2.5,,,,,,
+175,432,456 GT,Ferrari,Gasolina,,,,,,,
+176,8200,CRONOS DRIVE 1.3 8V Flex,Fiat,Gasolina,1.3,Other,,,,,8
+177,450,Doblo ELX 1.6 16V 4/5p,Fiat,Gasolina,1.6,Other,,,5,,16
+178,5022,Ducato Cargo Curto 2.3 ME Diesel,Fiat,Diesel,2.3,Diesel,,,,,
+179,5028,Ducato Minibus 2.3 T.Alto ME Diesel,Fiat,Diesel,2.3,Diesel,,,,,
+180,459,Ducato Minibus 2.8 Turbo Diesel,Fiat,Diesel,2.8,Turbo,,,,,
+190,8397,Ducato Minibus Comfort 2.3 16v Diesel,Fiat,Diesel,2.3,Diesel,,,,,
+191,461,Ducato Mult/ Vetrato 2.8 T.Baixo TB Dies,Fiat,Diesel,2.8,,,,,,
+192,476,Fiorino Pick-Up 1.5 i.e./1.3/1.5/HD,Fiat,Álcool,1.5,,,,,,
+193,476,Fiorino Pick-Up 1.5 i.e./1.3/1.5/HD,Fiat,Gasolina,1.5,,,,,,
+194,506,Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p,Fiat,Gasolina,1.0,Flex,,,4,,
+195,5721,Palio ATTRACTIVE 1.0 EVO Fire Flex 8v 5p,Fiat,Gasolina,1.0,Flex,,,5,,
+196,517,Palio EL 1.5 mpi 2p e 4p,Fiat,Gasolina,1.5,,,,2,,
+197,519,Palio ELX 1.0/ 1.0 Fire Flex 8V 2p,Fiat,Álcool,1.0,Flex,,,2,,8
+198,4673,Palio Weekend Adventure LOCKER 1.8 Flex,Fiat,Gasolina,1.8,Flex,,,,,
+200,553,Palio Weekend ELX 1.5 mpi 4p,Fiat,Álcool,1.5,,,,4,,
+201,568,Premio CS 1.6/ 1.5/ 1.3 2p,Fiat,Gasolina,1.6,,,,2,,
+202,569,Premio CSL 1.6 i.e./ 1.5 4p,Fiat,Gasolina,1.6,,,,4,,
+203,9648,PULSE DRIVE 1.3 8V Flex Mec.,Fiat,Gasolina,1.3,Other,,Manual,,,8
+204,5273,Punto ATTRACTIVE 1.4 Fire Flex 8V 5p,Fiat,Gasolina,1.4,Flex,,,5,,8
+207,5883,Punto ATTRACTIVE ITALIA 1.4 F.Flex 8V 5p,Fiat,Gasolina,1.4,Flex,,,5,,8
+212,6560,Punto BLACKMOTION 1.8 Flex 16V 5p.,Fiat,Gasolina,1.8,Flex,,,5,,16
+216,5068,Strada Working 1.4 mpi Fire Flex 8V CS,Fiat,Gasolina,1.4,Flex,,,,,8
+217,616,Strada/ Strada Working 1.5 mpi 8V CE,Fiat,Gasolina,1.5,Other,,,,,8
+218,628,Tempra SX 2.0 i.e. 8V 4p,Fiat,Gasolina,2.0,Other,,,4,,8
+219,7479,Toro Volcano 2.0 16V 4x4 TB Diesel Aut.,Fiat,Diesel,2.0,Other,,Auto,,,16
+220,635,Uno 1.6R mpi / 1.6R / 1.5R,Fiat,Gasolina,,,,,,,
+222,638,Uno CS/Top/Sport 1.5 i.e. / 1.5 4p,Fiat,Álcool,1.5,,Sport,,4,,
+223,649,Uno Mille/ Mille EX/ Smart 2p,Fiat,Álcool,,,,,2,,
+225,5486,UNO WAY 1.4 EVO Fire Flex 8V 2p,Fiat,Gasolina,1.4,Flex,,,2,,8
+227,5244,UNO WAY 1.4 EVO Fire Flex 8V 5p,Fiat,Gasolina,1.4,Flex,,,5,,8
+233,5487,UNO WAY Celeb. 1.0 EVO Fire Flex 8V 2p,Fiat,Gasolina,1.0,Flex,,,2,,8
+234,5245,UNO WAY Celeb. 1.0 EVO Fire Flex 8V 5p,Fiat,Gasolina,1.0,Flex,,,5,,8
+237,4659,Buggy Plus 1.6 8V,Fibravan,Gasolina,1.6,Other,,,,,8
+239,680,EcoSport XL 1.6/ 1.6 Flex 8V 5p,Ford,Gasolina,1.6,Flex,Sport,,5,,8
+241,690,Escort GL 1.8i / 1.8,Ford,Gasolina,1.8,,,,,,
+242,695,Escort GLX 1.8i 8v,Ford,Álcool,,,,,,,
+243,699,Escort L 1.8i / 1.8,Ford,Gasolina,1.8,,,,,,
+244,705,Escort SW GL 1.6 MPI,Ford,Álcool,1.6,,,,,,
+245,714,Explorer XL 4x2 4.0 V6,Ford,Gasolina,4.0,V6/V8,,,,,
+246,727,F-1000 S. S. Diesel / S.S. Diesel Turbo,Ford,Diesel,,Diesel,,,,,
+247,728,F-1000 SR XK  Deserter Diesel,Ford,Diesel,,Diesel,,,,,
+248,737,F-1000 Tropical CD HSD 2.5/4.3 Diesel TB,Ford,Diesel,2.5,Diesel,Pickup,,,,
+252,739,F-1000 Tropical SL/ Van 4.9i,Ford,Gasolina,,,,,,,
+253,6032,F-250 Tropica./Tropmine Exec. 3.9 Diesel,Ford,Diesel,3.9,Diesel,,,,,
+254,4163,F-250 Tropiclassic 3.9 TB Diesel,Ford,Diesel,3.9,Diesel,,,,,
+255,761,F-250 XL 4.2 V6,Ford,Gasolina,4.2,V6/V8,,,,,
+256,766,F-250 XLT 3.9 4x2 Diesel TB,Ford,Diesel,3.9,Diesel,,,,,
+257,768,F-250 XLT 4.2 TB Diesel,Ford,Diesel,4.2,Diesel,,,,,
+258,772,Fiesta 1.6 8V Flex/Class 1.6 8V Flex 5p,Ford,Gasolina,1.6,Other,,,5,,8
+259,777,Fiesta CLX 1.3i 5p,Ford,Gasolina,,,,,5,,
+263,778,Fiesta CLX 1.4i 16V 3p e 5p,Ford,Gasolina,,Other,,,3,,16
+268,779,Fiesta GL 1.0 3p,Ford,Gasolina,1.0,,,,3,,
+270,804,Focus Sedan 1.6/1.6 Flex 8V/16V 4p Mec.,Ford,Gasolina,1.6,Flex,Sedan,Manual,4,,8
+271,807,Focus Sedan 2.0 16V/2.0 16V Flex 4p Aut.,Ford,Gasolina,2.0,Other,Sedan,Auto,4,,16
+272,5451,Focus TITA/TITA Plus 2.0  Flex 5p Aut.,Ford,Gasolina,2.0,Flex,,Auto,5,,
+273,10007,Fusion Titanium 2.0 145cv Aut. (Híbrido),Ford,Gasolina,2.0,,,Auto,,1,
+274,844,Pampa GL 1.6/ 1.8,Ford,Gasolina,1.6,,,,,,
+275,6525,Ranger TROPICAB 2.5 16V 4X2 Flex,Ford,Gasolina,2.5,Other,,,,,16
+276,6528,Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.,Ford,Diesel,3.2,,,Auto,,,20
+277,7688,Ranger XL 2.2 4x4 CD Diesel Mec.,Ford,Diesel,2.2,Diesel,Pickup,Manual,,,
+280,863,Ranger XL 2.3 16v 137cv 4x2 CD Repower.,Ford,Gasolina,2.3,,Pickup,,,1,
+283,3816,Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel,Ford,Diesel,3.0,Diesel,Pickup,,,1,
+284,8049,Ranger XLS 2.2 4x2 CD Diesel Mec.,Ford,Diesel,2.2,Diesel,Pickup,Manual,,,
+285,7590,Ranger XLS 2.2 4x4 CD Diesel Aut.,Ford,Diesel,2.2,Diesel,Pickup,Auto,,,
+294,6693,Ranger XLS 2.2 4x4 CD Diesel Mec.,Ford,Diesel,2.2,Diesel,Pickup,Manual,,,
+296,883,Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies.,Ford,Diesel,3.0,,Pickup,,,1,
+297,895,Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.,Ford,Diesel,3.0,,Pickup,,,1,
+298,899,Ranger XLT 4.0 4x2 CS,Ford,Gasolina,4.0,,,,,,
+299,970,Brasinca Blazer CD 4.1,GM - Chevrolet,Gasolina,4.1,,Pickup,,,,
+301,977,C-20 Custom Std. 4.1,GM - Chevrolet,Gasolina,4.1,,,,,,
+303,1002,Celta Spirit/ LT 1.0 MPFI 8V FlexP. 5p,GM - Chevrolet,Gasolina,1.0,Other,,,5,,8
+304,1010,Chevette L / SL / SL/e / DL / SE 1.6,GM - Chevrolet,Gasolina,1.6,,,,,,
+305,1011,Chevy 500 DL / SL / SE/ Furgão 1.6,GM - Chevrolet,Gasolina,1.6,,,,,,
+306,1016,Corsa GSi 16V,GM - Chevrolet,Gasolina,,Other,,,,,16
+307,1017,Corsa Hat. Joy 1.0/ 1.0 FlexPower 8V 5p,GM - Chevrolet,Gasolina,1.0,Flex,,,5,,8
+312,1018,Corsa Hat. Joy 1.8 MPFI 8V FlexPower 5p,GM - Chevrolet,Gasolina,1.8,Other,,,5,,8
+315,1019,Corsa Hat. Maxx 1.0/ 1.0 FlexPower 8V 5p,GM - Chevrolet,Gasolina,1.0,Flex,,,5,,8
+319,1031,Corsa Sed Class.Life 1.0/1.0 FlexPower,GM - Chevrolet,Gasolina,1.0,Flex,,,,,
+320,1047,Corsa Sedan GL 1.6  MPFI 4p,GM - Chevrolet,Gasolina,1.6,Other,Sedan,,4,,
+321,1078,Ipanema GL 1.8 MPFI / EFI /SL 4p,GM - Chevrolet,Álcool,1.8,Other,,,4,,
+322,1079,Ipanema GL/ Flair 2.0 MPFI / EFI 4p,GM - Chevrolet,Álcool,2.0,Other,,,4,,
+323,9211,ONIX HATCH RS 1.0 TB 12V Flex 5p Aut.,GM - Chevrolet,Gasolina,1.0,Other,,Auto,5,,12
+324,8825,ONIX SEDAN Plus LT 1.0 12V TB Flex Aut.,GM - Chevrolet,Gasolina,1.0,Other,,Auto,,,12
+325,1119,S10 Blazer 4.3 V6,GM - Chevrolet,Gasolina,4.3,V6/V8,,,,,
+326,6101,S10 Pick-Up LS 2.8 TDI 4x4 CD Dies. Mec.,GM - Chevrolet,Diesel,2.8,,Pickup,Manual,,,
+327,5891,S10 Pick-Up LT 2.8 TDI 4x2 CD Diesel Aut,GM - Chevrolet,Diesel,2.8,Diesel,Pickup,Auto,,,
+328,1157,S10 Pick-Up Luxe 4.3 V6 CE,GM - Chevrolet,Gasolina,4.3,V6/V8,,,,,
+329,7098,SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.,GM - Chevrolet,Gasolina,1.8,Other,,Auto,5,,8
+330,6105,SPIN LTZ 1.8 8V Econo.Flex 5p Aut.,GM - Chevrolet,Gasolina,1.8,Other,,Auto,5,,8
+332,9046,TRACKER LT 1.0 Turbo 12V Flex Aut.,GM - Chevrolet,Gasolina,1.0,Turbo,,Auto,,,12
+333,1210,Trafic Furgao Carga 2.2,GM - Chevrolet,Gasolina,2.2,,,,,,
+334,3820,Vectra Elegan. 2.0 MPFI 8V FlexPower Aut,GM - Chevrolet,Gasolina,2.0,Other,,Auto,,,8
+335,1227,Veraneio S/ Luxe 4.0 Dies./TB Dies.,GM - Chevrolet,Diesel,4.0,,,,,,
+336,4771,Towner Furgão 1.0 8V 48cv 5p,HAFEI,Gasolina,1.0,Other,,,5,4,8
+337,9436,e.co Tech2 6kW (Elétrico),HITECH ELECTRIC,Gasolina,,Electric,,,,,
+338,9438,e.co Truck 10kW (Elétrico),HITECH ELECTRIC,Gasolina,,Electric,,,,,
+339,1243,Accord Sedan EX 2.7/3.0 24V,Honda,Gasolina,2.7,,Sedan,,,,24
+340,4011,Civic Sedan LXS 1.8/1.8 Flex 16V Mec. 4p,Honda,Gasolina,1.8,Flex,Sedan,Manual,4,,16
+341,1274,Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.,Honda,Gasolina,1.5,Flex,,Manual,5,,16
+342,4799,Fit EXL 1.5 Flex/Flexone 16V 5p Aut,Honda,Gasolina,1.5,Flex,,Auto,5,,16
+343,1276,Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.,Honda,Gasolina,1.4,Flex,,Manual,5,,8
+344,1286,Accent GLS 1.5 12V/16V Aut.,Hyundai,Gasolina,1.5,Other,,Auto,,,12
+345,7829,Creta Attitude 1.6 16V Flex Mec.,Hyundai,Gasolina,1.6,Other,,Manual,,,16
+346,6206,HB20 C.Style/C.Plus 1.6 Flex 16V Aut.,Hyundai,Gasolina,1.6,Flex,,Auto,,,16
+347,8854,HB20 Sense 1.0 Flex 12V Mec.,Hyundai,Gasolina,1.0,Flex,,Manual,,,12
+348,11020,HB20 Sense Plus 1.0 Flex 12V Mec.,Hyundai,Gasolina,1.0,Flex,,Manual,,,12
+349,6434,HB20S C.Plus/C.Style1.0 Flex 12V Mec. 4P,Hyundai,Gasolina,,Flex,,Manual,,,12
+350,6437,HB20S Premium 1.6 Flex 16V Aut. 4p,Hyundai,Gasolina,1.6,Flex,,Auto,4,,16
+351,6354,HB20X Style 1.6 Flex 16V Aut.,Hyundai,Gasolina,1.6,Flex,,Auto,,,16
+352,1344,Tucson 2.0 16V Aut.,Hyundai,Gasolina,2.0,Other,,Auto,,,16
+353,8052,Tucson Limited 1.6 Turbo 16V Aut.,Hyundai,Gasolina,1.6,Turbo,,Auto,,,16
+354,9719,e-JS1 Extreme 62cv 5p Aut. (Elétrico),JAC,Gasolina,,Electric,,Auto,5,6,
+355,10138,E-JV5.5 Aut. (Elétrico),JAC,Gasolina,,Other,,Auto,,,
+357,11184,E-JV7L Aut. (Elétrico),JAC,Gasolina,,Other,,Auto,,,
+360,11225,HUNTER HD 4X4 2.0 CTI Diesel Aut.,JAC,Diesel,2.0,Diesel,,Auto,,,
+362,8989,iEV 20 68cv 5p Aut. (Elétrico),JAC,Gasolina,,Electric,,Auto,5,6,
+365,8956,iEV 330P CD 150cv Aut. (Elétrico),JAC,Gasolina,,Electric,Pickup,Auto,,1,
+371,9664,iEV 350T 150cv Aut. (Elétrico),JAC,Gasolina,,Electric,,Auto,,1,
+373,8694,iEV 40 115cv 5p. (Elétrico),JAC,Gasolina,,Electric,,,5,1,
+376,11192,iEV 750V 163cv 4p Aut. (Elétrico),JAC,Gasolina,,Electric,,Auto,4,1,
+377,6272,J2 1.4 16V 5p Mec.,JAC,Gasolina,1.4,Other,,Manual,5,,16
+380,7100,J2 1.4 JET Flex 16V 5p Mec,JAC,Gasolina,1.4,Flex,,Manual,5,,16
+382,5498,J3 1.4 16V 5p Mec.,JAC,Gasolina,1.4,Other,,Manual,5,,16
+388,9283,T40 PLUS 1.5 JET Flex 16V 5p Mec.,JAC,Gasolina,1.5,Flex,,Manual,5,,16
+390,4437,XKR Conversível 4.2/5.0 32V,Jaguar,Gasolina,4.2,,,,,,32
+391,1370,X-Type SE 3.0 V6 231cv,Jaguar,Gasolina,3.0,V6/V8,,,,2,
+393,9303,Grand Cherokee Limited 4.7 Aut.,Jeep,Gasolina,4.7,,,Auto,,,
+395,7187,Renegade Longitude 2.0 4x4 TB Diesel Aut,Jeep,Diesel,2.0,Diesel,,Auto,,,
+396,7191,Renegade Trailhawk 2.0 4x4 TB Diesel Aut,Jeep,Diesel,2.0,Diesel,,Auto,,,
+397,1384,Wrangler 4.0/Sport 4.0,Jeep,Gasolina,4.0,,Sport,,,,
+398,5897,Wrangler Sport 3.6 V6 284cv 2p,Jeep,Gasolina,3.6,V6/V8,Sport,,2,2,
+399,4852,TOPIC ESCOLAR SL 2.2 8V/ 2.0 16V 4p,JINBEI,Gasolina,2.2,Other,,,4,,8
+401,1389,Picape Montez 1.9 4x4 Diesel,JPX,Diesel,1.9,Diesel,Pickup,,,,
+402,1393,Besta Furgão 2.7 Diesel,Kia Motors,Diesel,2.7,Diesel,,,,,
+404,1397,Besta GS Grand 3.0 8V 16L Diesel,Kia Motors,Diesel,3.0,Other,,,,,8
+405,1400,Bongo K-2700 2.7 4x2/4x4 Diesel,Kia Motors,Diesel,2.7,Diesel,,,,,
+407,1402,Bongo K-3500/K-3600/110 3.6 Diesel,Kia Motors,Diesel,3.6,Diesel,,,,,
+408,11099,Carnival EX 3.5 V6 24V 276/272cv Aut.,Kia Motors,Gasolina,3.5,V6/V8,,Auto,,2,24
+409,4999,MOHAVE EX 4.6 V8 32V 340cv 4x4 Aut.,Kia Motors,Gasolina,4.6,V6/V8,,Auto,,3,32
+413,10104,Niro EX 1.6 GDI  (Híbrido),Kia Motors,Gasolina,1.6,Other,,,,,
+416,10105,Niro SX Prestige 1.6 GDI (Híbrido),Kia Motors,Gasolina,1.6,Other,,,,,
+419,10928,Niro SX Rio Limited Edt 1.6 GDI  (Híb.),Kia Motors,Gasolina,1.6,Other,,,,,
+421,1412,Opirus GL 3.5 V6 24V 202cv Aut.,Kia Motors,Gasolina,3.5,V6/V8,,Auto,,2,24
+422,4141,Picanto EX 1.1/1.0/ 1.0 Flex Aut.,Kia Motors,Gasolina,1.1,Flex,,Auto,,,
+424,1413,Sephia GTX 1.5 16V,Kia Motors,Gasolina,1.5,Other,,,,,16
+425,5252,Sorento 3.5 V6 24V 4x4 Aut.,Kia Motors,Gasolina,3.5,V6/V8,,Auto,,,24
+426,4293,Sorento EX 3.8 V6 24V 267cv 4x4 Aut.,Kia Motors,Gasolina,3.8,V6/V8,,Auto,,2,24
+427,1424,Sportage 2.0 16V Aut.,Kia Motors,Gasolina,2.0,Other,Sport,Auto,,,16
+428,1426,Sportage DLX 2.0 16V Aut.,Kia Motors,Gasolina,2.0,Other,Sport,Auto,,,16
+429,5418,Sportage EX 2.0 16V/ 2.0 16V Flex Aut.,Kia Motors,Gasolina,2.0,Other,Sport,Auto,,,16
+431,1432,Sportage Grand 2.0 8V TB-IC Diesel,Kia Motors,Diesel,2.0,Other,Sport,,,,8
+433,1438,Laika SW 5p,Lada,Gasolina,,,,,5,,
+434,1456,Defender 90 TDI Hard Top Diesel,Land Rover,Diesel,,Diesel,,,,,
+435,1458,Discovery ES 3.9 V8,Land Rover,Gasolina,3.9,V6/V8,,,,,
+436,10000,Discovery Sp. SE R-Dyn 2.0 TB Die.(Híb.),Land Rover,Diesel,2.0,,,,,,
+437,7457,Discovery Sport HSE L. 2.2 4x4 Die. Aut.,Land Rover,Diesel,2.2,,Sport,Auto,,,
+438,7193,Discovery Sport HSE Lux. 2.0 4x4 /Flex,Land Rover,Gasolina,2.0,Flex,Sport,,,,
+439,1462,Discovery TDI 2.5 Diesel,Land Rover,Diesel,2.5,Diesel,,,,,
+440,5142,Discovery4 HSE 3.0 4x4 TDV6/SDV6 Die.Aut,Land Rover,Diesel,3.0,V6/V8,,Auto,,,
+441,5131,Discovery4 S 2.7 4x4 TDV6 Diesel Aut.,Land Rover,Diesel,2.7,V6/V8,,Auto,,,
+442,5109,Discovery4 SE 2.7 4x4 TDV6 Diesel Aut.,Land Rover,Diesel,2.7,V6/V8,,Auto,,,
+443,3823,Freelander HSE3 2.5 V6 24V 177cv 3p,Land Rover,Gasolina,2.5,V6/V8,,,3,1,24
+444,4304,Freelander2 I6 S 3.2 232cv Aut. 5p,Land Rover,Gasolina,3.2,,,Auto,5,2,
+445,10112,Range R. VEL. R-Dyn HSE 3.0 Aut.(Híb.),Land Rover,Gasolina,3.0,,,Auto,,,
+448,8090,Range R. VEL. R-Dyn. 2.0 4x4 250cv Aut.,Land Rover,Gasolina,2.0,,,Auto,,2,
+449,8479,Range R. VEL. R-Dyn. 2.0 4x4 300cv Aut.,Land Rover,Gasolina,2.0,,,Auto,,3,
+450,10407,Range R. VEL. R-Dyn. HSE 2.0 Aut. (Híb.),Land Rover,Gasolina,2.0,,,Auto,,,
+451,10408,Range R. VEL. R-Dyn. S 2.0 Aut.(Híbrido),Land Rover,Gasolina,2.0,,,Auto,,,
+453,10409,Range R. VEL. R-Dyn. SE 3.0 Aut. (Híb.),Land Rover,Gasolina,3.0,,,Auto,,,
+455,5707,Range R.EVOQUE Dynamic Tech 2.0 Aut 3p,Land Rover,Gasolina,2.0,,,Auto,3,,
+456,5702,Range R.EVOQUE Dynamic Tech 2.0 Aut 5p,Land Rover,Gasolina,2.0,,,Auto,5,,
+458,8214,Range R.EVOQUE HSE Dyna. 2.0 Dies. Aut.,Land Rover,Diesel,2.0,,,Auto,,,
+459,6697,Range R.EVOQUE ONE SICILIAN 2.0 Aut. 5p,Land Rover,Gasolina,2.0,,,Auto,5,,
+460,5703,Range R.EVOQUE Prestige 2.0 Aut. 5p,Land Rover,Gasolina,2.0,,,Auto,5,,
+461,5705,Range R.EVOQUE Pure  2.0 Aut. 5p,Land Rover,Gasolina,2.0,,,Auto,5,,
+462,7375,Range R.EVOQUE Si4 SE 2.0 Aut.5p/Flex,Land Rover,Gasolina,2.0,Flex,,Auto,5,,
+463,7396,Range R.Sport HSE Dynamic 4.4 SDV8 Dies.,Land Rover,Diesel,4.4,V6/V8,Sport,,,,
+465,4385,Range Rover Sport 3.6 TDV8 272cv Diesel,Land Rover,Diesel,3.6,V6/V8,Sport,,,2,
+467,5132,Range Rover Sport HSE SUPERCHAR. 5.0 V8,Land Rover,Gasolina,5.0,V6/V8,Sport,,,,
+468,9992,CT200h  1.8 16V Aut. (Híbrido),Lexus,Gasolina,1.8,Other,,Auto,,,16
+469,4306,LS 460 4.6 32V 347cv,Lexus,Gasolina,4.6,,,,,3,32
+470,10029,NX-300h Dynamic 2.5 16V Aut. (Híbrido),Lexus,Gasolina,2.5,Other,,Auto,,,16
+471,6299,RX-350 F-Sport 3.5 24V Aut.,Lexus,Gasolina,3.5,,Sport,Auto,,,24
+472,10074,UX-250h Luxury 2.0 16V Aut. (Híbrido),Lexus,Gasolina,2.0,Other,Luxury,Auto,,,16
+473,6838,PIK-UP CD 2.2 4X2 (diesel) Mec.,Mahindra,Diesel,2.2,,Pickup,Manual,,,
+474,7074,Gran Turismo Sport 4.7 V8 32V 460cv,Maserati,Gasolina,4.7,V6/V8,Sport,,,4,32
+475,6178,GranTurismo MC Stradale 4.7 V8 32V 450cv,Maserati,Gasolina,4.7,V6/V8,,,,4,32
+476,1493,Quattroporte Executive 4.2 32V 400cv,Maserati,Gasolina,4.2,,,,,4,32
+477,1518,MPV Minivan Aut,Mazda,Gasolina,,,MPV,Auto,,,
+478,1523,Protegé Aut.,Mazda,Gasolina,,,,Auto,,,
+479,1699,Airtrek 2.4 16V 163cv/ 136cv 4x4 5p Aut.,Mitsubishi,Gasolina,2.4,Other,,Auto,5,1,16
+480,8969,Eclipse Cross HPE 1.5 16V 165cv Aut.,Mitsubishi,Gasolina,1.5,Other,,Auto,,1,16
+487,8503,Eclipse Cross HPE-S 1.5 16V 165cv Aut.,Mitsubishi,Gasolina,1.5,Other,,Auto,,1,16
+494,1704,Eclipse GST 2.0 16V Turbo,Mitsubishi,Gasolina,2.0,Other,,,,,16
+496,1715,L200 2.5 4x2 Turbo Diesel,Mitsubishi,Diesel,2.5,Turbo,,,,,
+497,4122,L200 OUTDOOR GLS 2.5 4X4 CD TDI Diesel,Mitsubishi,Diesel,2.5,Diesel,Pickup,,,,
+498,5936,L200 Triton GLS 3.2 CD TB Int.Diesel Mec,Mitsubishi,Diesel,3.2,Diesel,Pickup,Manual,,,
+499,4979,Pajero DAKAR 3.2 4x4 T.I. Dies. 5p Aut.,Mitsubishi,Diesel,3.2,,,Auto,5,,
+500,1746,Pajero GLS 3.0 V6 4p Aut.,Mitsubishi,Gasolina,3.0,V6/V8,,Auto,4,,
+501,1757,Pajero GLX 2.8 Diesel 4p Mec,Mitsubishi,Diesel,2.8,Diesel,,Manual,4,,
+502,7199,Pajero HPE 3.2 4x4 T.I. Dies. 5p Aut.,Mitsubishi,Diesel,3.2,,,Auto,5,,
+503,4803,Pajero HPE Full 3.2 4x4 T.I.Dies. 5p Aut,Mitsubishi,Diesel,3.2,,,Auto,5,,
+509,4334,Pajero HPE Full 3.8 V6 250cv 3p Aut.,Mitsubishi,Gasolina,3.8,V6/V8,,Auto,3,2,
+512,1761,Pajero iO Aut.,Mitsubishi,Gasolina,,,,Auto,,,
+513,1765,Pajero Sport 2.8 4x4 Diesel Aut.,Mitsubishi,Diesel,2.8,Diesel,Sport,Auto,,,
+514,1766,Pajero Sport 2.8 4x4 Diesel Mec.,Mitsubishi,Diesel,2.8,Diesel,Sport,Manual,,,
+515,1771,Pajero Sport SE/ HPE 3.0 4x4 177cv Aut.,Mitsubishi,Gasolina,3.0,,Sport,Auto,,1,
+516,1773,Pajero TR4 2.0/ 2.0 Flex 16V 4x4 Mec.,Mitsubishi,Gasolina,2.0,Flex,,Manual,,,16
+518,1779,Space Wagon/ GLXi 2.4,Mitsubishi,Gasolina,2.4,,Wagon,,,,
+519,2206,Band.Jipe Cap.de Aço Chas. Curto Diesel,Toyota,Diesel,,Diesel,,,,,
+521,2208,Band.Jipe Capota de Lona Diesel,Toyota,Diesel,,Diesel,,,,,
+523,2212,Band.Picape Chassi Longo Diesel,Toyota,Diesel,,Diesel,Pickup,,,,
+534,2213,Camry LE,Toyota,Gasolina,,,,,,,
+538,9326,Corolla Cross XRE 2.0 16V Flex Aut.,Toyota,Gasolina,2.0,Other,,Auto,,,16
+539,2227,Corolla SW LE 1.8/ XLi 1.6 16V,Toyota,Gasolina,1.8,Other,,,,,16
+540,2233,Corolla XLi 1.8/1.8 Flex 16V Aut.,Toyota,Gasolina,1.8,Flex,,Auto,,,16
+542,6247,ETIOS X Sedan 1.5 Flex 16V 4p Mec.,Toyota,Gasolina,1.5,Flex,Sedan,Manual,4,,16
+543,2241,Hilux CD 4x4 2.8 Diesel Mec.,Toyota,Diesel,2.8,Diesel,Pickup,Manual,,,
+546,2243,Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.,Toyota,Diesel,2.5,Other,Pickup,,,1,16
+547,8554,Hilux CD GR-S 4x4 2.8 TDI Dies. Aut.,Toyota,Diesel,2.8,,Pickup,Auto,,,
+549,5081,Hilux CD SR 4x2 2.7 16V/2.7 Flex Aut.,Toyota,Gasolina,2.7,Other,Pickup,Auto,,,16
+550,7405,Hilux CD SR 4x4 2.8 TDI Diesel Aut.,Toyota,Diesel,2.8,Diesel,Pickup,Auto,,,
+551,2259,Hilux CD SRV D4-D 4x4 3.0 TDI Diesel Aut,Toyota,Diesel,3.0,Diesel,Pickup,Auto,,,
+552,2262,Hilux CS D4-D 4x2 2.5 16V 102cv TB Dies.,Toyota,Diesel,2.5,Other,,,,1,16
+553,2276,Hilux SW4 4x4 3.0 24V V6,Toyota,Gasolina,3.0,V6/V8,,,,,24
+554,4906,Hilux SW4 SR 4x2 2.7/ 2.7 Flex 16V Aut.,Toyota,Gasolina,2.7,Flex,,Auto,,,16
+556,3830,Hilux SW4 SRV D4-D 4x4 3.0 TDI Dies. Aut,Toyota,Diesel,3.0,,,Auto,,,
+557,8362,YARIS XL Sedan 1.5 Flex 16V 4p Aut.,Toyota,Gasolina,1.5,Flex,Sedan,Auto,4,,16
+558,8942,YARIS X-WAY Connect 1.5 Flex 16V 5p Aut.,Toyota,Gasolina,1.5,Flex,,Auto,5,,16
+0,40,Towner SDX / DLX/ STD,Asia Motors,Gasolina,,,,,,,
+1,42,Towner Truck,Asia Motors,Gasolina,,,,,,,
+2,69,A4 1.8  Mec.,Audi,Gasolina,1.8,,,Manual,,,
+3,88,A4 2.8 Avant V6 12V,Audi,Gasolina,2.8,V6/V8,MPV,,,,12
+4,7255,Q3 1.4 TFSI/TFSI Flex S-tronic 5p,Audi,Gasolina,1.4,Flex,,,5,,
+5,8584,Q5 Prestige 2.0 TFSI Quattro S tronic,Audi,Gasolina,2.0,,,,,,
+6,5128,TTS 2.0 TFSI QUATTRO S Tronic,Audi,Gasolina,2.0,,,,,,
+7,8946,118i Sport 1.5 TB 12V Aut. 5p,BMW,Gasolina,1.5,Other,Sport,Auto,5,,12
+9,232,M3 3.2 24V,BMW,Gasolina,3.2,,,,,,24
+12,4394,Cargo CE 1.0 8V 53cv (Pick-Up),CHANA,Gasolina,1.0,Other,,,,5,8
+13,9528,Roma 3.9 V8 620cv,Ferrari,Gasolina,3.9,V6/V8,,,,6,
+14,5105,Doblo  Cargo 1.4 mpi Fire Flex 8V 3p,Fiat,Gasolina,1.4,Flex,,,3,,8
+15,5340,Idea ATTRACTIVE 1.4 Fire Flex 8V 5p,Fiat,Gasolina,1.4,Flex,,,5,,8
+16,519,Palio ELX 1.0/ 1.0 Fire Flex 8V 2p,Fiat,Gasolina,1.0,Flex,,,2,,8
+20,5293,Palio ESSENCE 1.6 Flex 16V 5p,Fiat,Gasolina,1.6,Flex,,,5,,16
+21,5272,Palio Week. ATTRACTIVE 1.4 Fire Flex 8V,Fiat,Gasolina,1.4,Flex,,,,,8
+22,6096,Strada Working Celeb.1.4 Fire Flex 8V CD,Fiat,Gasolina,1.4,Flex,Pickup,,,,8
+23,647,Uno Mille 1.0/ i.e./Electronic/Brio 2p,Fiat,Gasolina,1.0,,,,2,,
+24,649,Uno Mille/ Mille EX/ Smart 2p,Fiat,Gasolina,,,,,2,,
+25,670,Courier XL/XL-RS 1.6/ XL 1.6 Flex,Ford,Gasolina,1.6,Flex,,,,,
+27,4257,EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut.,Ford,Gasolina,2.0,Flex,Sport,Auto,5,,16
+28,717,Explorer XLT 4x4 4.0 V6,Ford,Gasolina,4.0,V6/V8,,,,,
+29,724,F-1000 CD/Blazer 3.9 Dies.,Ford,Diesel,3.9,,Pickup,,,,
+31,4136,Fiesta Sedan 1.0 8V Flex 4p,Ford,Gasolina,1.0,Other,Sedan,,4,,8
+32,798,Focus 2.0 16V/ 2.0 16V Flex 5p,Ford,Gasolina,2.0,Other,,,5,,16
+35,845,Pampa L 1.6,Ford,Álcool,1.6,,,,,,
+36,845,Pampa L 1.6,Ford,Gasolina,1.6,,,,,,
+37,875,Ranger XLS 2.3 16V 145cv/150cv 4x2 CD,Ford,Gasolina,2.3,Other,Pickup,,,1,16
+38,930,A-20 Custom/ C-20 S 4.1,GM - Chevrolet,Gasolina,4.1,,,,,,
+40,9629,Astra Sedan GL 1.8 MPFI 4p,GM - Chevrolet,Gasolina,1.8,Other,Sedan,,4,,
+41,975,C-20 Custom De Luxe 4.1,GM - Chevrolet,Gasolina,4.1,,,,,,
+42,976,C-20 Custom De Luxe CD 4.1,GM - Chevrolet,Gasolina,4.1,,Pickup,,,,
+43,988,Caravan L/SL/S/SS 2.5/4.1/4.2,GM - Chevrolet,Gasolina,2.5,,,,,,
+44,1026,Corsa Pick-Up GL/ Champ 1.6 MPFI / EFI,GM - Chevrolet,Gasolina,1.6,Other,,,,,
+45,1080,Ipanema GLS/SLE 2.0EFI /SL/e1.8/Sol/Wave,GM - Chevrolet,Gasolina,,,,,,,
+46,1088,Lumina,GM - Chevrolet,Gasolina,,,,,,,
+47,1096,MONTANA  Sport 1.8 MPFI FlexPower 8V,GM - Chevrolet,Gasolina,1.8,Other,Sport,,,,8
+48,1105,Monza GLS/ Hi-Tech 2.0 EFI 2p e 4p,GM - Chevrolet,Gasolina,2.0,,,,2,,
+49,4849,PRISMA Sed. Joy/ LS 1.0 8V FlexPower 4p,GM - Chevrolet,Gasolina,1.0,Other,,,4,,8
+50,1128,S10 Blazer Executive 2.8 4x4 TDI Diesel,GM - Chevrolet,Diesel,2.8,Diesel,,,,,
+52,1143,S10 P-Up Colina 2.8 TDI 4x2/4x4 CS Dies.,GM - Chevrolet,Diesel,2.8,,,,,,
+53,6490,SPIN LS 1.8 8V Econo.Flex 5p Mec.,GM - Chevrolet,Gasolina,1.8,Other,,Manual,5,,8
+54,6104,SPIN LT 1.8 8V Econo.Flex 5p Mec.,GM - Chevrolet,Gasolina,1.8,Other,,Manual,5,,8
+55,1198,Suburban 5.7/6.5 V8/5.3 V8,GM - Chevrolet,Gasolina,5.7,V6/V8,,,,,
+57,1236,Zafira Elite 2.0 MPFI FlexPower 8V  Aut,GM - Chevrolet,Gasolina,2.0,Other,,Auto,,,8
+58,1242,Accord Sedan EX 2.4/2.3/ 2.2 16V,Honda,Gasolina,2.4,Other,Sedan,,,,16
+59,1244,Accord Sedan EXR,Honda,Gasolina,,,Sedan,,,,
+60,10815,Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.,Honda,Gasolina,1.5,Flex,,Auto,5,,16
+62,1277,Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Aut.,Honda,Gasolina,1.4,Flex,,Auto,5,,8
+64,1335,Sonata GL 2.0 4p,Hyundai,Gasolina,2.0,,,,4,,
+65,1443,Defender 110 2.5 HCPU TDi CS Diesel,Land Rover,Diesel,2.5,Diesel,,,,,
+66,1454,Defender 90 Soft Top Diesel,Land Rover,Diesel,,Diesel,,,,,
+67,1472,Range Rover HSE 4.4/ 4.6,Land Rover,Gasolina,4.4,,,,,,
+68,6783,Range Rover Vogue 3.0 TDV6 Diesel Aut.,Land Rover,Diesel,3.0,V6/V8,,Auto,,,
+3,20,Spider 2.0/3.0,Alfa Romeo,Gasolina,2.0,,,,,,
+4,26,Hi-Topic SLX/SDX/DLX Full Diesel,Asia Motors,Diesel,,Diesel,,,,,
+5,31,Topic Luxo Diesel,Asia Motors,Diesel,,Diesel,,,,,
+8,32,Topic Super Luxo Diesel,Asia Motors,Diesel,,Diesel,,,,,
+12,33,Towner Coach Full,Asia Motors,Gasolina,,,,,,,
+16,34,Towner Furgão,Asia Motors,Gasolina,,,,,,,
+17,49,80 2.6/2.8 Avant,Audi,Gasolina,2.6,,MPV,,,,
+18,61,A3 1.8 Turbo 180cv 3p Mec.,Audi,Gasolina,1.8,Turbo,,Manual,3,1,
+19,66,A3 1.8 Turbo 5p Aut.,Audi,Gasolina,1.8,Turbo,,Auto,5,,
+20,67,A3 1.8 Turbo 5p Mec.,Audi,Gasolina,1.8,Turbo,,Manual,5,,
+21,9964,A3 Sportb. Perf. Black 2.0 S-tron.(Híb.),Audi,Gasolina,2.0,,Sport,,,,
+22,68,A4 1.8  Aut.,Audi,Gasolina,1.8,,,Auto,,,
+24,7656,A4 Attraction 2.0 TFSI 190cv S tronic,Audi,Gasolina,2.0,,,,,1,
+25,110,A6 2.7 Avant Quattro Tiptronic,Audi,Gasolina,2.7,,MPV,,,,
+27,11135,Q3 Perf. Black.Plus 2.0 TFSI Tip. Quat.,Audi,Gasolina,2.0,,,,,,
+30,9871,Q3 Performance 2.0 TFSI Tiptr. Quattro,Audi,Gasolina,2.0,,,,,,
+35,8568,Q3 Prest. 1.4 TFSI Flex/Prest. S-tronic,Audi,Gasolina,1.4,Flex,,,,,
+40,5550,R8 Spyder 5.2 Quattro R-tronic/S-tronic,Audi,Gasolina,5.2,,,,,,
+41,133,S3 1.8 225cv Turbo Quattro,Audi,Gasolina,1.8,Turbo,,,,2,
+42,4330,TT 2.0 16v TFSI S-Tronic,Audi,Gasolina,2.0,,,,,,
+44,6258,TTRS 2.5 TFSI QUATTRO S Tronic,Audi,Gasolina,2.5,,,,,,
+45,5129,TTS Roadster 2.0 TB FSI Quattro S Tronic,Audi,Gasolina,2.0,,,,,,
+53,5923,118iA/ Urban/Sport 1.6 TB 16V 170cv 5p,BMW,Gasolina,1.6,Other,Sport,,5,1,16
+55,6377,125i M Sport/Active Flex 2.0 TB Aut. 5p,BMW,Gasolina,2.0,Flex,Sport,Auto,5,,
+56,154,316 (todas),BMW,Gasolina,,,,,,,
+57,162,320iA,BMW,Gasolina,,,,,,,
+59,181,325iA,BMW,Gasolina,,,,,,,
+62,183,325iA Coupé 2.5 24V 2p,BMW,Gasolina,2.5,,,,2,,24
+64,8630,330i M Sport 2.0 TB 16V 4p,BMW,Gasolina,2.0,Other,Sport,,4,,16
+66,193,330i MotorSport 3.0 24V 4p,BMW,Gasolina,3.0,,Sport,,4,,24
+69,8688,330i Sport 2.0 TB 16V 4p,BMW,Gasolina,2.0,Other,Sport,,4,,16
+71,3956,330iA Exclusive 3.0 24V 4p,BMW,Gasolina,3.0,,,,4,,24
+74,222,750iA,BMW,Gasolina,,,,,,,
+76,11199,Yuan Pro (Elétrico),BYD,Gasolina,,Electric,,,,,
+77,9561,Stark Mountaim 2.3 AWD TDI Diesel 3p,CAB Motors,Diesel,2.3,Diesel,,,3,,
+80,9562,Stark Superação 2.3 AWD 2.3 TDI Die. 3p,CAB Motors,Diesel,2.3,,,,3,,
+81,258,Deville/Eldorado 4.9,Cadillac,Gasolina,4.9,,,,,,
+86,259,Seville 4.6,Cadillac,Gasolina,4.6,,,,,,
+88,4392,Cargo 1.0 8V 53cv (Pick-Up),CHANA,Gasolina,1.0,Other,,,,5,8
+89,268,Grand Caravan Limited 3.3 V6 12V 182cv,Chrysler,Gasolina,3.3,V6/V8,,,,1,12
+90,6152,C3 Excl. 1.6 VTi Flex Start 16V 5p Aut.,Citroën,Gasolina,1.6,Flex,,Auto,5,,16
+91,297,C5 Exclusive Break 2.0 16V Aut.,Citroën,Gasolina,2.0,Other,,Auto,,,16
+92,8883,Jumper 2.0 Minibus 16L Turbo Diesel,Citroën,Diesel,2.0,Turbo,,,,,
+96,5103,Jumper 2.3 15/16Lug. TB Diesel,Citroën,Diesel,2.3,Diesel,,,,,
+104,5140,Jumper 2.3 Furgão TB Diesel,Citroën,Diesel,2.3,Diesel,,,,,
+106,345,Xsara Picasso Exclusive 2.0 16V Aut.,Citroën,Gasolina,2.0,Other,,Auto,,,16
+107,4639,ULC PICAPE 1.0 8V 2p,EFFA,Gasolina,1.0,Other,,,2,,8
+108,7345,V22 Pick-up CD 1.3 16V 4p,EFFA,Gasolina,1.3,Other,Pickup,,4,,16
+110,413,Camper 2.5/GL/GLS/Master 4.1,Envemo,Gasolina,2.5,,,,,,
+111,418,348 Spider 3.4,Ferrari,Gasolina,3.4,,,,,,
+112,424,355 GTS Spider,Ferrari,Gasolina,,,,,,,
+113,3932,612 Scaglietti F1 V12 540cv,Ferrari,Gasolina,,Other,,,,5,
+114,7968,ARGO HGT 1.8 16V Flex Aut.,Fiat,Gasolina,1.8,Other,,Auto,,,16
+118,7969,ARGO HGT 1.8 16V Flex Mec.,Fiat,Gasolina,1.8,Other,,Manual,,,16
+120,7971,ARGO PRECISION 1.8 16V Flex Aut.,Fiat,Gasolina,1.8,Other,,Auto,,,16
+123,7970,ARGO PRECISION 1.8 16V Flex Mec.,Fiat,Gasolina,1.8,Other,,Manual,,,16
+125,8690,ARGO TREKKING 1.3 8V Flex,Fiat,Gasolina,1.3,Other,,,,,8
+126,453,Ducato Cargo 2.8 Curto/Longo TB Diesel,Fiat,Diesel,2.8,Diesel,,,,,
+127,5027,Ducato Minibus 2.3 ME Diesel,Fiat,Diesel,2.3,Diesel,,,,,
+129,469,Elba CS 1.6 / 1.5 /1.3,Fiat,Gasolina,1.6,,,,,,
+130,472,Fiorino Furgão 1.0,Fiat,Gasolina,1.0,,,,,,
+131,5926,Grand Siena ESSENCE 1.6 Flex 16V,Fiat,Gasolina,1.6,Flex,,,,,16
+132,5927,Grand Siena ESSENCE Dual. 1.6 Flex 16V,Fiat,Gasolina,1.6,Flex,,,,,16
+133,5341,Idea ESSENCE 1.6 Flex 16V 5p,Fiat,Gasolina,1.6,Flex,,,5,,16
+134,503,Marea Weekend Turbo 2.0 20V 4p,Fiat,Gasolina,2.0,Turbo,,,4,,20
+135,505,Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 2p,Fiat,Gasolina,1.0,Flex,,,2,,
+136,517,Palio EL 1.5 mpi 2p e 4p,Fiat,Álcool,1.5,,,,2,,
+137,518,Palio EL 1.6 spi 2p e 4p,Fiat,Gasolina,1.6,,,,2,,
+139,518,Palio EL 1.6 spi 2p e 4p,Fiat,Álcool,1.6,,,,2,,
+142,521,Palio ELX 1.0 Fire/30 Anos F. Flex 8V 4p,Fiat,Gasolina,1.0,Flex,,,4,,8
+151,5619,Palio Week. Adv. Dualogic 1.8 Flex,Fiat,Gasolina,1.8,Flex,,,,,
+153,5295,Punto ESSENCE 1.6 Flex 16V 5p,Fiat,Gasolina,1.6,Flex,,,5,,16
+154,4424,Punto Sporting 1.8 Flex 8V/16V 5p,Fiat,Gasolina,1.8,Flex,Sport,,5,,8
+155,583,Siena ELX 1.0 mpi Fire/Fire Flex 8V 4p,Fiat,Gasolina,1.0,Flex,,,4,,8
+156,594,Siena HLX 1.8 mpi Flex 8V 4p,Fiat,Gasolina,1.8,Flex,,,4,,8
+157,4733,Strada Adventure 1.8/ 1.8 LOCKER Flex CE,Fiat,Gasolina,1.8,Flex,,,,,
+158,9111,Strada Freedom 1.3 Flex 8V CD,Fiat,Gasolina,1.3,Flex,Pickup,,,,8
+159,3885,Strada Trekking 1.4 mpi Fire Flex 8V CS,Fiat,Gasolina,1.4,Flex,,,,,8
+160,611,Strada Trekking 1.8 mpi Flex 8V CS,Fiat,Gasolina,1.8,Flex,,,,,8
+161,5066,Strada Working 1.4 mpi Fire Flex 8V CD,Fiat,Gasolina,1.4,Flex,Pickup,,,,8
+162,6098,Strada Working Celeb.1.4 Fire Flex 8V CS,Fiat,Gasolina,1.4,Flex,,,,,8
+163,618,Tempra 2.0 i.e 16V 2p e 4p,Fiat,Gasolina,2.0,Other,,,2,,16
+164,8046,Toro Blackjack 2.4 16V flex Aut,Fiat,Gasolina,2.4,Other,,Auto,,,16
+166,9493,Toro Endurance 1.3 T270 4x2 Flex Aut.,Fiat,Gasolina,1.3,Flex,,Auto,,,
+171,8236,Toro Endurance 1.8 16V Flex Aut.,Fiat,Gasolina,1.8,Other,,Auto,,,16
+175,8741,Toro Endurance 1.8 16V Flex Mec.,Fiat,Gasolina,1.8,Other,,Manual,,,16
+176,5666,UNO ECONOMY Celeb. 1.4 EVO F. Flex 8V 2p,Fiat,Gasolina,1.4,Flex,,,2,,8
+177,642,Uno Furgão 1.5/ 1.3,Fiat,Gasolina,1.5,,,,,,
+178,645,Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 4p,Fiat,Gasolina,1.0,Flex,,,4,,
+181,652,Uno Mille/ Mille EX/ Smart 4p,Fiat,Álcool,,,,,4,,
+186,4660,Buggy Vip 1.6 8V Total Flex,Fibravan,Gasolina,1.6,Other,,,,,8
+188,4134,Courier Van 1.6/ 1.6 Flex 8V (Carga),Ford,Gasolina,1.6,Flex,,,,,8
+189,677,Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p,Ford,Gasolina,1.6,,,,2,,
+191,6157,EcoSport FREESTYLE 1.6 16V Flex 5p,Ford,Gasolina,1.6,Other,Sport,,5,,16
+192,687,Escort Ghia 2.0i / 2.0,Ford,Gasolina,2.0,,,,,,
+193,691,Escort GL 1.8i 16V 3p,Ford,Gasolina,,Other,,,3,,16
+194,716,Explorer XLT 4x2 4.0 V6,Ford,Gasolina,4.0,V6/V8,,,,,
+195,722,F-100 Super Série 2.3,Ford,Gasolina,2.3,,,,,,
+196,723,F-1000 CD/Blazer 3.6,Ford,Gasolina,3.6,,Pickup,,,,
+197,723,F-1000 CD/Blazer 3.6,Ford,Álcool,3.6,,Pickup,,,,
+211,731,F-1000 Super CE 4.9i / 3.6,Ford,Gasolina,3.6,,,,,,
+213,756,F-250 Tropical 4.2 CE / CD Diesel TB,Ford,Diesel,4.2,Diesel,Pickup,,,,
+214,785,Fiesta Sed. 1.6 8V Flex 4p,Ford,Gasolina,1.6,Other,,,4,,8
+215,6431,Fiesta TIT./TIT.Plus 1.6 16V Flex Aut.,Ford,Gasolina,1.6,Other,,Auto,,,16
+218,799,Focus 2.0 16V/SE/SE Plus Flex 5p Aut.,Ford,Gasolina,2.0,Other,,Auto,5,,16
+220,800,Focus Ghia  2.0 16V/ 2.0 16V Flex 5p Aut,Ford,Gasolina,2.0,Other,,Auto,5,,16
+222,809,Furglaine 3.9 Diesel,Ford,Diesel,3.9,Diesel,,,,,
+223,812,Ibiza Chat./Exec. 3.9 Diesel,Ford,Diesel,3.9,Diesel,,,,,
+224,6915,Ka 1.0 SE/SE Plus TiVCT Flex 5p,Ford,Gasolina,1.0,Flex,,,5,,
+225,829,Mondeo CLX 2.0i SW Mec,Ford,Gasolina,,,,Manual,,,
+229,830,Mondeo Ghia 2.0 16V 143cv 4p Aut,Ford,Gasolina,2.0,Other,,Auto,4,1,16
+235,831,Mondeo Ghia 2.0 16V 143cv 4p Mec,Ford,Gasolina,2.0,Other,,Manual,4,1,16
+237,841,Mustang GT V8 Conversível,Ford,Gasolina,,V6/V8,,,,,
+239,9354,Mustang MACH 1 5.0 V8,Ford,Gasolina,5.0,V6/V8,,,,,
+240,843,Pampa Ghia 1.6/1.8/DUO,Ford,Gasolina,1.6,,,,,,
+242,846,Pampa L 1.8i / 1.8,Ford,Gasolina,1.8,,,,,,
+246,6527,Ranger TROPIVAN 2.5 16V 4X2 Flex,Ford,Gasolina,2.5,Other,,,,,16
+247,3814,Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel,Ford,Diesel,3.0,Diesel,Pickup,,,1,
+249,3815,Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel,Ford,Diesel,3.0,Diesel,,,,1,
+252,3817,Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel,Ford,Diesel,3.0,Diesel,,,,1,
+253,6165,Ranger XLS 2.5 16V 4x2 CD Flex,Ford,Gasolina,2.5,Other,Pickup,,,,16
+254,881,Ranger XLS 3.0 PSE 163cv 4x2 CD TB Dies.,Ford,Diesel,3.0,,Pickup,,,1,
+255,882,Ranger XLS 3.0 PSE 163cv 4x2 CS TB Dies.,Ford,Diesel,3.0,,,,,1,
+256,6562,Ranger XLS 3.2 20V 4x4 CD Diesel Aut.,Ford,Diesel,3.2,Diesel,Pickup,Auto,,,20
+257,6167,Ranger XLS 3.2 20V 4x4 CD Diesel Mec.,Ford,Diesel,3.2,Diesel,Pickup,Manual,,,20
+258,886,Ranger XLT 2.5 4x2 CE Diesel,Ford,Diesel,2.5,Diesel,,,,,
+260,889,Ranger XLT 2.5 4x4 CE TB Diesel,Ford,Diesel,2.5,Diesel,,,,,
+261,891,Ranger XLT 2.8 8v 135cv 4x2 CD TB Diesel,Ford,Diesel,2.8,Diesel,Pickup,,,1,
+262,906,Royale GL 2.0/2.0i 2p e 4p,Ford,Gasolina,2.0,,,,2,,
+263,10639,TRANSIT Minibus 15 Lug. 2.0 16V Die Aut.,Ford,Diesel,2.0,Other,,Auto,,,16
+264,9650,TRANSIT Minibus 15 Lug. 2.0 16V Diesel,Ford,Diesel,2.0,Other,,,,,16
+265,922,Versailles GL 1.8i / 1.8 2p e 4p,Ford,Gasolina,1.8,,,,2,,
+266,927,A-10 De Luxe 2.5/4.1,GM - Chevrolet,Gasolina,2.5,,,,,,
+267,5070,AGILE LTZ 1.4 MPFI 8V FlexPower 5p,GM - Chevrolet,Gasolina,1.4,Other,,,5,,8
+268,6638,AGILE LTZ EFFECT 1.4 8V FlexPower 5p Mec,GM - Chevrolet,Gasolina,1.4,Other,,Manual,5,,8
+269,934,Astra 2.0/ CD/ GLS 2.0 MPFI 16V 3p,GM - Chevrolet,Gasolina,2.0,Other,Pickup,,3,,16
+273,935,Astra 2.0/ CD/ Sunny/ GLS 2.0 8V 3p,GM - Chevrolet,Gasolina,2.0,Other,Pickup,,3,,8
+279,936,Astra 500 Sedan 2.0 MPFI 16V 4p,GM - Chevrolet,Gasolina,2.0,Other,Sedan,,4,,16
+280,4137,Astra Advant. 2.0 MPFI 8V FlexP. 5p Aut.,GM - Chevrolet,Gasolina,2.0,Other,,Auto,5,,8
+282,963,Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p,GM - Chevrolet,Gasolina,2.0,,Sport,,5,,
+285,978,C-20 Custom Std. CD 4.1,GM - Chevrolet,Gasolina,4.1,,Pickup,,,,
+286,996,Celta Life/ LS 1.0 MPFI 8V FlexPower 5p,GM - Chevrolet,Gasolina,1.0,Other,,,5,,8
+287,5725,COBALT LTZ 1.4 8V FlexPower/EconoFlex 4p,GM - Chevrolet,Gasolina,1.4,Other,,,4,,8
+288,1014,Corsa GL 1.6 MPFI / 1.4 EFI 2p e 4p,GM - Chevrolet,Gasolina,1.6,Other,,,2,,
+290,1028,Corsa Pick-Up STD/ Rodeio 1.6 MPFI,GM - Chevrolet,Gasolina,1.6,Other,,,,,
+291,1035,Corsa Sed Class.Super 1.0/1.0 FlexPower,GM - Chevrolet,Álcool,1.0,Flex,,,,,
+293,1066,Corsa Wind 1.6 MPFi 4p,GM - Chevrolet,Gasolina,1.6,,,,4,,
+294,7619,CRUZE LTZ 1.4 16V Turbo Flex 4p Aut.,GM - Chevrolet,Gasolina,1.4,Other,,Auto,4,,16
+295,1076,D-20 S / El Caminho 3.9/4.0 CD T.Dies,GM - Chevrolet,Diesel,3.9,,Pickup,,,,
+297,11294,EQUINOX ACTIV 1.5 Turbo 177cv Aut.,GM - Chevrolet,Gasolina,1.5,Turbo,,Auto,,1,
+299,11261,EQUINOX EV 292cv (Elétrico),GM - Chevrolet,Gasolina,,Electric,,,,2,
+301,9081,EQUINOX LT 1.5 Turbo 172cv Aut.,GM - Chevrolet,Gasolina,1.5,Turbo,,Auto,,1,
+302,8150,EQUINOX LT 2.0 Turbo 262cv Aut.,GM - Chevrolet,Gasolina,2.0,Turbo,,Auto,,2,
+304,9082,EQUINOX Midnight 1.5 Turbo 172cv Aut.,GM - Chevrolet,Gasolina,1.5,Turbo,,Auto,,1,
+305,9135,EQUINOX Premier 1.5 Turbo 172cv Aut.,GM - Chevrolet,Gasolina,1.5,Turbo,,Auto,,1,
+309,1079,Ipanema GL/ Flair 2.0 MPFI / EFI 4p,GM - Chevrolet,Gasolina,2.0,Other,,,4,,
+310,1082,Kadett GL/SL/Lite/Turim 1.8,GM - Chevrolet,Álcool,1.8,,,,,,
+311,1083,Kadett GLS 1.8 EFI / SL/e 1.8,GM - Chevrolet,Gasolina,1.8,,,,,,
+312,5416,MONTANA LS 1.4 ECONOFLEX 8V 2p,GM - Chevrolet,Gasolina,1.4,Other,,,2,,8
+314,1106,Monza SL/e SR 2.0,GM - Chevrolet,Gasolina,2.0,,,,,,
+315,1112,Omega GLS 2.2 / 2.0,GM - Chevrolet,Gasolina,2.2,,,,,,
+316,8891,ONIX HATCH LT 1.0 12V TB Flex 5p Mec.,GM - Chevrolet,Gasolina,1.0,Other,,Manual,5,,12
+317,6531,ONIX HATCH LTZ 1.4 8V FlexPower 5p Aut.,GM - Chevrolet,Gasolina,1.4,Other,,Auto,5,,8
+318,6234,ONIX HATCH LTZ 1.4 8V FlexPower 5p Mec.,GM - Chevrolet,Gasolina,1.4,Other,,Manual,5,,8
+319,8824,ONIX SEDAN Plus 1.0 12V TB Flex Aut.,GM - Chevrolet,Gasolina,1.0,Other,,Auto,,,12
+320,8950,ONIX SEDAN Plus LT 1.0 12V Flex 4p Mec.,GM - Chevrolet,Gasolina,1.0,Other,,Manual,4,,12
+323,1115,Opala Diplomata/Diplom. SLE 4.1/2.5,GM - Chevrolet,Gasolina,4.1,,,,,,
+325,4189,PRISMA Sed. Joy 1.4 8V ECONOFLEX 4p,GM - Chevrolet,Gasolina,1.4,Other,,,4,,8
+326,6351,PRISMA Sed. LTZ 1.4 8V FlexPower 4p,GM - Chevrolet,Gasolina,1.4,Other,,,4,,8
+327,1121,S10 Blazer Colina 2.4/2.4 MPFI F.Power,GM - Chevrolet,Gasolina,2.4,Other,,,,,
+328,1126,S10 Blazer DLX 2.8 4x4 TB Interc. Diesel,GM - Chevrolet,Diesel,2.8,Diesel,,,,,
+329,1129,S10 Blazer Executive 4.3 V6,GM - Chevrolet,Gasolina,4.3,V6/V8,,,,,
+330,5887,S10 Pick-Up LS 2.8 TDI 4x4 CS Diesel,GM - Chevrolet,Diesel,2.8,Diesel,,,,,
+333,7955,S10 Pick-Up LTZ 2.5 Flex 4x2 CD Aut.,GM - Chevrolet,Gasolina,2.5,Flex,Pickup,Auto,,,
+334,5895,S10 Pick-Up LTZ 2.8 TDI 4x2 CD Dies.Aut,GM - Chevrolet,Diesel,2.8,,Pickup,Auto,,,
+335,1165,S10 P-Up Advant. 2.4/2.4 MPFI F.Power CD,GM - Chevrolet,Gasolina,2.4,Other,Pickup,,,,
+337,4675,S10 P-Up Advantage 2.4 MPFI F.Power CS,GM - Chevrolet,Gasolina,2.4,Other,,,,,
+341,1142,S10 P-Up Colina 2.4 MPFI 128cv CD 4p,GM - Chevrolet,Gasolina,2.4,Other,Pickup,,4,1,
+343,1141,S10 P-Up Colina 2.4/2.4 MPFI F.Power CS,GM - Chevrolet,Gasolina,2.4,Other,,,,,
+348,1169,S10 P-Up Lx/Sert/Rod 2.8 4x4 CD TDI Dies,GM - Chevrolet,Diesel,2.8,,Pickup,,,,
+349,1191,Silverado Tropical CD 4.2 Diesel,GM - Chevrolet,Diesel,4.2,Diesel,Pickup,,,,
+350,8450,SPIN ACTIV7 1.8 8V Econo.Flex 5p Aut.,GM - Chevrolet,Gasolina,1.8,Other,,Auto,5,,8
+351,6103,SPIN LT 1.8 8V Econo.Flex 5p Aut.,GM - Chevrolet,Gasolina,1.8,Other,,Auto,5,,8
+353,9213,TRACKER LTZ 1.0 Turbo 12V Flex Aut.,GM - Chevrolet,Gasolina,1.0,Turbo,,Auto,,,12
+354,9048,TRACKER Premier 1.2 Turbo 12V Flex Aut.,GM - Chevrolet,Gasolina,1.2,Turbo,,Auto,,,12
+355,1224,Vectra GLS/Expres.2.2/ 2.0 e 2.0 CD 8V,GM - Chevrolet,Gasolina,2.2,Other,Pickup,,,,8
+356,4435,Vectra GT-X 2.0 MPFI 8V FlexPower Aut.,GM - Chevrolet,Gasolina,2.0,Other,,Auto,,,8
+357,4436,Vectra GT-X 2.0 MPFI 8V FlexPower Mec.,GM - Chevrolet,Gasolina,2.0,Other,,Manual,,,8
+358,1228,Zafira 2.0/ CD 2.0  8V  MPFI 5p Mec.,GM - Chevrolet,Gasolina,2.0,Other,Pickup,Manual,5,,8
+359,1232,Zafira Eleg.2.0 MPFI FlexPower 8V 5p Aut,GM - Chevrolet,Gasolina,2.0,Other,,Auto,5,,8
+360,1240,Carajas/Tocantis/Xavante/Vip,Gurgel,Gasolina,,,,,,,
+361,4641,Accord Sedan EX 3.5 V6 24V,Honda,Gasolina,3.5,V6/V8,Sedan,,,,24
+362,4973,CITY Sedan EXL 1.5 Flex  16V 4p Aut.,Honda,Gasolina,1.5,Flex,Sedan,Auto,4,,16
+364,1256,Civic Hatch VTi,Honda,Gasolina,,,Hatchback,,,,
+365,1258,Civic Sedan EX 1.6 16V Aut. 4p (nacion.),Honda,Gasolina,1.6,Other,Sedan,Auto,4,,16
+369,1259,Civic Sedan EX 1.6 16V Mec. 4p (nacion.),Honda,Gasolina,1.6,Other,Sedan,Manual,4,,16
+373,1260,Civic Sedan EX 1.7 16V 130cv Aut. 4p,Honda,Gasolina,1.7,Other,Sedan,Auto,4,1,16
+378,1257,Civic Sedan LX 1.5/1.6,Honda,Gasolina,1.5,,Sedan,,,,
+380,1275,Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.,Honda,Gasolina,1.4,Flex,,Auto,5,,8
+381,1322,H100 GLS Diesel,Hyundai,Diesel,,Diesel,,,,,
+382,8953,HB20X Evolution 1.6 Flex 16V Aut.,Hyundai,Gasolina,1.6,Flex,,Auto,,,16
+385,6352,HB20X Premium 1.6 Flex 16V Aut.,Hyundai,Gasolina,1.6,Flex,,Auto,,,16
+392,6353,HB20X Premium 1.6 Flex 16V Mec.,Hyundai,Gasolina,1.6,Flex,,Manual,,,16
+394,5931,ix35 GLS 2.0 16V 2WD Flex Aut.,Hyundai,Gasolina,2.0,Other,,Auto,,,16
+0,16,164 3.0 V6,Alfa Romeo,Gasolina,3.0,V6/V8,,,,,
+1,30,Topic Carga 2.7 Diesel (furgão),Asia Motors,Diesel,2.7,Diesel,,,,,
+2,35,Towner Glass Van,Asia Motors,Gasolina,,,,,,,
+4,56,A3 1.8 3p,Audi,Gasolina,1.8,,,,3,,
+6,63,A3 1.8 Turbo 180cv 5p Mec.,Audi,Gasolina,1.8,Turbo,,Manual,5,1,
+8,73,A4 1.8 Avant Turbo Tip./ Multitronic,Audi,Gasolina,1.8,Turbo,MPV,,,,
+22,116,A6 2.8 Avant 30V Mec.,Audi,Gasolina,2.8,,MPV,Manual,,,30
+23,5127,S3 Sportback 2.0 TFSI Quattro S Tronic,Audi,Gasolina,2.0,,Sport,,,,
+33,6090,320iA 2.0 Turbo/ActiveFlex 16V/GP  4p,BMW,Gasolina,2.0,Turbo,,,4,,16
+41,6609,320iA GT Sport 2.0 Turbo 16V 184cv 5p,BMW,Gasolina,2.0,Turbo,Sport,,5,1,16
+48,206,540i/iA Touring,BMW,Gasolina,,,,,,,
+50,224,760iL 6.0 V12 445cv/544cv,BMW,Gasolina,6.0,Other,,,,4,
+51,9864,iX XDrive 50 Sport Aut. (Elétrico),BMW,Gasolina,,Electric,Sport,Auto,,,
+52,7449,X1 XDRIVE 25i Sport 2.0/2.0 Flex Aut.,BMW,Gasolina,2.0,Flex,Sport,Auto,,,
+53,241,X3 Sport 3.0 24V 231cv,BMW,Gasolina,3.0,,Sport,,,2,24
+54,10078,X3 XDRIVE 30e X-Line Turbo Aut. (Híb.),BMW,Gasolina,,Turbo,,Auto,,,
+55,242,X5 3.0 4x4,BMW,Gasolina,3.0,,,,,,
+56,7117,X5 XDRIVE M50d 3.0 Diesel,BMW,Diesel,3.0,Diesel,,,,,
+58,10114,Tiggo 7 Pro Max Drive 1.6 Turbo 16V Aut.,Caoa Chery,Gasolina,1.6,Turbo,,Auto,,,16
+59,6379,Celer Hatch 1.5 16V Flex 5p,Caoa Chery/Chery,Gasolina,1.5,Other,Hatchback,,5,,16
+60,260,Javali 3.0 4x4 Diesel,CBT Jipe,Diesel,3.0,Diesel,,,,,
+61,262,Caravan LE  3.3,Chrysler,Gasolina,3.3,,,,,,
+62,267,Grand Caravan LE 3.3 Aut,Chrysler,Gasolina,3.3,,,Auto,,,
+65,6154,C3 Origine 1.5 Flex 8V 5p Mec.,Citroën,Gasolina,1.5,Flex,,Manual,5,,8
+66,8467,C4 CACTUS FEEL 1.6 16V Flex Mec.,Citroën,Gasolina,1.6,Other,,Manual,,,16
+67,9586,C4 CACTUS FEEL Bus. 1.6 Flex Aut.,Citroën,Gasolina,1.6,Flex,,Auto,,,
+72,8469,C4 CACTUS FEEL Pack 1.6 16V Flex Aut.,Citroën,Gasolina,1.6,Other,,Auto,,,16
+79,4845,C4 Excl.2.0/2.0 Solaris Flex 16V 5p Aut.,Citroën,Gasolina,2.0,Flex,,Auto,5,,16
+80,295,C5 Exclusive 2.0 16V 4p Aut.,Citroën,Gasolina,2.0,Other,,Auto,4,,16
+83,8342,Jumpy 1.6 Minibus Turbo Diesel,Citroën,Diesel,1.6,Turbo,,,,,
+84,319,XM Exclusive 12v,Citroën,Gasolina,,,,,,,
+86,352,ZX Cupê 16V,Citroën,Gasolina,,Other,,,,,16
+87,10626,Buggy SKY 1.6 Flex 16V Mec.,D2D Motors,Gasolina,1.6,Flex,,Manual,,,16
+88,7344,V21 Pick-up CS 1.3 16V 2p,EFFA,Gasolina,1.3,Other,,,2,,16
+90,422,355 GTS,Ferrari,Gasolina,,,,,,,
+95,423,355 GTS F1,Ferrari,Gasolina,,,,,,,
+105,5025,Ducato Maxi. Curta 2.3 T.Alto ME Diesel,Fiat,Diesel,2.3,Diesel,,,,,
+109,477,Fiorino Pick-Up LX (todas),Fiat,Gasolina,,,,,,,
+111,4160,Idea Advent./ Adv.LOCKER 1.8 mpi Flex 5p,Fiat,Gasolina,1.8,Flex,,,5,,
+112,485,Marea ELX 2.4 mpi 20V 4p,Fiat,Gasolina,2.4,,,,4,,20
+115,486,Marea HLX 2.0 20V 4p,Fiat,Gasolina,2.0,,,,4,,20
+118,487,Marea HLX 2.4 mpi 20V 4p Aut.,Fiat,Gasolina,2.4,,,Auto,4,,20
+125,4825,Palio 1.0 Celebr. ECONOMY F.Flex 8V 2p,Fiat,Gasolina,1.0,Flex,,,2,,8
+126,515,Palio EDX 1.0 mpi 2p,Fiat,Gasolina,1.0,,,,2,,
+127,5294,Palio ESSENCE Dualogic 1.6 Flex 16V 5p,Fiat,Gasolina,1.6,Flex,,,5,,16
+128,547,Palio Week. Adv/Adv TRYON 1.8 mpi Flex,Fiat,Gasolina,1.8,Flex,,,,,
+130,571,Premio S 1.5 i.e./ 1.5 / 1.3,Fiat,Gasolina,1.5,,,,,,
+131,4860,Siena EL 1.0 mpi Fire Flex 8V 4p,Fiat,Gasolina,1.0,Flex,,,4,,8
+134,603,Strada 1.4 mpi Fire Flex 8V CS,Fiat,Gasolina,1.4,Flex,,,,,8
+141,7450,Strada Adv. Ext. 1.8 LOCKER Dual.Flex CE,Fiat,Gasolina,1.8,Flex,,,,,
+142,7451,Strada Adv. Ext./ Ext.1.8 LOCKER Flex CE,Fiat,Gasolina,1.8,Flex,,,,,
+144,7452,Strada Adv. Extreme 1.8 Dual. Flex CE,Fiat,Gasolina,1.8,Flex,,,,,
+147,7135,Strada Working HARD 1.4 Fire Flex 8V CE,Fiat,Gasolina,1.4,Flex,,,,,8
+149,616,Strada/ Strada Working 1.5 mpi 8V CE,Fiat,Álcool,1.5,Other,,,,,8
+150,623,Tempra Ouro 16V 2p e 4p,Fiat,Gasolina,,Other,,,2,,16
+152,638,Uno CS/Top/Sport 1.5 i.e. / 1.5 4p,Fiat,Gasolina,1.5,,Sport,,4,,
+153,640,Uno Furgão 1.3 mpi Fire/ Fire Flex 8V,Fiat,Gasolina,1.3,Flex,,,,,8
+156,644,Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p,Fiat,Gasolina,1.0,Flex,,,2,,
+159,4765,Uno Mille WAY ECONOMY 1.0 F.Flex 2p,Fiat,Gasolina,1.0,Flex,,,2,,
+160,5465,UNO SPORTING 1.4 EVO Fire Flex 8V 4p,Fiat,Gasolina,1.4,Flex,,,4,,8
+161,4890,Buggy Off Road 1.8 8V,Fibravan,Gasolina,1.8,Other,,,,,8
+184,676,Del Rey Ghia 1.8 / 1.6 2p e 4p,Ford,Gasolina,1.8,,,,2,,
+185,8004,EcoSport FREESTYLE 1.5 12V Flex 5p Aut.,Ford,Gasolina,1.5,Other,Sport,Auto,5,,12
+186,8006,EcoSport SE 1.5 12V Flex 5p Aut.,Ford,Gasolina,1.5,Other,Sport,Auto,5,,12
+187,8211,EcoSport STORM 2.0 4WD 16V Flex 5p Aut.,Ford,Gasolina,2.0,Other,Sport,Auto,5,,16
+188,682,EcoSport XLS 1.6/ 1.6 Flex 8V 5p,Ford,Gasolina,1.6,Flex,Sport,,5,,8
+192,689,Escort GL 1.6i / 1.6,Ford,Gasolina,1.6,,,,,,
+194,700,Escort L/LX 1.6,Ford,Gasolina,1.6,,,,,,
+195,705,Escort SW GL 1.6 MPI,Ford,Gasolina,1.6,,,,,,
+199,732,F-1000 Super Diesel / Super Diesel Turbo,Ford,Diesel,,Diesel,,,,,
+200,4165,F-250 Tropivan/Tropi. Plus 3.9 TB Diesel,Ford,Diesel,3.9,Diesel,,,,,
+205,762,F-250 XL 3.9 4x2 Diesel,Ford,Diesel,3.9,Diesel,,,,,
+215,801,Focus Ghia Sed. 2.0 16V/ 2.0 16V Flex 4p,Ford,Gasolina,2.0,Other,,,4,,16
+218,6324,Fusion Titanium 2.0 GTDI Eco. Awd Aut.,Ford,Gasolina,2.0,,,Auto,,,
+219,813,Ka 1.0i 3p,Ford,Gasolina,,,,,3,,
+223,847,Pampa S 1.8,Ford,Álcool,1.8,,,,,,
+224,847,Pampa S 1.8,Ford,Gasolina,1.8,,,,,,
+226,869,Ranger XL 2.8 8v 135cv 4x2 CS TB Diesel,Ford,Diesel,2.8,Diesel,,,,1,
+229,870,Ranger XL 2.8 8v 135cv 4x4 CD TB Diesel,Ford,Diesel,2.8,Diesel,Pickup,,,1,
+234,871,Ranger XL 2.8 8v 135cv 4x4 CE TB Diesel,Ford,Diesel,2.8,Diesel,,,,1,
+236,872,Ranger XL 2.8 8v 135cv 4x4 CS TB Diesel,Ford,Diesel,2.8,Diesel,,,,1,
+239,896,Ranger XLT 4.0 12v V6 210cv 4x4 CD Repow,Ford,Gasolina,4.0,V6/V8,Pickup,,,2,
+240,905,Royale GL 1.8/1.8i  2p e 4p,Ford,Gasolina,1.8,,,,2,,
+241,909,Taurus L/LX 3.0 V6,Ford,Gasolina,3.0,V6/V8,,,,,
+242,923,Versailles GL 2.0i / 2.0 2p e 4p,Ford,Gasolina,2.0,,,,2,,
+243,944,Astra Elite 2.0 MPFI FlexPower 8V 5p Mec,GM - Chevrolet,Gasolina,2.0,Other,,Manual,5,,8
+244,3969,Astra Sed. Advant. 2.0 8V MPFI FlexP. 4p,GM - Chevrolet,Gasolina,2.0,Other,,,4,,8
+245,959,Astra Sedan 2.0/CD/ Expres.GLS 2.0 8V 4p,GM - Chevrolet,Gasolina,2.0,Other,Sedan,,4,,8
+250,6887,Camaro SS Conversível 6.2 V8 16V,GM - Chevrolet,Gasolina,6.2,V6/V8,,,,,16
+251,990,Cavalier L 2.0,GM - Chevrolet,Gasolina,2.0,,,,,,
+256,1012,Cheynne 4.3 V6,GM - Chevrolet,Gasolina,4.3,V6/V8,,,,,
+259,6747,Classic ADVANTAGE 1.0 VHC FlexPower 4p,GM - Chevrolet,Gasolina,1.0,Flex,,,4,,
+261,4924,Classic Life/LS 1.0 VHC FlexP. 4p,GM - Chevrolet,Gasolina,1.0,Flex,,,4,,
+268,6175,COBALT LTZ 1.8 8V Econo.Flex 4p Mec.,GM - Chevrolet,Gasolina,1.8,Other,,Manual,4,,8
+272,1073,D-20 CD Lx S4T/Tro.Plus/Lx 3.9/4.0 TDies,GM - Chevrolet,Diesel,3.9,,Pickup,,,,
+273,1075,D-20 S / Luxe 3.9/4.0 T.Diesel,GM - Chevrolet,Diesel,3.9,Diesel,,,,,
+275,1081,Kadett GL 2.0 MPFI / EFI,GM - Chevrolet,Gasolina,2.0,Other,,,,,
+276,1085,Kadett GSi / GS 2.0,GM - Chevrolet,Gasolina,2.0,,,,,,
+278,1101,Monza Classic SE 2.0 /MPFI e EFI 2p e 4p,GM - Chevrolet,Gasolina,2.0,Other,,,2,,
+279,1104,Monza GL 2.0 EFI/SL/L/650/Club/Barc.2e4p,GM - Chevrolet,Gasolina,2.0,,,,,,
+281,8890,ONIX HATCH LT 1.0 12V TB Flex 5p Aut.,GM - Chevrolet,Gasolina,1.0,Other,,Auto,5,,12
+282,8892,ONIX HATCH LTZ 1.0 12V TB Flex 5p Aut.,GM - Chevrolet,Gasolina,1.0,Other,,Auto,5,,12
+283,8827,ONIX SEDAN Plus LTZ 1.0 12V TB Flex Aut.,GM - Chevrolet,Gasolina,1.0,Other,,Auto,,,12
+290,8828,ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.,GM - Chevrolet,Gasolina,1.0,Other,,Manual,,,12
+294,1114,Opala Comodoro/Comod. SLE  4.1/2.5,GM - Chevrolet,Gasolina,4.1,,,,,,
+297,6532,PRISMA Sed. LT 1.4 8V FlexPower 4p Aut.,GM - Chevrolet,Gasolina,1.4,Other,,Auto,4,,8
+298,1120,S10 Blazer Advant. 2.4/2.4 MPFI F.Power,GM - Chevrolet,Gasolina,2.4,Other,,,,,
+302,5896,S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut,GM - Chevrolet,Diesel,2.8,,Pickup,Auto,,,
+306,1170,S10 P-Up Tornado 2.8 TDI 4x2/4x4 CD Dies,GM - Chevrolet,Diesel,2.8,,Pickup,,,,
+313,1202,Suprema GLS 2.2 / 2.0,GM - Chevrolet,Gasolina,2.2,,,,,,
+315,6269,TRAILBLAZER LTZ 3.6 V6  Aut.,GM - Chevrolet,Gasolina,3.6,V6/V8,,Auto,,,
+319,8747,TRAILBLAZER PREMIER 2.8 TB Diesel Aut.,GM - Chevrolet,Diesel,2.8,Diesel,,Auto,,,
+325,8748,TRAILBLAZER PREMIER 3.6 V6 Aut.,GM - Chevrolet,Gasolina,3.6,V6/V8,,Auto,,,
+326,1213,Vectra CD 2.0 (modelo antigo),GM - Chevrolet,Gasolina,2.0,,Pickup,,,,
+328,1226,Veraneio S / Luxe 4.1,GM - Chevrolet,Gasolina,4.1,,,,,,
+329,4259,Zafira Expres. 2.0 MPFI FlexPower 5p Aut,GM - Chevrolet,Gasolina,2.0,Other,,Auto,5,,
+330,4971,CITY Sedan EX 1.5 Flex 16V 4p Aut.,Honda,Gasolina,1.5,Flex,Sedan,Auto,4,,16
+331,4010,Civic Sedan LXS 1.8/1.8 Flex 16V Aut. 4p,Honda,Gasolina,1.8,Flex,Sedan,Auto,4,,16
+332,6780,Fit DX 1.5 Flexone 16V 5p Mec.,Honda,Gasolina,1.5,Flex,,Manual,5,,16
+334,4800,Fit EXL 1.5 Flex 16V 5p Mec,Honda,Gasolina,1.5,Flex,,Manual,5,,16
+335,6781,Fit LX 1.5 Flexone 16V 5p Aut.,Honda,Gasolina,1.5,Flex,,Auto,5,,16
+336,4403,AZERA GLS 3.3 V6 24V 4p Aut.,Hyundai,Gasolina,3.3,V6/V8,,Auto,4,,24
+337,7832,Creta Pulse 1.6 16V Flex Mec.,Hyundai,Gasolina,1.6,Other,,Manual,,,16
+338,1304,Elantra GLS 2.0 16V Mec.,Hyundai,Gasolina,2.0,Other,,Manual,,,16
+342,7757,Elantra Special Edit. 2.0 16V Flex Aut.,Hyundai,Gasolina,2.0,Other,,Auto,,,16
+344,1305,Elantra Wagon 1.8 16V,Hyundai,Gasolina,1.8,Other,Wagon,,,,16
+347,6176,EQUUS 4.6 V8 32V 366cv 4p Aut.,Hyundai,Gasolina,4.6,V6/V8,,Auto,4,3,32
+349,1320,H100 GL Diesel,Hyundai,Diesel,,Diesel,,,,,
+351,1333,Santa Fe GLS 2.7 V6 4x4TipTronic,Hyundai,Gasolina,2.7,V6/V8,,,,,
+352,1345,Tucson 2.0 16V Mec.,Hyundai,Gasolina,2.0,Other,,Manual,,,16
+353,9215,2500 LARAM. 6.7 NIGHT ED. TB CD 4x4 Die.,RAM,Diesel,6.7,,Pickup,,,,
+354,2127,Forester 2.0 4x4 Mec.,Subaru,Gasolina,2.0,,,Manual,,,
+355,2126,Forester 2.0/2.0 S/2.0 ES 4x4 Aut.,Subaru,Gasolina,2.0,,,Auto,,,
+359,2135,Impreza GL 4x4 2.0 16V,Subaru,Gasolina,2.0,Other,,,,,16
+360,2140,Impreza SW GL 1.6/1.8/2.0 4x4 16V,Subaru,Gasolina,1.6,Other,,,,,16
+362,2141,Impreza SW GT 2.0 16V 4x4 Turbo Mec.,Subaru,Gasolina,2.0,Other,,Manual,,,16
+364,2142,Impreza SW GX 2.0 16v 4x4 Aut.,Subaru,Gasolina,2.0,,,Auto,,,
+366,2143,Impreza SW WRX 2.0 16v 4x4 TB,Subaru,Gasolina,2.0,,,,,,
+370,3913,Impreza SW WRX 2.5 16V TB 4x4 5p,Subaru,Gasolina,2.5,Other,,,5,,16
+372,4587,Impreza WRX 2.5 16V TB 4x4 5p,Subaru,Gasolina,2.5,Other,,,5,,16
+373,2149,Legacy GL TW 2.0 4x4 Mec.,Subaru,Gasolina,2.0,,,Manual,,,
+374,2159,Outback 2.5 4x4 Aut.,Subaru,Gasolina,2.5,,,Auto,,,
+375,2162,SVX Cupê 3.3 4x4 Aut,Subaru,Gasolina,3.3,,,Auto,,,
+0,2,Legend 3.2/3.5,Acura,Gasolina,3.2,,,,,,
+6,3,NSX 3.0,Acura,Gasolina,3.0,,,,,,
+9,4,MARRUÁ 2.8 12V 132cv TDI Diesel,Agrale,Diesel,2.8,Other,,,,1,12
+11,4566,MARRUÁ AM 150 2.8  CS TDI Diesel,Agrale,Diesel,2.8,Diesel,,,,,
+14,4565,MARRUÁ AM 150 2.8 CD TDI Diesel,Agrale,Diesel,2.8,Diesel,Pickup,,,,
+17,4567,MARRUÁ AM 200 2.8  CD TDI Diesel,Agrale,Diesel,2.8,Diesel,Pickup,,,,
+25,4569,MARRUÁ AM 50 2.8 140cv TDI Diesel,Agrale,Diesel,2.8,Diesel,,,,1,
+27,7,145 Quadrifoglio 2.0,Alfa Romeo,Gasolina,2.0,,,,,,
+29,10,155,Alfa Romeo,Gasolina,,,,,,,
+31,11,155 Super,Alfa Romeo,Gasolina,,,,,,,
+32,13,156 Sport Wagon 2.0 16V,Alfa Romeo,Gasolina,2.0,Other,Sport,,,,16
+33,15,156 TS/Sport/Elegant 2.0 16V,Alfa Romeo,Gasolina,2.0,Other,Sport,,,,16
+35,18,166 3.0 V6 24V,Alfa Romeo,Gasolina,3.0,V6/V8,,,,,24
+37,19,2300 TI/TI-4,Alfa Romeo,Gasolina,,,,,,,
+42,24,AM-825 Luxo 4.0 Diesel,Asia Motors,Diesel,4.0,Diesel,,,,,
+45,25,AM-825 Super Luxo 4.0 Diesel,Asia Motors,Diesel,4.0,Diesel,,,,,
+49,28,Hi-Topic Van 2.7 Diesel (furgão),Asia Motors,Diesel,2.7,Diesel,,,,,
+55,36,Towner Luxo,Asia Motors,Gasolina,,,,,,,
+56,38,Towner Panel Van,Asia Motors,Gasolina,,,,,,,
+57,10560,DBS Coupe 5.2 V12 725cv,ASTON MARTIN,Gasolina,5.2,Other,Coupe,,,7,
+59,6909,Vanquish V12 6.0 565cv,ASTON MARTIN,Gasolina,6.0,Other,,,,5,
+60,6342,Vantage 6.0 V12 510cv,ASTON MARTIN,Gasolina,6.0,Other,,,,5,
+61,6343,Vantage Coupe 4.7 V8 425cv,ASTON MARTIN,Gasolina,4.7,V6/V8,Coupe,,,4,
+62,51,80 S2 Avant,Audi,Gasolina,,,MPV,,,,
+63,6293,A1 2.0 TFSI Quattro 256cv 3p,Audi,Gasolina,2.0,,,,3,2,
+64,6201,A1 Sportback 1.4 TFSI 185cv 5p S-tronic,Audi,Gasolina,1.4,,Sport,,5,1,
+66,52,A3 1.6 3p,Audi,Gasolina,1.6,,,,3,,
+69,54,A3 1.6 5p,Audi,Gasolina,1.6,,,,5,,
+70,59,A3 1.8 5p Mec.,Audi,Gasolina,1.8,,,Manual,5,,
+85,10195,A3 Sed.Perf. Black 2.0 TFSI S-tr. (Hib.),Audi,Gasolina,2.0,,,,,,
+88,6768,A3 Sedan 1.4/ Attra. 16V TB FSI S-tronic,Audi,Gasolina,1.4,Other,Sedan,,,,16
+90,6461,A3 Sport 1.8 16V TFSI S-tronic 3p,Audi,Gasolina,1.8,Other,Sport,,3,,16
+94,9965,A3 Sportb. S-Line 2.0 TFSI S-Tron.(Híb.),Audi,Gasolina,2.0,,Sport,,,,
+95,6510,A3 Sportback 1.4 TFSI S-tronic,Audi,Gasolina,1.4,,Sport,,,,
+98,4156,A3 Sportback 2.0 16V TFSI Mec.,Audi,Gasolina,2.0,Other,Sport,Manual,,,16
+101,70,A4 1.8 Avant Aut.,Audi,Gasolina,1.8,,MPV,Auto,,,
+105,72,A4 1.8 Avant Turbo Mec.,Audi,Gasolina,1.8,Turbo,MPV,Manual,,,
+107,74,A4 1.8 Tip./ Multitronic Turbo,Audi,Gasolina,1.8,Turbo,,,,,
+114,6144,A4 2.0 16V TFSI Quattro Stronic,Audi,Gasolina,2.0,Other,,,,,16
+116,76,A4 2.0 20V 130cv Multitronic 4p,Audi,Gasolina,2.0,,,,4,1,20
+118,6145,A4 2.0 Avant 16V TFSI Quattro Stronic,Audi,Gasolina,2.0,Other,MPV,,,,16
+120,7750,A4 2.0 Avant Ambie. 2.0 16V TFSi S tron.,Audi,Gasolina,2.0,Other,MPV,,,,16
+121,4844,A4 2.0 Avant TFSI 183/180cv Multitroni,Audi,Gasolina,2.0,,MPV,,,1,
+124,78,A4 2.4 30V Avant Tip./Multitronic,Audi,Gasolina,2.4,,MPV,,,,30
+125,86,A4 2.8 30V  Tiptronic/ Aut.,Audi,Gasolina,2.8,,,Auto,,,30
+132,90,A4 2.8 Avant V6 30V Quattro Mec.,Audi,Gasolina,2.8,V6/V8,MPV,Manual,,,30
+133,91,A4 2.8 Avant V6 30V Quattro Tiptronic,Audi,Gasolina,2.8,V6/V8,MPV,,,,30
+134,92,A4 2.8 Avant V6 30V Tiptronic,Audi,Gasolina,2.8,V6/V8,MPV,,,,30
+136,93,A4 2.8 V6 30V  Quattro Tiptronic,Audi,Gasolina,2.8,V6/V8,,,,,30
+137,97,A4 3.0 Avant 30V 218cv Multitronic 5p,Audi,Gasolina,3.0,,MPV,,5,2,30
+142,99,A4 3.0 Cabriolet 30V 218cv Multitronic,Audi,Gasolina,3.0,,,,,2,30
+144,4731,A4 3.2 FSI 24V 269cv Quattro Tiptronic,Audi,Gasolina,3.2,,,,,2,24
+146,4935,A4 3.2 FSI Avant 24V Quattro S Tronic,Audi,Gasolina,3.2,,MPV,,,,24
+148,7717,A4 Ambiente 2.0 TFSI 190cv S tronic,Audi,Gasolina,2.0,,,,,1,
+149,7894,A4 Ambition 2.0 TFSI Quattro S tronic,Audi,Gasolina,2.0,,,,,,
+150,8769,A4 Avant Prest. Plus 2.0 TFSI S-tronic,Audi,Gasolina,2.0,,MPV,,,,
+151,8229,A4 Limited Edition 2.0 TFSI S tronic,Audi,Gasolina,2.0,,,,,,
+152,9894,A4 Prestige 2.0 TFSI S-tronic,Audi,Gasolina,2.0,,,,,,
+153,9824,A4 S Line 2.0  TFSI 204cv S Tonic,Audi,Gasolina,2.0,,,,,2,
+156,5126,A5 3.2 FSI V6 24V 269cv Quattro Tiptroni,Audi,Gasolina,3.2,V6/V8,,,,2,24
+157,8000,A5 Ambit. Plus Sport. 2.0 TFSI S tronic,Audi,Gasolina,2.0,,Sport,,,,
+158,8001,A5 Ambit. Sport. 2.0 TFSI S tronic,Audi,Gasolina,2.0,,Sport,,,,
+159,6083,A5 Coupê 2.0 TFSI Quattro Stronic,Audi,Gasolina,2.0,,,,,,
+160,6084,A5 Sportb. 2.0 16V TFSI Quat. S-tronic,Audi,Gasolina,2.0,Other,Sport,,,,16
+162,11038,A5 Sportb. Advanc. 2.0 TFSI Quatt. (Híb),Audi,Gasolina,2.0,,Sport,,,,
+163,8564,A5 Sportb. Perf. 2.0 TFSI Quat. S-tronic,Audi,Gasolina,2.0,,Sport,,,,
+164,8565,A5 Sportb. Prestige 2.0 16V TFSI S-troni,Audi,Gasolina,2.0,Other,Sport,,,,16
+165,8567,A5 Sportb.Prestige Plus 2.0 TFSI S-tronc,Audi,Gasolina,2.0,,Sport,,,,
+168,8772,A5 Sportback S-Line 2.0 TFSI S-tronic,Audi,Gasolina,2.0,,Sport,,,,
+169,7254,A6 2.0 TFSI 252cv S tronic 4p,Audi,Gasolina,2.0,,,,4,2,
+170,107,A6 2.4 V6 30V Quattro Tiptronic,Audi,Gasolina,2.4,V6/V8,,,,,30
+171,108,A6 2.7 30V Avant Tiptronic,Audi,Gasolina,2.7,,MPV,,,,30
+174,113,A6 2.8 30V Mec.,Audi,Gasolina,2.8,,,Manual,,,30
+176,114,A6 2.8 30V Tiptronic,Audi,Gasolina,2.8,,,,,,30
+181,117,A6 2.8 Avant 30V Tiptronic,Audi,Gasolina,2.8,,MPV,,,,30
+183,122,A6 3.0 Avant V6 30V 218cv Multitronic 5p,Audi,Gasolina,3.0,V6/V8,MPV,,5,2,30
+184,123,A6 3.0 V6 30V 218cv Multitronic 4p,Audi,Gasolina,3.0,V6/V8,,,4,2,30
+185,124,A6 4.2 Avant Quattro Tiptronic,Audi,Gasolina,4.2,,MPV,,,,
+188,9319,A7 SP.b. Perf. Bla. 3.0 TFSI Quat. S-tro,Audi,Gasolina,3.0,,,,,,
+190,5717,A8 6.3 W12 48V Quattro Tiptronic,Audi,Gasolina,6.3,Other,,,,,48
+191,10814,E-TRON GT Aut. (Elétrico),Audi,Gasolina,,Electric,,Auto,,,
+192,9077,E-TRON Performa. Black Aut. (Elétrico),Audi,Gasolina,,Electric,,Auto,,,
+193,9187,E-TRON Sportback Perf. Aut. (Elétrico),Audi,Gasolina,,Electric,Sport,Auto,,,
+195,9835,Q3 SPB Perf. Black 2.0 TFSI Tipt. Quat.,Audi,Gasolina,2.0,,,,,,
+197,8231,Q5 2.0 TFSI Quattro S tronic (Blindado),Audi,Gasolina,2.0,,,,,,
+198,4959,Q5 3.2 FSI V6 Quattro S Tronic,Audi,Gasolina,3.2,V6/V8,,,,,
+200,8037,Q5 Ambition 2.0 TFSI Quattro S tronic,Audi,Gasolina,2.0,,,,,,
+201,8583,Q5 Black 2.0 TFSI Quattro S tronic,Audi,Gasolina,2.0,,,,,,
+202,8585,Q5 Prestige Plus 2.0 TFSI Quat. S tronic,Audi,Gasolina,2.0,,,,,,
+204,10047,Q5 SB P Black. 2.0 TFSIe S.Tr. Qt (Hib.),Audi,Gasolina,2.0,,,,,,
+205,10048,Q5 SB Perf. 2.0 TFSIe S.Tr. Qt (Hib.),Audi,Gasolina,2.0,,,,,,
+206,9526,Q5 SPB. S-Line Black 2.0 TFSI Qua.S-Tron,Audi,Gasolina,2.0,,,,,,
+207,10049,Q7 3.0 V6 TFSI  Quat.Tip.5p/ Perf.(Híb.),Audi,Gasolina,3.0,V6/V8,,,5,,
+210,5235,R8 4.2 V8 426cv Quattro R-tronic,Audi,Gasolina,4.2,V6/V8,,,,4,
+211,9606,RS E-TRON GT Quattro Aut. (Elétrico),Audi,Gasolina,,Electric,,Auto,,,
+212,9224,RS Q8 4.0 Bi-TB V8 FSI Quattro Tiptronic,Audi,Gasolina,4.0,V6/V8,,,,,
+215,10682,RS5 SPB. Compet. Plus 2.9 Quat. S-tronic,Audi,Gasolina,2.9,,,,,,
+221,5335,RS6 5.0 Avant.FSI V10 Bi-TB Quattro Tip.,Audi,Gasolina,5.0,Other,MPV,,,,
+223,6883,RS7 Sportback 4.0 TFSI Quattro Tiptronic,Audi,Gasolina,4.0,,Sport,,,,
+235,135,S4 2.7 Turbo Quattro Mec.,Audi,Gasolina,2.7,Turbo,,Manual,,,
+236,6089,S5 Sportback 3.0 TFSI Quattro Stronic,Audi,Gasolina,3.0,,Sport,,,,
+238,138,S6 2.2 20V TB,Audi,Gasolina,2.2,,,,,,20
+239,142,S6 4.2 V8 40V Quattro Tiptronic,Audi,Gasolina,4.2,V6/V8,,,,,40
+240,150,TT 1.8 TB Quattro 225cv,Audi,Gasolina,1.8,,,,,2,
+244,8276,Buggy RS Evolution 1.8 8V,Baby,Gasolina,1.8,Other,,,,,8
+246,6146,116iA 1.6 TB 16V 136cv 5p,BMW,Gasolina,1.6,Other,,,5,1,16
+249,6147,118iA Full 1.6 TB 16V 170cv 5p,BMW,Gasolina,1.6,Other,,,5,1,16
+250,152,120i 2.0 16V 150cv/ 156cv 5p,BMW,Gasolina,2.0,Other,,,5,1,16
+255,9036,218i Gran Coupe Sport GP 1.5 Bi-Turbo,BMW,Gasolina,1.5,Turbo,Coupe,,,,
+259,168,323i Touring,BMW,Gasolina,,,,,,,
+260,171,323iA Entry Sedan,BMW,Gasolina,,,Sedan,,,,
+261,179,325i,BMW,Gasolina,,,,,,,
+271,184,328i Exclusive 2.8 24V,BMW,Gasolina,2.8,,,,,,24
+273,6046,328iA 2.0 TB/2.0 TB Flex 16V 4p,BMW,Gasolina,2.0,Flex,,,4,,16
+274,189,328iA Exclusive 2.8 24V,BMW,Gasolina,2.8,,,,,,24
+276,190,328iA Touring/Sport,BMW,Gasolina,,,Sport,,,,
+277,192,330CiA Cabriolet,BMW,Gasolina,,,,,,,
+279,199,528i/iA,BMW,Gasolina,,,,,,,
+280,202,530i/iA,BMW,Gasolina,,,,,,,
+281,5267,535iA 3.0 24V 306cv Bi-Turbo,BMW,Gasolina,3.0,Turbo,,,,3,24
+283,205,540i,BMW,Gasolina,,,,,,,
+289,210,540iTA,BMW,Gasolina,,,,,,,
+292,217,740iA,BMW,Gasolina,,,,,,,
+295,226,840CiA,BMW,Gasolina,,,,,,,
+297,228,850Ci/CiA 5.4 24V,BMW,Gasolina,5.4,,,,,,24
+300,230,850i 5.0 24V,BMW,Gasolina,5.0,,,,,,24
+301,9861,i3 Bev Un. Forever 170cv Aut. (Életrico),BMW,Gasolina,,,,Auto,,1,
+302,10989,i5 M60 (Elétrico),BMW,Gasolina,,Electric,,,,,
+303,10824,i7 XDrive 60 M Sport Aut. (Elétrico),BMW,Gasolina,,Electric,Sport,Auto,,,
+305,10755,iX 1 xDrive 30 M Sport (Elétrico),BMW,Gasolina,,Electric,Sport,,,,
+306,9863,iX XDrive 40 Aut. (Elétrico),BMW,Gasolina,,Electric,,Auto,,,
+308,6910,M 235i Coupe 3.0 24V 326cv,BMW,Gasolina,3.0,,Coupe,,,3,24
+309,231,M Roadster,BMW,Gasolina,,,,,,,
+312,7857,M240i Coupe 3.0 24V 340cv 2p,BMW,Gasolina,3.0,,Coupe,,2,3,24
+313,9482,M3 Competition M 3.0 Bi-TB 510cv,BMW,Gasolina,3.0,,,,,5,
+316,9483,M3 Competition M Track 3.0 Bi-TB,BMW,Gasolina,3.0,,,,,,
+317,234,M3 Coupê 3.0 24V 255cv,BMW,Gasolina,3.0,,,,,2,24
+322,235,M3 Coupê 3.0 V6 24V 282cv,BMW,Gasolina,3.0,V6/V8,,,,2,24
+324,4527,M3 Coupê 4.0 32V,BMW,Gasolina,4.0,,,,,,32
+325,238,M6 5.0 V10 40V 507cv,BMW,Gasolina,5.0,Other,,,,5,40
+327,6460,M6 Coupe 4.4 Bi-Turbo V8 32V,BMW,Gasolina,4.4,Turbo,Coupe,,,,32
+328,6635,M6 Gran Coupe 4.4 Bi-Turbo V8 32V 560cv,BMW,Gasolina,4.4,Turbo,Coupe,,,5,32
+329,9525,M8 Gran Coupé Competition 4.4 V8 32V,BMW,Gasolina,4.4,V6/V8,,,,,32
+330,8736,M850i XDrive Coupé 4.4 V8 530cv Aut.,BMW,Gasolina,4.4,V6/V8,,Auto,,5,
+331,9226,X1 SDRIVE 20i M S. 2.0 25 Anos TB Flex,BMW,Gasolina,2.0,Flex,,,,,
+335,6151,X1 XDRIVE 28i 2.0 Turbo 16V 4x4 Aut.,BMW,Gasolina,2.0,Turbo,,Auto,,,16
+337,5158,X1 XDRIVE 28i 3.0 24V 4x4 Aut.,BMW,Gasolina,3.0,,,Auto,,,24
+339,8510,X2 SDRIVE 18i 1.5 ActiveFlex 136cv Aut.,BMW,Gasolina,1.5,Flex,,Auto,,1,
+342,8338,X2 SDRIVE 20i 2.0/2.0 TB A. Flex 16V Aut,BMW,Gasolina,2.0,Flex,,Auto,,,16
+345,11112,X2 XDrive20i M Sport,BMW,Gasolina,,,Sport,,,,
+348,239,X3 Family 2.5 24V 192cv/ 218cv,BMW,Gasolina,2.5,,,,,1,24
+352,240,X3 Family 3.0 24V 231cv,BMW,Gasolina,3.0,,,,,2,24
+357,4241,X3 Sport 2.5 24V 192cv/ 218cv,BMW,Gasolina,2.5,,Sport,,,1,24
+366,10076,X3 XDRIVE 30e M Sport Turbo Aut. (Híb.),BMW,Gasolina,,Turbo,Sport,Auto,,,
+369,9927,X4 M40i 3.0 Turbo 388cv Aut.,BMW,Gasolina,3.0,Turbo,,Auto,,3,
+371,7065,X4 XDRIVE 28i X-Line 2.0 Turbo 245cv Aut,BMW,Gasolina,2.0,Turbo,,Auto,,2,
+379,244,X5 4.8 4x4 V8 32V 360cv,BMW,Gasolina,4.8,V6/V8,,,,3,32
+382,4585,X5 Endurance 4.8is 4x4 V8 32V 355cv Aut.,BMW,Gasolina,,V6/V8,,Auto,,3,32
+383,9535,X5 M Competition 4.4 V8 Bi-TB Aut.,BMW,Gasolina,4.4,V6/V8,,Auto,,,
+385,4242,X5 Security 4.4 4x4 V8 32V,BMW,Gasolina,4.4,V6/V8,,,,,32
+387,5020,X5 Security 4.8is 4x4 V8 32V 355cv Aut.,BMW,Gasolina,,V6/V8,,Auto,,3,32
+388,7087,X5 XDRIVE 30d Full 3.0 258cv Diesel,BMW,Diesel,3.0,Diesel,,,,2,
+389,10766,X5 XDRIVE 50e 3.0 X-Line Aut. (Hibrido),BMW,Gasolina,3.0,,,Auto,,,
+390,6710,X5 XDRIVE 50i M Sport 4.4 Bi-Turbo,BMW,Gasolina,4.4,Turbo,Sport,,,,
+395,9206,X5 XDRIVE M50i 4.4 Bi-Turbo Aut.,BMW,Gasolina,4.4,Turbo,,Auto,,,
+396,4745,X6 XDRIVE 35i 3.0 306cv Bi-Turbo,BMW,Gasolina,3.0,Turbo,,,,3,
+400,9883,X6 XDRIVE 40i Bl.Vermillion 3.0 Bi-Turbo,BMW,Gasolina,3.0,Turbo,,,,,
+401,9037,X6 XDRIVE 40i M Sport 3.0 Bi-Turbo,BMW,Gasolina,3.0,Turbo,Sport,,,,
+403,7088,X6 XDRIVE 50i M Sport 4.4 Bi-Turbo,BMW,Gasolina,4.4,Turbo,Sport,,,,
+404,8776,X7 XDRIVE 50i M Sport 4.4 V8 Bi-TB Aut.,BMW,Gasolina,4.4,V6/V8,Sport,Auto,,,
+406,246,Z3 2.8 Aut.,BMW,Gasolina,2.8,,,Auto,,,
+409,248,Z3 3.0 24V Roadster 2p,BMW,Gasolina,3.0,,,,2,,24
+410,4887,Z3 Roadster 2.8,BMW,Gasolina,2.8,,,,,,
+412,250,Z3 Roadster M 3.2,BMW,Gasolina,3.2,,,,,,
+414,4243,Z4 Coupé M 3.2 V6 24V 343cv,BMW,Gasolina,3.2,V6/V8,,,,3,24
+416,4185,Z4 Roadster 2.0 150cv 2p,BMW,Gasolina,2.0,,,,2,1,
+420,4244,Z4 Roadster M 3.2 V6 24V 343cv,BMW,Gasolina,3.2,V6/V8,,,,3,24
+423,9902,D1 EV (Elétrico),BYD,Gasolina,,Electric,,,,,
+424,10813,Dolphin EV (Elétrico),BYD,Gasolina,,Electric,,,,,
+427,10986,Dolphin Mini (Elétrico),BYD,Gasolina,,Electric,,,,,
+429,10878,Dolphin Plus (Elétrico),BYD,Gasolina,,Electric,,,,,
+432,9831,eT3  (Elétrico),BYD,Gasolina,,Electric,,,,,
+433,11078,King GL 1.5 16V Aut. (Hibrido),BYD,Gasolina,1.5,Other,,Auto,,,16
+435,11079,King GS 1.5 16V Aut. (Hibrido),BYD,Gasolina,1.5,Other,,Auto,,,16
+436,11084,Song Plus 1.5 16V Aut. (Hibrido),BYD,Gasolina,1.5,Other,,Auto,,,16
+438,11106,Song Pro GL 1.5 16V Aut. (Hibrido),BYD,Gasolina,1.5,Other,,Auto,,,16
+439,11107,Song Pro GS 1.5 16V Aut. (Hibrido),BYD,Gasolina,1.5,Other,,Auto,,,16
+440,9628,ARRIZO 6  PRO 1.5 Turbo Flex Aut.,Caoa Chery,Gasolina,1.5,Turbo,,Auto,,,
+441,9532,Tiggo 3X Plus 1.0 Turbo Flex Aut.,Caoa Chery,Gasolina,1.0,Turbo,,Auto,,,
+442,10067,Tiggo 5X PRO 1.5 Turbo (Híbrido),Caoa Chery,Gasolina,1.5,Turbo,,,,,
+443,9749,Tiggo 5X PRO 1.5 Turbo Flex Aut.,Caoa Chery,Gasolina,1.5,Turbo,,Auto,,,
+444,10742,Tiggo 5X PRO Max Drive1.5 TB (Híbrido),Caoa Chery,Gasolina,,,,,,,
+445,9681,Tiggo 7 Pro 1.6 Turbo 16V Aut.,Caoa Chery,Gasolina,1.6,Turbo,,Auto,,,16
+447,10998,Tiggo 7 SPORT 1.5 Turbo Flex 16V Aut.,Caoa Chery,Gasolina,1.5,Turbo,,Auto,,,16
+449,10182,Tiggo 8 Max Drive 1.6 Turbo Aut.,Caoa Chery,Gasolina,1.6,Turbo,,Auto,,,
+451,6380,Celer Sedan 1.5 16V Flex 5p,Caoa Chery/Chery,Gasolina,1.5,Other,Sedan,,5,,16
+452,5210,Face 1.3 16V/1.3 16V Flex.Mec.,Caoa Chery/Chery,Gasolina,1.3,Other,,Manual,,,16
+457,5534,QQ 1.1/1.0 12V 69cv 5p,Caoa Chery/Chery,Gasolina,1.1,Other,,,5,6,12
+459,5740,S-18 1.3 16V Flex Mec. 5p,Caoa Chery/Chery,Gasolina,1.3,Other,,Manual,5,,16
+460,8340,Tiggo 2 Look 1.5 16V Flex Aut.5p,Caoa Chery/Chery,Gasolina,1.5,Other,,Auto,5,,16
+464,8572,Tiggo 5X TXS 1.5 16V Turbo Flex Aut.,Caoa Chery/Chery,Gasolina,1.5,Other,,Auto,,,16
+467,8586,Tiggo 7 T 1.5 16V Turbo Flex Aut.,Caoa Chery/Chery,Gasolina,1.5,Other,,Auto,,,16
+474,4393,Cargo CD 1.0 8V 53cv (Pick-Up),CHANA,Gasolina,1.0,Other,Pickup,,,5,8
+484,5873,MINI STAR CE 1.0 8V 53cv (Pick-Up),CHANGAN,Gasolina,1.0,Other,,,,5,8
+485,5877,MINI STAR Utility 1.0 8V 53cv (Furgão),CHANGAN,Gasolina,1.0,Other,,,,5,8
+486,4528,300 C 3.5 V6 249cv,Chrysler,Gasolina,3.5,V6/V8,,,,2,
+489,5878,300 C 3.6 V6 Aut.,Chrysler,Gasolina,3.6,V6/V8,,Auto,,,
+492,4186,300 C SRT8 6.1 V8 16V 431cv Aut,Chrysler,Gasolina,6.1,V6/V8,,Auto,,4,16
+498,3811,Caravan LX 3.3 V6 182cv,Chrysler,Gasolina,3.3,V6/V8,,,,1,
+499,263,Caravan LX 3.8,Chrysler,Gasolina,3.8,,,,,,
+501,264,Caravan SE 2.4/3.3,Chrysler,Gasolina,2.4,,,,,,
+513,270,LE Baron 3.0 V6,Chrysler,Gasolina,3.0,V6/V8,,,,,
+518,272,Neon LE 1.8,Chrysler,Gasolina,1.8,,,,,,
+519,4255,PT Cruiser Cabrio 2.4 16V 143cv 2p,Chrysler,Gasolina,2.4,Other,,,2,1,16
+520,276,PT Cruiser Limited 2.4 16V 143cv 4p,Chrysler,Gasolina,2.4,Other,,,4,1,16
+521,277,Sebring LX 2.7 V6 24V 204cv,Chrysler,Gasolina,2.7,V6/V8,,,,2,24
+527,279,Stratus LX 2.0 Mec,Chrysler,Gasolina,2.0,,,Manual,,,
+530,280,Stratus LX 2.5 Aut,Chrysler,Gasolina,2.5,,,Auto,,,
+532,281,Stratus LX 2.5 Conversível Aut,Chrysler,Gasolina,2.5,,,Auto,,,
+539,5720,TOWN & COUNTRY Touring 3.6 V6 Aut.,Chrysler,Gasolina,3.6,V6/V8,,Auto,,,
+540,282,Vision 3.5 24V,Chrysler,Gasolina,3.5,,,,,,24
+541,8045,AIRCROSS BUSINESS 1.6 Flex 16V 5p Mec.,Citroën,Gasolina,1.6,Flex,,Manual,5,,16
+542,6418,AIRCROSS Exc. ATACA. 1.6 Flex 16V 5p Aut,Citroën,Gasolina,1.6,Flex,,Auto,5,,16
+543,5337,AIRCROSS Exclusive 1.6 Flex 16V 5p Mec.,Citroën,Gasolina,1.6,Flex,,Manual,5,,16
+544,5338,AIRCROSS GL 1.6 Flex 16V 5p Mec.,Citroën,Gasolina,1.6,Flex,,Manual,5,,16
+546,5610,AIRCROSS GLX 1.6 Flex 16V 5p Aut.,Citroën,Gasolina,1.6,Flex,,Auto,5,,16
+551,9585,AIRCROSS Live Bus. 1.6 Flex 5p Aut.,Citroën,Gasolina,1.6,Flex,,Auto,5,,
+553,7091,AIRCROSS SALOMON EXCLUSIVE 1.6 Flex Mec.,Citroën,Gasolina,1.6,Flex,,Manual,,,
+554,7092,AIRCROSS SALOMON TENDANCE 1.6 Flex Aut.,Citroën,Gasolina,1.6,Flex,,Auto,,,
+556,7425,AIRCROSS Start 1.5 Flex 8V 5p Mec.,Citroën,Gasolina,1.5,Flex,,Manual,5,,8
+557,286,Berlingo MultSpace GLX 1.8i 4p,Citroën,Gasolina,,,,,4,,
+559,10962,C3 AIRCROSS Feel 1.0 Flex Turbo 200 Aut.,Citroën,Gasolina,1.0,Flex,,Auto,,,
+561,10963,C3 AIRCROSS Shine 1.0 Flex TB 200 Aut.,Citroën,Gasolina,1.0,Flex,,Auto,,,
+562,11098,C3 AIRCROSS7 Shine 1.0 Flex TB 200 Aut.,Citroën,Gasolina,1.0,Flex,,Auto,,,
+564,6835,C3 Attra/Origine Pack 1.5 Flex 8V 5p Mec,Citroën,Gasolina,1.5,Flex,,Manual,5,,8
+567,7964,C3 Attraction 1.6 Flex 16V 5p Aut.,Citroën,Gasolina,1.6,Flex,,Auto,5,,16
+571,6153,C3 Excl. 1.6 VTi Flex Start 16V 5p Mec.,Citroën,Gasolina,1.6,Flex,,Manual,5,,16
+580,4315,C3 Exclusive 1.4 Flex 8V 5p,Citroën,Gasolina,1.4,Flex,,,5,,8
+584,6772,C3 Exclusive 1.5 Flex 8V 5p Mec.,Citroën,Gasolina,1.5,Flex,,Manual,5,,8
+585,291,C3 GLX 1.6/ 1.6 Flex 16V 5p,Citroën,Gasolina,1.6,Flex,,,5,,16
+592,7586,C3 Origine Pure Tech 1.2 Flex 12V Mec,Citroën,Gasolina,1.2,Flex,,Manual,,,12
+593,6774,C3 Picasso Tendance 1.5 Flex 8V 5p Mec.,Citroën,Gasolina,1.5,Flex,,Manual,5,,8
+594,6775,C3 Picasso Tendance 1.6 Flex 16V 5p Aut.,Citroën,Gasolina,1.6,Flex,,Auto,5,,16
+598,7731,C3 Style Edition 1.6 Flex 16V Aut.,Citroën,Gasolina,1.6,Flex,,Auto,,,16
+599,6155,C3 Tendance 1.5 Flex 8V 5p Mec.,Citroën,Gasolina,1.5,Flex,,Manual,5,,8
+601,7587,C3 Tendance Pure Tech 1.2 Flex 12V Mec.,Citroën,Gasolina,1.2,Flex,,Manual,,,12
+603,9609,C4 CACTUS X-Series 1.6 16V Flex Aut.,Citroën,Gasolina,1.6,Other,,Auto,,,16
+605,6574,C4 Competition 1.6 Flex 16V 5p Mec.,Citroën,Gasolina,1.6,Flex,,Manual,5,,16
+606,4846,C4 GLX 1.6 Flex 16V 5p Mec.,Citroën,Gasolina,1.6,Flex,,Manual,5,,16
+608,7684,C4 LOUNGE Origine 1.6 Turbo Flex  Aut.,Citroën,Gasolina,1.6,Turbo,,Auto,,,
+610,7787,C4 LOUNGE S 1.6 Turbo Flex Aut.,Citroën,Gasolina,1.6,Turbo,,Auto,,,
+611,6884,C4 LOUNGE Tendance 1.6 Turbo 4p Aut,Citroën,Gasolina,1.6,Turbo,,Auto,4,,
+612,7118,C4 LOUNGE Tendance 1.6 Turbo Flex Aut.,Citroën,Gasolina,1.6,Turbo,,Auto,,,
+616,7426,C4 Picasso Intensive 1.6 Turbo 16V Aut.,Citroën,Gasolina,1.6,Turbo,,Auto,,,16
+617,294,C5 Exclusive 2.0 16V 138cv 4p Mec.,Citroën,Gasolina,2.0,Other,,Manual,4,1,16
+621,4937,C5 Tourer Exclusive 2.0 16V 5p Aut.,Citroën,Gasolina,2.0,Other,,Auto,5,,16
+623,7068,DS4 1.6 Chic Turbo 16V 5p Aut.,Citroën,Gasolina,1.6,Turbo,,Auto,5,,16
+625,7069,DS4 1.6 So Chic Turbo 16V 5p Aut.,Citroën,Gasolina,1.6,Turbo,,Auto,5,,16
+626,6347,DS4 1.6 Turbo 16V 5p Aut.,Citroën,Gasolina,1.6,Turbo,,Auto,5,,16
+628,7096,DS5 1.6 So Chic Turbo 16V 5p Aut.,Citroën,Gasolina,1.6,Turbo,,Auto,5,,16
+630,299,Evasion  GLX 2.0 16V,Citroën,Gasolina,2.0,Other,,,,,16
+632,300,Evasion VSX Turbo,Citroën,Gasolina,,Turbo,,,,,
+633,7589,Grand C4 Picasso Seduction 1.6 TB Aut.,Citroën,Gasolina,1.6,,,Auto,,,
+635,9556,Jumper 2.0 Cargo Furgão 16V TB Diesel,Citroën,Diesel,2.0,Other,,,,,16
+636,8516,Jumper 2.0 FurgãoTurbo Diesel,Citroën,Diesel,2.0,Turbo,,,,,
+640,5659,Jumper 2.3 Vetrato Exec. 16Lug. TB Dies.,Citroën,Diesel,2.3,,,,,,
+643,303,Jumper 2.8 Furgão 35C Diesel,Citroën,Diesel,2.8,Diesel,,,,,
+644,9764,Jumper Furgão 2.2 Turbo Diesel,Citroën,Diesel,2.2,Turbo,,,,,
+646,8078,Jumpy 1.6  Furgão Pack Turbo Diesel,Citroën,Diesel,1.6,Turbo,,,,,
+647,8077,Jumpy 1.6  Furgão Turbo Diesel,Citroën,Diesel,1.6,Turbo,,,,,
+651,9741,Jumpy Cargo 1.5 Turbo Diesel,Citroën,Diesel,1.5,Turbo,,,,,
+653,310,Xantia Break GLX 2.0 16V Mec.,Citroën,Gasolina,2.0,Other,,Manual,,,16
+657,311,Xantia Exclusive 2.0 16V,Citroën,Gasolina,2.0,Other,,,,,16
+658,312,Xantia Exclusive 3.0 V6,Citroën,Gasolina,3.0,V6/V8,,,,,
+661,313,Xantia GLX 2.0 16V Aut.,Citroën,Gasolina,2.0,Other,,Auto,,,16
+662,314,Xantia GLX 2.0 16V Mec.,Citroën,Gasolina,2.0,Other,,Manual,,,16
+665,315,Xantia SX 1.8,Citroën,Gasolina,1.8,,,,,,
+667,316,Xantia SX 2.0 8V/16V Mec./Aut.,Citroën,Gasolina,2.0,Other,,Manual,,,8
+670,318,Xantia VSX 2.0 16V,Citroën,Gasolina,2.0,Other,,,,,16
+671,321,XM Exclusive Break,Citroën,Gasolina,,,,,,,
+672,324,Xsara Break Exclusive 1.6 16V 5p Mec.,Citroën,Gasolina,1.6,Other,,Manual,5,,16
+673,330,Xsara Break GLX/ Paris 2.0 16V,Citroën,Gasolina,2.0,Other,,,,,16
+675,334,Xsara Exclusive 1.8 8V/16V 5p Mec.,Citroën,Gasolina,1.8,Other,,Manual,5,,8
+681,336,Xsara GLX 1.6 16V 3p,Citroën,Gasolina,1.6,Other,,,3,,16
+682,338,Xsara GLX 1.6 16V 5p Mec.,Citroën,Gasolina,1.6,Other,,Manual,5,,16
+684,340,Xsara GLX 1.8 16V Cupê Mec.,Citroën,Gasolina,1.8,Other,,Manual,,,16
+685,344,Xsara Picasso Exc./Etoile 2.0 16V Mec.,Citroën,Gasolina,2.0,Other,,Manual,,,16
+687,348,Xsara Picasso GLX 2.0 16V  Aut.,Citroën,Gasolina,2.0,Other,,Auto,,,16
+688,346,Xsara Picasso GLX/Brasil/Etoile 2.0 Mec.,Citroën,Gasolina,2.0,,,Manual,,,
+690,351,Xsara VTS 2.0  16V Cupê Mec.,Citroën,Gasolina,2.0,Other,,Manual,,,16
+692,361,Lanos SX 1.6 16V,Daewoo,Gasolina,1.6,Other,,,,,16
+695,384,Feroza SX 1.6i 16V,Daihatsu,Gasolina,,Other,,,,,16
+696,10921,EC31 Chassi  (Elétrico),DFSK,Gasolina,,Electric,,,,,
+697,405,Dakota Sport CE 3.9 V6,Dodge,Gasolina,3.9,V6/V8,Sport,,,,
+698,5695,JOURNEY RT  3.6 V6 Aut.,Dodge,Gasolina,3.6,V6/V8,,Auto,,,
+700,5694,JOURNEY SXT 3.6 V6 Aut.,Dodge,Gasolina,3.6,V6/V8,,Auto,,,
+701,409,Ram Sport 5.9 V8,Dodge,Gasolina,5.9,V6/V8,Sport,,,,
+704,7343,K02 Pick-up CD 1.0 8V 4p,EFFA,Gasolina,1.0,Other,Pickup,,4,,8
+708,414,Camper 4x4 2.5 Diesel,Envemo,Diesel,2.5,Diesel,,,,,
+710,415,Camper GL/GLS 4x4 4.0 Diesel,Envemo,Diesel,4.0,Diesel,,,,,
+712,420,355 Berlinetta,Ferrari,Gasolina,,,,,,,
+713,429,360 Modena F1,Ferrari,Gasolina,,,,,,,
+714,431,360 Spider F1 400cv,Ferrari,Gasolina,,,,,,4,
+717,436,575M Maranello F1 V12 515cv,Ferrari,Gasolina,,Other,,,,5,
+719,9447,812 GTS 6.5 V12 800cv,Ferrari,Gasolina,6.5,Other,,,,8,
+720,5058,California F1 V8 460cv/ California 30,Ferrari,Gasolina,,V6/V8,,,,4,
+722,3812,F430 F1,Ferrari,Gasolina,,,,,,,
+723,4289,F599 GTB Fiorano F1 6.0 V12 620cv,Ferrari,Gasolina,6.0,Other,,,,6,
+724,9249,F8 Spider 3.9 V8 Bi-Turbo 720cv,Ferrari,Gasolina,3.9,V6/V8,,,,7,
+725,6095,FF F1 6.3 V12 660cv,Ferrari,Gasolina,6.3,Other,,,,6,
+727,437,147 C/ CL,Fiat,Gasolina,,,,,,,
+730,5614,500 Cult 1.4 Flex 8V EVO Mec.,Fiat,Gasolina,1.4,Flex,,Manual,,,8
+731,5615,500 Lounge Air 1.4/ 1.4 Flex 16V Aut.,Fiat,Gasolina,1.4,Flex,,Auto,,,16
+732,5062,500 SPORT 1.4 16V 100cv Mec.,Fiat,Gasolina,1.4,Other,,Manual,,1,16
+734,8315,ARGO 1.0 6V Flex.,Fiat,Gasolina,1.0,Flex,,,,,6
+736,7967,ARGO DRIVE GSR 1.3 8V Flex,Fiat,Gasolina,1.3,Other,,,,,8
+741,442,Brava SX 1.6 16V 4p,Fiat,Gasolina,1.6,Other,,,4,,16
+743,7133,Bravo BlackMotion 1.8 Flex 16v 5p,Fiat,Gasolina,1.8,Flex,,,5,,
+745,6052,Bravo SPORTING 1.8 Flex 16V 5p,Fiat,Gasolina,1.8,Flex,,,5,,16
+746,9990,CRONOS DRIVE 1.3 8V Flex Aut.,Fiat,Gasolina,1.3,Other,,Auto,,,8
+748,10394,CRONOS PRECISION 1.3 8V Flex Aut.,Fiat,Gasolina,1.3,Other,,Auto,,,8
+750,3933,Doblo Adv/Adv TRYON/LOCKER 1.8 Flex,Fiat,Gasolina,1.8,Flex,,,,,
+753,5535,Doblo ATTRACTIVE 1.4 Fire Flex 8V 5p,Fiat,Gasolina,1.4,Flex,,,5,,8
+755,3934,Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p,Fiat,Gasolina,1.8,Flex,,,4,,8
+758,3935,Doblo ELX 1.8 mpi 8V Flex,Fiat,Gasolina,1.8,Other,,,,,8
+761,8204,Ducato Cargo Curto 2.3 16V Diesel,Fiat,Diesel,2.3,Other,,,,,16
+762,8395,Ducato Executivo 2.3 16V Diesel,Fiat,Diesel,2.3,Other,,,,,16
+763,456,Ducato Furgão Maxi 2.8 Diesel,Fiat,Diesel,2.8,Diesel,,,,,
+764,457,Ducato MaxiCargo/Furgão Maxi 2.8 TB Dies,Fiat,Diesel,2.8,,,,,,
+771,8209,Ducato Multi 2.3 16V Diesel,Fiat,Diesel,2.3,Other,,,,,16
+772,8398,Ducato Vip Bus 2.3 16V Diesel,Fiat,Diesel,2.3,Other,,,,,16
+773,463,Ducato-10 Furgão 2.5 Diesel,Fiat,Diesel,2.5,Diesel,,,,,
+774,464,Ducato-15 2.8 Furgão TB Diesel,Fiat,Diesel,2.8,Diesel,,,,,
+778,470,Elba S 1.6/ 1.5ie / 1.5 / 1.3,Fiat,Gasolina,1.6,,,,,,
+781,10754,Fastback 1.0 200 Turbo Flex Aut,Fiat,Gasolina,1.0,Turbo,,Auto,,,
+784,10881,Fastback ABARTH Turbo Flex 1.3 Aut.,Fiat,Gasolina,1.3,Turbo,,Auto,,,
+787,10101,Fastback Audace 1.0 200 T. Flex Aut,Fiat,Gasolina,1.0,Flex,,Auto,,,
+791,10102,Fastback Impetus 1.0 200 T. Flex Aut,Fiat,Gasolina,1.0,Flex,,Auto,,,
+796,472,Fiorino Furgão 1.0,Fiat,Álcool,1.0,,,,,,
+797,6662,Fiorino Furgão Celeb. EVO 1.4 Flex 8V 2p,Fiat,Gasolina,1.4,Flex,,,2,,8
+798,7751,Fiorino Furgão Work. HARD 1.4 Flex 8V 2p,Fiat,Gasolina,1.4,Flex,,,2,,8
+802,479,Fiorino Pick-Up Working 1.5 mpi / i.e.,Fiat,Gasolina,1.5,,,,,,
+803,5925,Grand Siena ATTRAC. 1.4 EVO F.Flex 8V,Fiat,Gasolina,1.4,Flex,,,,,8
+806,6488,Grand Siena ESSEN.SUBLIME 1.6 Flex,Fiat,Gasolina,1.6,Flex,,,,,
+807,6489,Grand Siena ESSEN.SUBLIME Dual. 1.6 Flex,Fiat,Gasolina,1.6,Flex,,,,,
+810,4966,Idea Adv./ Adv.LOCK.Dualogic 1.8 Flex 5p,Fiat,Gasolina,1.8,Flex,,,5,,
+813,480,Idea ELX 1.4 mpi Fire Flex 8V 5p,Fiat,Gasolina,1.4,Flex,,,5,,8
+815,5342,Idea ESSENCE Dualogic 1.6 Flex 16V 5p,Fiat,Gasolina,1.6,Flex,,,5,,16
+816,481,Idea HLX 1.8 mpi Flex 8V 5p,Fiat,Gasolina,1.8,Flex,,,5,,8
+817,5343,Idea SPORTING 1.8 Flex 16V 5p,Fiat,Gasolina,1.8,Flex,,,5,,16
+819,4749,LINEA ABSOLUTE 1.9/1.8 Flex Dualogic 4p,Fiat,Gasolina,1.9,Flex,,,4,,
+821,5577,LINEA ESSENCE 1.8 Flex 16V 4p,Fiat,Gasolina,1.8,Flex,,,4,,16
+822,4751,LINEA T-JET 1.4 16V Turbo 4p,Fiat,Gasolina,1.4,Other,,,4,,16
+823,483,Marea ELX 1.8 mpi 16V 132cv 4p,Fiat,Gasolina,1.8,Other,,,4,1,16
+825,488,Marea HLX 2.4 mpi 20V 4p Mec.,Fiat,Gasolina,2.4,,,Manual,4,,20
+827,490,Marea SX 1.8 16V 4p,Fiat,Gasolina,1.8,Other,,,4,,16
+830,494,Marea Weekend ELX 1.8 mpi 16V 132cv 4p,Fiat,Gasolina,1.8,Other,,,4,1,16
+833,7538,MOBI EASY 1.0 Fire Flex 5p.,Fiat,Gasolina,1.0,Flex,,,5,,
+834,7540,MOBI LIKE 1.0 Fire Flex 5p.,Fiat,Gasolina,1.0,Flex,,,5,,
+838,4827,Palio 1.0 ECONOMY Fire Flex 8V 2p,Fiat,Gasolina,1.0,Flex,,,2,,8
+840,4828,Palio 1.0 ECONOMY Fire Flex 8V 4p,Fiat,Gasolina,1.0,Flex,,,4,,8
+844,4290,Palio 1.8R mpi Flex 8V 2p,Fiat,Gasolina,,Flex,,,2,,8
+845,3883,Palio 1.8R mpi Flex 8V 4p,Fiat,Gasolina,,Flex,,,4,,8
+846,3965,Palio Celebration 1.0 Fire Flex 8V 2p,Fiat,Gasolina,1.0,Flex,,,2,,8
+847,515,Palio EDX 1.0 mpi 2p,Fiat,Álcool,1.0,,,,2,,
+848,516,Palio EDX 1.0 mpi 4p,Fiat,Gasolina,1.0,,,,4,,
+849,525,Palio ELX 1.5 4p,Fiat,Álcool,1.5,,,,4,,
+852,531,Palio EX 1.0 mpi 4p,Fiat,Gasolina,1.0,,,,4,,
+854,536,Palio EX 1.8 mpi 8V 103cv 4p,Fiat,Gasolina,1.8,Other,,,4,1,8
+855,5696,Palio SPORTING 1.6 Flex 16V 5p,Fiat,Gasolina,1.6,Flex,,,5,,16
+858,5697,Palio SPORTING Dualogic 1.6 Flex 16V 5p,Fiat,Gasolina,1.6,Flex,,,5,,16
+860,545,Palio Weekend Adventure 1.6 8V/16V,Fiat,Gasolina,1.6,Other,,,,,8
+861,548,Palio Weekend City 1.5/ 1.6 4p,Fiat,Álcool,1.5,,,,4,,
+863,553,Palio Weekend ELX 1.5 mpi 4p,Fiat,Gasolina,1.5,,,,4,,
+865,554,Palio Weekend ELX 1.6 mpi,Fiat,Gasolina,1.6,,,,,,
+866,556,Palio Weekend EX 1.5 mpi,Fiat,Álcool,1.5,,,,,,
+868,557,Palio Weekend EX 1.8 mpi 8V 103cv 4p,Fiat,Gasolina,1.8,Other,,,4,1,8
+869,558,Palio Weekend HLX 1.8 mpi Flex 4p,Fiat,Gasolina,1.8,Flex,,,4,,
+870,559,Palio Weekend Sport 1.6 mpi 16V 4p,Fiat,Gasolina,1.6,Other,Sport,,4,,16
+872,560,Palio Weekend Stile 1.6 mpi 16V 4p,Fiat,Gasolina,1.6,Other,,,4,,16
+876,561,Palio Weekend Stile 1.8 mpi 8V 103cv 4p,Fiat,Gasolina,1.8,Other,,,4,1,8
+878,5412,Palio Weekend Trekking 1.6 Flex 16V 5p,Fiat,Gasolina,1.6,Flex,,,5,,16
+881,563,Palio Young 1.0 mpi 8v 4p,Fiat,Gasolina,1.0,,,,4,,
+882,566,Panorama C/CL,Fiat,Gasolina,,,,,,,
+884,570,Premio CSL 1.6/ 1.5,Fiat,Gasolina,1.6,,,,,,
+887,6561,Punto BLACKMOTION Dual. 1.8 Flex 16v 5p,Fiat,Gasolina,1.8,Flex,,,5,,
+889,5463,Punto ESSENCE Dualogic 1.6 Flex 16V 5p,Fiat,Gasolina,1.6,Flex,,,5,,16
+890,4423,Punto HLX 1.8 Flex 8V 5p,Fiat,Gasolina,1.8,Flex,,,5,,8
+895,3967,Siena Celebration 1.0 Fire Flex 8V 4p,Fiat,Gasolina,1.0,Flex,,,4,,8
+897,4133,Siena TETRAFUEL 1.4 mpi Fire Flex 8v 4p,Fiat,Gasolina,1.4,Flex,,,4,,
+898,598,Stilo 1.8/ 1.8 SP/ Connect 16V 122cv 5p,Fiat,Gasolina,1.8,Other,,,5,1,16
+899,4530,Stilo Dualogic 1.8 SP Flex 8V 5p,Fiat,Gasolina,1.8,Flex,,,5,,8
+900,5620,Strada Adv.1.8 16V Dualogic Flex CD,Fiat,Gasolina,1.8,Other,Pickup,,,,16
+902,4970,Strada Adventure1.8/ 1.8 LOCKER Flex CD,Fiat,Gasolina,1.8,Flex,Pickup,,,,
+905,9110,Strada Freedom 1.3 Flex 8V  CS Plus,Fiat,Gasolina,1.3,Flex,,,,,8
+908,9112,Strada Volcano 1.3 Flex 8V CD,Fiat,Gasolina,1.3,Flex,Pickup,,,,8
+910,5067,Strada Working 1.4 mpi Fire Flex 8V CE,Fiat,Gasolina,1.4,Flex,,,,,8
+911,619,Tempra 2.0 i.e. 8V 2p e 4p,Fiat,Álcool,2.0,Other,,,2,,8
+912,622,Tempra HLX 2.0 16V 4p,Fiat,Gasolina,2.0,Other,,,4,,16
+913,7475,Toro Freedom 1.8 16V Flex Aut.,Fiat,Gasolina,1.8,Other,,Auto,,,16
+914,10069,Toro Freedom 2.0 16V 4x4 TB Diesel Aut.,Fiat,Diesel,2.0,Other,,Auto,,,16
+915,10070,Toro Ranch 2.0 16V 4x4 TB Diesel Aut.,Fiat,Diesel,2.0,Other,,Auto,,,16
+916,10071,Toro Ultra 2.0 16V 4x4 TB Diesel Aut.,Fiat,Diesel,2.0,Other,,Auto,,,16
+917,9495,Toro Volcano 1.3 T270 4x2 Flex Aut.,Fiat,Gasolina,1.3,Flex,,Auto,,,
+918,636,Uno City / Smart City 1.0 4p,Fiat,Álcool,1.0,,,,4,,
+923,4764,Uno Mille Celeb. WAY ECON. 1.0 F.Flex 4p,Fiat,Gasolina,1.0,Flex,,,4,,
+925,5483,UNO VIVACE 1.0 EVO Fire Flex 8V 3p,Fiat,Gasolina,1.0,Flex,,,3,,8
+926,5243,UNO WAY 1.0 EVO Fire Flex 8V 5p,Fiat,Gasolina,1.0,Flex,,,5,,8
+927,7736,UNO WAY 1.3 Flex 8V 5p,Fiat,Gasolina,1.3,Flex,,,5,,8
+931,666,Courier 1.6 L/ 1.6 Flex,Ford,Gasolina,1.6,Flex,,,,,
+932,674,Del Rey Belina GLX,Ford,Gasolina,,,,,,,
+933,8005,EcoSport FREESTYLE 1.5 12V Flex 5p Mec.,Ford,Gasolina,1.5,Other,Sport,Manual,5,,12
+934,6159,EcoSport S 1.6 16V Flex 5p,Ford,Gasolina,1.6,Other,Sport,,5,,16
+935,6160,EcoSport SE 1.6 16V Flex 5p Mec.,Ford,Gasolina,1.6,Other,Sport,Manual,5,,16
+936,6264,EcoSport TITANIUM 2.0 16V Flex 5p Aut.,Ford,Gasolina,2.0,Other,Sport,Auto,5,,16
+939,683,EcoSport XLT 1.6/ 1.6 Flex 8V 5p,Ford,Gasolina,1.6,Flex,Sport,,5,,8
+940,684,EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.,Ford,Gasolina,2.0,Flex,Sport,Manual,5,,16
+942,5413,EDGE LIMITED 3.5 V6 24V AWD Aut.,Ford,Gasolina,3.5,V6/V8,,Auto,,,24
+943,689,Escort GL 1.6i / 1.6,Ford,Álcool,1.6,,,,,,
+945,693,Escort GLX 1.6i,Ford,Gasolina,,,,,,,
+947,708,Escort XR3 2.0i,Ford,Gasolina,,,,,,,
+948,712,Explorer Limited 5.0 4x4 V8,Ford,Gasolina,5.0,V6/V8,,,,,
+950,729,F-1000 SR XK Deserter,Ford,Gasolina,,,,,,,
+953,747,F-1000 XLT 4x4 Diesel Turbo,Ford,Diesel,,Diesel,,,,,
+954,752,F-150 XLT Triton 4.3,Ford,Gasolina,4.3,,,,,,
+955,758,F-250 Tropical SL/ Van T.Diesel (todas),Ford,Diesel,,Diesel,,,,,
+957,4056,F-250 XL 3.9 4x4 TB Diesel,Ford,Diesel,3.9,Diesel,,,,,
+961,781,Fiesta GL Class 1.0i 5p,Ford,Gasolina,,,,,5,,
+965,6521,Fiesta Sedan 1.6 16V Flex Aut.,Ford,Gasolina,1.6,Other,Sedan,Auto,,,16
+966,788,Fiesta Sedan Street 1.0 8v 4p,Ford,Gasolina,1.0,,Sedan,,4,,
+967,795,Fiesta Supercharger 1.0 8V 95cv 5p,Ford,Gasolina,1.0,Other,,,5,9,8
+971,7285,Focus Fastback TIT./T.PLUS 2.0 Flex Aut.,Ford,Gasolina,2.0,Flex,,Auto,,,
+972,803,Focus Ghia/ XR 2.0 /Ghia 2.0 16V Flex 5p,Ford,Gasolina,2.0,Other,,,5,,16
+974,806,Focus Sedan 2.0 16V/2.0 16V Flex 4p,Ford,Gasolina,2.0,Other,Sedan,,4,,16
+975,5452,Focus TITANIUM 2.0 16V Flex 5p Mec.,Ford,Gasolina,2.0,Other,,Manual,5,,16
+976,810,Furglaine Chateaux/Exec. 3.9 Diesel,Ford,Diesel,3.9,Diesel,,,,,
+977,6382,Fusion Titanium 2.0 GTDI Eco. Fwd Aut.,Ford,Gasolina,2.0,,,Auto,,,
+978,4514,Ka 1.0 8V/1.0 8V ST Flex 3p,Ford,Gasolina,1.0,Other,,,3,,8
+979,814,Ka Action 1.6 MPI 8V 95cv,Ford,Gasolina,1.6,Other,,,,9,8
+980,818,Ka GL 1.0i Zetec Rocam,Ford,Gasolina,,,,,,,
+982,6917,Ka SEL 1.5 16V Flex 5p,Ford,Gasolina,1.5,Other,,,5,,16
+983,6919,Ka+ Sedan 1.0 SE/SE PLUS TiVCT Flex 4p,Ford,Gasolina,1.0,Flex,Sedan,,4,,
+984,9744,Maverick Lariat FX4 2.0 EcoBoost Aut.,Ford,Gasolina,2.0,,,Auto,,,
+985,826,Mondeo CLX 2.0i 4p Aut,Ford,Gasolina,,,,Auto,4,,
+986,835,Mondeo GLX 2.0 4p e 5p,Ford,Gasolina,2.0,,,,4,,
+988,842,Pampa 4x4 Jeep GL / L 1.6,Ford,Gasolina,1.6,,,,,,
+992,858,Ranger 2.5i CS,Ford,Gasolina,,,,,,,
+993,6163,Ranger Limited 2.5 16V 4x2 CD Flex,Ford,Gasolina,2.5,Other,Pickup,,,,16
+994,10741,Ranger Limited 3.2 4x4 CD Diesel Aut.,Ford,Diesel,3.2,Diesel,Pickup,Auto,,,
+996,6529,Ranger TROPIVAN 3.2 20V 4X4 TB Diesel,Ford,Diesel,3.2,Diesel,,,,,20
+998,865,Ranger XL 2.3 16v 137cv 4x2 CS Repower.,Ford,Gasolina,2.3,,,,,1,
+1003,874,Ranger XL 4.0 CS,Ford,Gasolina,4.0,,,,,,
+1008,6168,Ranger XLS 3.2 20V 4x4 CS Diesel,Ford,Diesel,3.2,Diesel,,,,,20
+1009,6169,Ranger XLT 2.5 16V 4x2 CD Flex,Ford,Gasolina,2.5,Other,Pickup,,,,16
+1012,900,Ranger XLT 4.0 4x4 CD,Ford,Gasolina,4.0,,Pickup,,,,
+1013,904,Royale Ghia 2.0/2.0i 2p e 4p,Ford,Gasolina,2.0,,,,2,,
+1014,906,Royale GL 2.0/2.0i 2p e 4p,Ford,Álcool,2.0,,,,2,,
+1015,907,Taurus GL 3.0 V6,Ford,Gasolina,3.0,V6/V8,,,,,
+1016,11110,TRANSIT Chassi 350E 2.0 EcoBlue Diesel,Ford,Diesel,2.0,Diesel,,,,,
+1017,9651,TRANSIT Minibus 18 Lug. 2.0 16V Diesel,Ford,Diesel,2.0,Other,,,,,16
+1018,914,Verona GL 1.8i / LX 1.8i 4p,Ford,Álcool,,,,,4,,
+1019,914,Verona GL 1.8i / LX 1.8i 4p,Ford,Gasolina,,,,,4,,
+1020,917,Verona GLX 2.0i / 2.0 4p,Ford,Gasolina,2.0,,,,4,,
+1021,921,Versailles Ghia 2.0i / 2.0 2p e 4p,Ford,Gasolina,2.0,,,,2,,
+1022,922,Versailles GL 1.8i / 1.8 2p e 4p,Ford,Álcool,1.8,,,,2,,
+1023,923,Versailles GL 2.0i / 2.0 2p e 4p,Ford,Álcool,2.0,,,,2,,
+1025,8474,MINITRUCK 3.5 11DT 4x2 diesel (E5),FOTON,Diesel,3.5,,,,,,
+1026,5368,Buggy 2000W 1.8 8V/ 1.8 8V Flex,Fyber,Gasolina,1.8,Other,,,,,8
+1030,10365,Buggy FyberX 1.6 8V,Fyber,Gasolina,1.6,Other,,,,,8
+1031,928,A-20 Custom Std. CD/ De Luxe CD,GM - Chevrolet,Gasolina,,,Pickup,,,,
+1033,929,A-20 Custom/ C-20 Luxe 4.1,GM - Chevrolet,Álcool,4.1,,,,,,
+1034,929,A-20 Custom/ C-20 Luxe 4.1,GM - Chevrolet,Gasolina,4.1,,,,,,
+1036,951,Astra Sed.Comf.2.0 MPFI MultiPower 8V 4p,GM - Chevrolet,Gasolina,2.0,Other,,,4,,8
+1037,953,Astra Sed.Eleg.2.0 MPFI FlexPower 8V 4p,GM - Chevrolet,Gasolina,2.0,Other,,,4,,8
+1039,967,Bonanza S / Luxe 4.0 Diesel Turbo,GM - Chevrolet,Diesel,4.0,Diesel,,,,,
+1042,974,C-10 De Luxe CD 2.5/ 4.1,GM - Chevrolet,Gasolina,2.5,,Pickup,,,,
+1045,4841,CAPTIVA SPORT FWD 2.4 16V 171/185cv,GM - Chevrolet,Gasolina,2.4,Other,,,,1,16
+1047,994,Celta 1.4/ Super/ Energy 1.4 8V 85cv 5p,GM - Chevrolet,Gasolina,1.4,Other,,,5,8,8
+1048,995,Celta Life/ LS 1.0 MPFI 8V FlexPower 3p,GM - Chevrolet,Gasolina,1.0,Other,,,3,,8
+1055,1033,Corsa Sed Class.Spirit 1.0/1.0 FlexPower,GM - Chevrolet,Gasolina,1.0,Flex,,,,,
+1056,1039,Corsa Sed. Maxx 1.0/ 1.0 FlexPower 8V 4p,GM - Chevrolet,Gasolina,1.0,Flex,,,4,,8
+1057,1042,Corsa Sed. Premium 1.8 MPFI 8V FlexPower,GM - Chevrolet,Gasolina,1.8,Other,,,,,8
+1058,1048,Corsa Sedan GLS 1.6 16V MPFI 4p,GM - Chevrolet,Gasolina,1.6,Other,Sedan,,4,,16
+1059,1054,Corsa Super 1.0 MPFI / 2p e 4p,GM - Chevrolet,Gasolina,1.0,Other,,,2,,
+1060,5976,CRUZE HB Sport LT 1.8 16V FlexP. 5p Mec,GM - Chevrolet,Gasolina,1.8,Other,Sport,Manual,5,,16
+1061,8885,CRUZE Premier 1.4 16V TB Flex Aut.,GM - Chevrolet,Gasolina,1.4,Other,,Auto,,,16
+1063,1077,D-20 S 3.9/4.0 Turbo Diesel,GM - Chevrolet,Diesel,3.9,Turbo,,,,,
+1066,9859,EQUINOX RS 1.5 Turbo 172cv Aut.,GM - Chevrolet,Gasolina,1.5,Turbo,,Auto,,1,
+1068,5276,MALIBU LTZ 2.4 16V 171cv 4p,GM - Chevrolet,Gasolina,2.4,Other,,,4,1,16
+1069,4768,Meriva Joy 1.4 MPFI 8V ECONOFLEX 5p,GM - Chevrolet,Gasolina,1.4,Other,,,5,,8
+1070,10401,MONTANA 1.2 Turbo Flex 12V 4p Mec.,GM - Chevrolet,Gasolina,1.2,Turbo,,Manual,4,,12
+1071,10759,MONTANA RS 1.2 Turbo Flex 12V Aut.,GM - Chevrolet,Gasolina,1.2,Turbo,,Auto,,,12
+1074,1108,Omega CD 3.8 V6,GM - Chevrolet,Gasolina,3.8,V6/V8,Pickup,,,,
+1075,6232,ONIX HATCH LT 1.0 8V FlexPower 5p Mec.,GM - Chevrolet,Gasolina,1.0,Other,,Manual,5,,8
+1076,6530,ONIX HATCH LT 1.4 8V FlexPower 5p Aut.,GM - Chevrolet,Gasolina,1.4,Other,,Auto,5,,8
+1084,1116,Opala L/SL/SS/ 2.5/4.1,GM - Chevrolet,Gasolina,2.5,,,,,,
+1086,6350,PRISMA Sed. LT 1.4 8V FlexPower 4p,GM - Chevrolet,Gasolina,1.4,Other,,,4,,8
+1089,6533,PRISMA Sed. LTZ 1.4 8V FlexPower 4p Aut.,GM - Chevrolet,Gasolina,1.4,Other,,Auto,4,,8
+1091,1125,S10 Blazer DLX 2.5 Diesel Turbo,GM - Chevrolet,Diesel,2.5,Diesel,,,,,
+1093,1137,S10 Pick-Up 2.8 4x2 Turbo Interc. Dies.,GM - Chevrolet,Diesel,2.8,Turbo,,,,,
+1094,1145,S10 Pick-Up Exec. 2.8 4x2 CD TB Int.Dies,GM - Chevrolet,Diesel,2.8,,Pickup,,,,
+1095,1146,S10 Pick-Up Exec. 2.8 4x4 CD TB Int.Dies,GM - Chevrolet,Diesel,2.8,,Pickup,,,,
+1101,7956,S10 Pick-Up LTZ 2.5 Flex 4x4 CD Aut.,GM - Chevrolet,Gasolina,2.5,Flex,Pickup,Auto,,,
+1102,1149,S10 Pick-Up Luxe 2.2 EFI CD,GM - Chevrolet,Gasolina,2.2,,Pickup,,,,
+1103,1153,S10 Pick-Up Luxe 2.5 Diesel Turbo,GM - Chevrolet,Diesel,2.5,Diesel,,,,,
+1104,1158,S10 Pick-Up Std 2.8 4x2 CD TB Int.Dies.,GM - Chevrolet,Diesel,2.8,,Pickup,,,,
+1105,1164,S10 P-Up 2.8/Sert. 2.8 4x4 TB Int. Dies.,GM - Chevrolet,Diesel,2.8,,,,,,
+1106,1166,S10 P-Up Colina 2.8 TDI 4x2/4x4 CD Dies.,GM - Chevrolet,Diesel,2.8,,Pickup,,,,
+1109,1167,S10 P-Up Luxe 2.5 4x2 CD TB Max HST Dies,GM - Chevrolet,Diesel,2.5,,Pickup,,,,
+1113,1172,Sierra CE 5.7 V8,GM - Chevrolet,Gasolina,5.7,V6/V8,,,,,
+1114,1183,Silverado DLX 4.2 Diesel,GM - Chevrolet,Diesel,4.2,Diesel,,,,,
+1119,6106,SPIN LTZ 1.8 8V Econo.Flex 5p Mec.,GM - Chevrolet,Gasolina,1.8,Other,,Manual,5,,8
+1121,1199,Suprema CD 4.1 / 3.0,GM - Chevrolet,Gasolina,4.1,,Pickup,,,,
+1122,4240,TRACKER 2.0 16v 128cv MPFI 4x4 5p,GM - Chevrolet,Gasolina,2.0,Other,,,5,1,
+1123,7792,TRACKER LT 1.4 Turbo 16V Flex 4x2 Aut.,GM - Chevrolet,Gasolina,1.4,Turbo,,Auto,,,16
+1127,1229,Zafira 2.0/ CD 2.0 16V  MPFI 5p,GM - Chevrolet,Gasolina,2.0,Other,Pickup,,5,,16
+1129,1237,Zafira Elite 2.0 MPFI FlexPower 8V 5p,GM - Chevrolet,Gasolina,2.0,Other,,,5,,8
+1131,4773,Towner Pick-Up 1.0 8V 48cv 2p,HAFEI,Gasolina,1.0,Other,,,2,4,8
+1132,9437,e.co Tech4 6kW (Elétrico),HITECH ELECTRIC,Gasolina,,Electric,,,,,
+1136,1245,Accord Sedan LX  2.2/2.4 16V,Honda,Gasolina,2.2,Other,Sedan,,,,16
+1137,1246,Accord SW EX,Honda,Gasolina,,,,,,,
+1138,5373,CITY Sedan DX 1.5 Flex 16V Mec.,Honda,Gasolina,1.5,Flex,Sedan,Manual,,,16
+1145,8212,CITY Sedan Personal 1.5 Flex 16V Aut.,Honda,Gasolina,1.5,Flex,Sedan,Auto,,,16
+1146,1249,Civic CRX/ Targa VTi,Honda,Gasolina,,,,,,,
+1148,1250,Civic Sedan EX/ EXS 1.6 Mec. 4p,Honda,Gasolina,1.6,,Sedan,Manual,4,,
+1149,1262,Civic Sedan LX 1.6 16V Aut. 4p,Honda,Gasolina,1.6,Other,Sedan,Auto,4,,16
+1150,1266,Civic Sedan LXB 1.6 16V 4p,Honda,Gasolina,1.6,Other,Sedan,,4,,16
+1152,4292,Civic Sedan Si 2.0 16V  192cv 4p,Honda,Gasolina,2.0,Other,Sedan,,4,1,16
+1153,7696,Civic Sedan TOURING 1.5 Turbo 16V Aut.4p,Honda,Gasolina,1.5,Turbo,Sedan,Auto,4,,16
+1154,4630,CR-V LX 2.0 16V 2WD/2.0 Flexone Aut.,Honda,Gasolina,2.0,Other,,Auto,,,16
+1161,1278,Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Mec.,Honda,Gasolina,1.4,Flex,,Manual,5,,8
+1163,10217,HR-V EX 1.5 Flex Sensing 16V 5p Aut.,Honda,Gasolina,1.5,Flex,,Auto,5,,16
+1164,7152,HR-V LX 1.8 Flexone 16V 5p Aut.,Honda,Gasolina,1.8,Flex,,Auto,5,,16
+1165,10218,HR-V Touring 1.5 Flex TB 16V 5p Aut.,Honda,Gasolina,1.5,Flex,,Auto,5,,16
+1166,1287,Accent GLS 1.5 12V/16V Mec.,Hyundai,Gasolina,1.5,Other,,Manual,,,12
+1168,9589,Creta Attitude 1.6 16V Flex Aut.,Hyundai,Gasolina,1.6,Other,,Auto,,,16
+1169,7830,Creta Prestige 2.0 16V Flex Aut.,Hyundai,Gasolina,2.0,Other,,Auto,,,16
+1170,1301,Elantra GLS 1.6,Hyundai,Gasolina,1.6,,,,,,
+1171,6433,Elantra GLS 2.0 16V Flex Aut.,Hyundai,Gasolina,2.0,Other,,Auto,,,16
+1172,1306,Excel GLS,Hyundai,Gasolina,,,,,,,
+1173,1316,H1 Starex HSV 2.5 Diesel,Hyundai,Diesel,2.5,Diesel,,,,,
+1174,1319,H100 DLX/ Panel Diesel,Hyundai,Diesel,,Diesel,,,,,
+1175,1321,H100 GL Furgão Extra-Longo Diesel,Hyundai,Diesel,,Diesel,,,,,
+1176,1326,H100 SPR Diesel (15 lugares),Hyundai,Diesel,,Diesel,,,,,
+1177,6207,HB20 C./C.Plus/C.Style 1.6 Flex 16V Mec.,Hyundai,Gasolina,1.6,Flex,,Manual,,,16
+1179,7480,HB20 R spec 1.6 Flex 16V Aut.,Hyundai,Gasolina,1.6,Flex,,Auto,,,16
+1181,10820,HB20S Comfort Plus 1.0 Flex 12V Mec.,Hyundai,Gasolina,1.0,Flex,,Manual,,,12
+1182,6438,HB20S Premium 1.6 Flex 16V Mec. 4p,Hyundai,Gasolina,1.6,Flex,,Manual,4,,16
+1183,6355,HB20X Style 1.6 Flex 16v Mec.,Hyundai,Gasolina,1.6,Flex,,Manual,,,
+1184,10635,HR 2.5 4WD Diesel,Hyundai,Diesel,2.5,Diesel,,,,,
+1185,7858,ix35 2.0 16V 2WD Flex Aut.,Hyundai,Gasolina,2.0,Other,,Auto,,,16
+1186,1331,Porter GL 4x2 Curto/Longo Diesel,Hyundai,Diesel,,Diesel,,,,,
+1189,6439,Santa Fe/GLS 3.3 V6 4X4 Tiptronic,Hyundai,Gasolina,3.3,V6/V8,,,,,
+1190,1334,Scoupe,Hyundai,Gasolina,,,,,,,
+1191,1340,Terracan 2.5 8V 100cv TB Diesel Aut.,Hyundai,Diesel,2.5,Other,,Auto,,1,8
+1194,7836,Tucson GLS 1.6 Turbo 16V Aut.,Hyundai,Gasolina,1.6,Turbo,,Auto,,,16
+1200,1349,Hombre 2 WD XS 2.2,Isuzu,Gasolina,2.2,,,,,,
+1201,10630,Daily 50-180 Vetrato 3.0 (Diesel) (E6),IVECO,Diesel,3.0,Diesel,,,,,
+1202,10197,DAILY CHASSI 35-160 Curto 3.0 (Die.)(E6),IVECO,Diesel,3.0,,,,,,
+1203,11101,DAILY CHASSI 35-180 Curto 3.0 (Die.)(E6),IVECO,Diesel,3.0,,,,,,
+1204,9697,DAILY CHASSI 45-170 3.0 (Diesel),IVECO,Diesel,3.0,Diesel,,,,,
+1205,10202,DAILY CHASSI 55-180 CD 3.0 4p (Die.)(E6),IVECO,Diesel,3.0,,Pickup,,4,,
+1206,10206,DAILY CHASSI 65-180 3.0 2p (Diesel)(E6),IVECO,Diesel,3.0,Diesel,,,2,,
+1207,9706,DAILY CITY 30S13 Furgão 2p (Diesel),IVECO,Diesel,,Diesel,,,2,,
+1208,10210,DAILY FURGÃO 55-180 3.0 12m³ (Dies.)(E6),IVECO,Diesel,3.0,,,,,,
+1209,9552,e-JS1 62cv 5p Aut. (Elétrico),JAC,Gasolina,,Electric,,Auto,5,6,
+1210,5499,J3 turin Sedan 1.4 16V 4p Mec.,JAC,Gasolina,1.4,Other,Sedan,Manual,4,,16
+1211,7482,T5 1.5 JET Flex 16V 5p Mec.,JAC,Gasolina,1.5,Flex,,Manual,5,,16
+1212,8082,V260 2.0 16V Diesel,JAC,Diesel,2.0,Other,,,,,16
+1213,8495,E-Pace R-Dyn. SE 2.0 AWD 250cv Aut/Flex.,Jaguar,Gasolina,2.0,Flex,,Auto,,2,
+1214,8901,F-PACE SVR Supercharged 5.0 V8,Jaguar,Gasolina,5.0,V6/V8,,,,,
+1215,6588,F-Type S Supercharged Conversivel 3.0 V6,Jaguar,Gasolina,3.0,V6/V8,,,,,
+1216,1352,S-Type 3.0/ 3.0 SE V6,Jaguar,Gasolina,3.0,V6/V8,,,,,
+1218,5453,XJ S.Sport Supercharged 5.0 V8 32V Aut.,Jaguar,Gasolina,5.0,V6/V8,Sport,Auto,,,32
+1219,1367,XK-8 BR Coupe/ XK-8 Coupe,Jaguar,Gasolina,,,Coupe,,,,
+1220,4438,XKR Coupe  4.2/5.0 32V,Jaguar,Gasolina,4.2,,Coupe,,,,32
+1221,1368,X-Type ESTATE 3.0 24V 230cv,Jaguar,Gasolina,3.0,,,,,2,24
+1222,1373,Cherokee Sport  4.0 Mec./Aut.,Jeep,Gasolina,4.0,,Sport,Manual,,,
+1223,9614,Commander Overland T270 1.3 TB Flex Aut.,Jeep,Gasolina,1.3,Flex,,Auto,,,
+1224,9455,COMPASS LIMITED T270 1.3 TB 4x2 Flex Aut,Jeep,Gasolina,1.3,Flex,,Auto,,,
+1225,7759,COMPASS LONGITUDE 2.0 4x2 Flex 16V Aut.,Jeep,Gasolina,2.0,Flex,,Auto,,,16
+1226,7761,COMPASS SPORT 2.0 4x2 Flex 16V Aut.,Jeep,Gasolina,2.0,Flex,,Auto,,,16
+1227,7762,COMPASS TRAILHAWK 2.0 4x4 Dies. 16V Aut.,Jeep,Diesel,2.0,Other,,Auto,,,16
+1228,1378,Grand Cherokee Laredo 4.0 Aut.,Jeep,Gasolina,4.0,,,Auto,,,
+1232,4200,Grand Cherokee Overland 5.7 326cv,Jeep,Gasolina,5.7,,,,,3,
+1233,8056,Renegade Limited 1.8 4x2 Flex 16V Aut.,Jeep,Gasolina,1.8,Flex,,Auto,,,16
+1234,7186,Renegade Longitude 1.8 4x2 Flex 16V Aut.,Jeep,Gasolina,1.8,Flex,,Auto,,,16
+1236,7189,Renegade Sport 1.8 4x2 Flex 16V Mec.,Jeep,Gasolina,1.8,Flex,Sport,Manual,,,16
+1237,10680,Renegade T270 1.3 TB 4x2 Flex Aut.,Jeep,Gasolina,1.3,Flex,,Auto,,,
+1239,8665,Wrangler SAHARA 2.0 4x4 271cv 2p Aut.,Jeep,Gasolina,2.0,,,Auto,2,2,
+1241,4851,TOPIC ESCOLAR L 2.2 8V/ 2.0 16V 4p,JINBEI,Gasolina,2.2,Other,,,4,,8
+1242,4854,TOPIC VAN L 2.2 8V/ 2.0 16V 4p,JINBEI,Gasolina,2.2,Other,,,4,,8
+1243,6108,TOPIC VAN Lon./GRAN TOPIC SL,JINBEI,Gasolina,,,,,,,
+1244,1387,Jipe Montez Std 4x4 Teto de Lona Diesel,JPX,Diesel,,Diesel,,,,,
+1245,1388,Jipe Montez Std 4x4 Teto Rígido Diesel,JPX,Diesel,,Diesel,,,,,
+1247,1392,Besta Furgão 2.2 Diesel,Kia Motors,Diesel,2.2,Diesel,,,,,
+1248,1395,Besta GS 2.7 8V 12L Diesel,Kia Motors,Diesel,2.7,Other,,,,,8
+1249,1399,Bongo K-2400 2.4 Diesel,Kia Motors,Diesel,2.4,Diesel,,,,,
+1252,4140,Bongo K-2700 2.7 4x4 Basculante Diesel,Kia Motors,Diesel,2.7,Diesel,,,,,
+1253,4684,Carens EX 2.0 16V  Aut.,Kia Motors,Gasolina,2.0,Other,,Auto,,,16
+1254,1405,Carnival 2.5 V6,Kia Motors,Gasolina,2.5,V6/V8,,,,,
+1257,6442,Cerato 1.6 16V  Flex  Aut.,Kia Motors,Gasolina,1.6,Other,,Auto,,,16
+1258,4121,Magentis EX 2.0 16V Aut.,Kia Motors,Gasolina,2.0,Other,,Auto,,,16
+1259,4891,MOHAVE EX 3.0 V6 24V 256cv TB Dies. Aut.,Kia Motors,Diesel,3.0,V6/V8,,Auto,,2,24
+1264,5249,Sorento 2.4 16V 4x2 Aut.,Kia Motors,Gasolina,2.4,Other,,Auto,,,16
+1265,5250,Sorento 2.4 16V 4x4 Aut.,Kia Motors,Gasolina,2.4,Other,,Auto,,,16
+1266,1420,Sorento EX 2.5 140/170cv 4x4 Aut.Diesel,Kia Motors,Diesel,2.5,Diesel,,Auto,,1,
+1267,4978,SOUL 1.6/ 1.6 16V FLEX Mec.,Kia Motors,Gasolina,1.6,Other,,Manual,,,16
+1268,4477,Sportage EX 2.0 16V Mec.,Kia Motors,Gasolina,2.0,Other,Sport,Manual,,,16
+1269,1437,Laika 1.6,Lada,Gasolina,1.6,,,,,,
+1270,1441,Niva 1.7i 4x4,Lada,Gasolina,,,,,,,
+1271,5376,Gallardo Coupe Superleggera LP570-4,LAMBORGHINI,Gasolina,,,Coupe,,,,
+1272,8958,HURACAN EVO Coupe LP 640-4,LAMBORGHINI,Gasolina,,,Coupe,,,,
+1273,8545,URUS LP-650-4,LAMBORGHINI,Gasolina,,,,,,,
+1274,4532,Defender 110 2.4 122cv T.Diesel,Land Rover,Diesel,2.4,Diesel,,,,1,
+1275,1448,Defender 110 TDI County SW Diesel,Land Rover,Diesel,,Diesel,,,,,
+1276,1449,Defender 110 TDI SW Diesel,Land Rover,Diesel,,Diesel,,,,,
+1279,1452,Defender 130 TDI CD Diesel,Land Rover,Diesel,,Diesel,Pickup,,,,
+1284,1457,Defender 90 TDI SW Diesel,Land Rover,Diesel,,Diesel,,,,,
+1286,1460,Discovery ES TD5 2.5 4x4 4p Diesel Aut.,Land Rover,Diesel,2.5,Diesel,,Auto,4,,
+1287,7973,Discovery HSE 3.0 V6 4x4 TD6 Diesel Aut.,Land Rover,Diesel,3.0,V6/V8,,Auto,,,
+1288,8017,Discovery SE 3.0 V6 4x4 TD6  Diesel Aut.,Land Rover,Diesel,3.0,V6/V8,,Auto,,,
+1289,9023,Discovery Sport SE R-Dyn 2.0 Si4 Flex,Land Rover,Gasolina,2.0,Flex,Sport,,,,
+1290,1465,Discovery3 S 2.7 4x4 TDI Diesel Aut.,Land Rover,Diesel,2.7,Diesel,,Auto,,,
+1291,5899,Discovery4 S 3.0 4X4 TDV6 Diesel Aut.,Land Rover,Diesel,3.0,V6/V8,,Auto,,,
+1292,5557,Freelander2 HSE 2.2 SD4 190cv T.Diesel,Land Rover,Diesel,2.2,Diesel,,,,1,
+1293,4303,Freelander2 I6 HSE 3.2 232cv Aut. 5p,Land Rover,Gasolina,3.2,,,Auto,5,2,
+1294,5558,Freelander2 S 2.2 SD4 190cv T.Diesel,Land Rover,Diesel,2.2,Diesel,,,,1,
+1295,6387,Freelander2 Si4 S 2.0 240cv Aut. 5p,Land Rover,Gasolina,2.0,,,Auto,5,2,
+1296,6641,Range R. Sport HSE Dynamic SUPERC.5.0 V8,Land Rover,Gasolina,5.0,V6/V8,Sport,,,,
+1297,6391,Range R. Vogue Autob. SUPERCHAR. 5.0 V8,Land Rover,Gasolina,5.0,V6/V8,,Auto,,,
+1299,5133,Range R.Sport SE 3.0 4x4 TDV6/SDV6 Dies.,Land Rover,Diesel,3.0,V6/V8,Sport,,,,
+1301,7798,Range Rover EVOQUE SE 2.0 Diesel Aut.,Land Rover,Diesel,2.0,Diesel,,Auto,,,
+1305,5145,Range Rover Sport HSE 3.0 4x4 SDV6 Dies.,Land Rover,Diesel,3.0,V6/V8,Sport,,,,
+1307,7157,Range Rover Sport SVR SUPERCHA. 5.0 V8,Land Rover,Gasolina,5.0,V6/V8,Sport,,,,
+1309,4332,Range Rover Vogue 3.6 TDV8 272cv Diesel,Land Rover,Diesel,3.6,V6/V8,,,,2,
+1310,5146,Range Rover Vogue SE SUPERCHAR. 5.0 V8,Land Rover,Gasolina,5.0,V6/V8,,,,,
+1311,4260,ES-350 3.5 24V 284cv,Lexus,Gasolina,3.5,,,,,2,24
+1315,6067,LS-460L 4.6 V8 32v 347cv Aut.,Lexus,Gasolina,4.6,V6/V8,,Auto,,3,
+1316,10033,NX-350h F-Sport 2.5 16V Aut. (Híbrido),Lexus,Gasolina,2.5,Other,Sport,Auto,,,16
+1318,10072,UX-250h Dynamic 2.0 16V Aut. (Híbrido),Lexus,Gasolina,2.0,Other,,Auto,,,16
+1319,5346,320 ELITE 1.3 16V 88cv 5p,LIFAN,Gasolina,1.3,Other,,,5,8,16
+1320,6467,X60 1.8 16V 128cv 5p Mec.,LIFAN,Gasolina,1.8,Other,,Manual,5,1,16
+1321,4500,SCORPIO 2.6 CD TB Diesel CRDe 4x4,Mahindra,Diesel,2.6,Diesel,Pickup,,,,
+1322,1527,180-D Pick-Up/Furgão 2.4 Diesel,Mercedes-Benz,Diesel,2.4,Diesel,,,,,
+1323,1539,500-SEL 5.0/ 5.6,Mercedes-Benz,Gasolina,5.0,,,,,,
+1325,9166,A-45  S AMG 4MATIC CGI 2.0 TB Aut.,Mercedes-Benz,Gasolina,2.0,,,Auto,,,
+1326,6928,C-180 CGI Avant. 1.6/1.6 FlexTB 16V Aut.,Mercedes-Benz,Gasolina,1.6,Flex,MPV,Auto,,,16
+1327,7957,C-180 CGI Coupe Avant. 1.6 TB 16V Aut.,Mercedes-Benz,Gasolina,1.6,Other,Coupe,Auto,,,16
+1328,6929,C-180 CGI Exc. 1.6/1.6 Flex TB 16V  Aut.,Mercedes-Benz,Gasolina,1.6,Flex,,Auto,,,16
+1329,6357,C-180 CGI Touring Sport 1.6 TB Aut.,Mercedes-Benz,Gasolina,1.6,,Sport,Auto,,,
+1331,1541,C-180 Classic/Classic Plus/Elegance,Mercedes-Benz,Gasolina,,,,,,,
+1341,5213,C-180 Kompressor Classic 1.6 16V Aut.,Mercedes-Benz,Gasolina,1.6,Other,,Auto,,,16
+1343,5307,C-200 CGI Avantgarde 1.8 16V 184cv Aut.,Mercedes-Benz,Gasolina,1.8,Other,MPV,Auto,,1,16
+1344,1550,C-230 Sport/ Eleg./Touring Eleg.Plus 2.3,Mercedes-Benz,Gasolina,2.3,,Sport,,,,
+1345,1554,C-240 Elegance 2.4,Mercedes-Benz,Gasolina,2.4,,,,,,
+1346,1556,C-280 Classic/Sport,Mercedes-Benz,Gasolina,,,Sport,,,,
+1348,1559,C-320 AvantGarde 3.2 V6 24v 4p Aut.,Mercedes-Benz,Gasolina,3.2,V6/V8,MPV,Auto,4,,
+1349,1561,C-320 Touring 3.2 V6 18v 4p Aut.,Mercedes-Benz,Gasolina,3.2,V6/V8,,Auto,4,,
+1350,7738,C-43 Coupe AMG 3.0 V6 Bi-Turbo Aut.,Mercedes-Benz,Gasolina,3.0,V6/V8,Coupe,Auto,,,
+1351,7620,C-63 AMG 4.0 V8 Bi-Turbo Aut.,Mercedes-Benz,Gasolina,4.0,V6/V8,,Auto,,,
+1352,7837,C-63 S Coupe AMG 4.0 V8  Bi-Turbo Aut.,Mercedes-Benz,Gasolina,4.0,V6/V8,Coupe,Auto,,,
+1353,9679,CL-65 AMG 6.0 V12 Aut.,Mercedes-Benz,Gasolina,6.0,Other,,Auto,,,
+1354,6965,CLA-200 Urban 1.6 TB 16V/Flex Aut.,Mercedes-Benz,Gasolina,1.6,Other,,Auto,,,16
+1355,6867,CLA-45 AMG 4MATIC CGI 2.0 TB Aut.,Mercedes-Benz,Gasolina,2.0,,,Auto,,,
+1356,1566,Classe A 160 Classic Semi-Aut.,Mercedes-Benz,Gasolina,,,,Auto,,,
+1357,1567,Classe A 160 Classic/ Spirit Mec.,Mercedes-Benz,Gasolina,,,,Manual,,,
+1358,1571,Classe A 190 AvantGarde 1.9 8V 125cv Mec,Mercedes-Benz,Gasolina,1.9,Other,MPV,Manual,,1,8
+1359,1574,Classe A 190 Elegance 1.9 Aut.,Mercedes-Benz,Gasolina,1.9,,,Auto,,,
+1360,3829,Classe A 200 Elegance 2.0 136cv Aut.,Mercedes-Benz,Gasolina,2.0,,,Auto,,1,
+1361,4202,Classe B 200 2.0 Turbo 193cv Aut.,Mercedes-Benz,Gasolina,2.0,Turbo,,Auto,,1,
+1362,1579,CLK-230 Kompressor,Mercedes-Benz,Gasolina,,,,,,,
+1363,3896,CLK-350 Avant./Eleg. Cabriolet 3.5 272cv,Mercedes-Benz,Gasolina,3.5,,MPV,,,2,
+1364,1593,CLK-55 AMG Cabriolet V8 24v 367cv,Mercedes-Benz,Gasolina,,V6/V8,,,,3,
+1365,5746,CLS-350 CGI 3.5 306cv Aut.,Mercedes-Benz,Gasolina,3.5,,,Auto,,3,
+1366,1595,CLS-500 V8 24V,Mercedes-Benz,Gasolina,,V6/V8,,,,,24
+1367,5593,CLS-63 AMG 5.5 V8 557cv Aut.,Mercedes-Benz,Gasolina,5.5,V6/V8,,Auto,,5,
+1368,1601,E-240 Elegance,Mercedes-Benz,Gasolina,,,,,,,
+1369,8782,E-300 Exclusive 2.0 TB 258cv Aut.,Mercedes-Benz,Gasolina,2.0,,,Auto,,2,
+1370,1605,E-320 3.2 Elegance,Mercedes-Benz,Gasolina,3.2,,,,,,
+1372,1606,E-320 Avantgarde,Mercedes-Benz,Gasolina,,,MPV,,,,
+1374,1615,E-430 Elegance,Mercedes-Benz,Gasolina,,,,,,,
+1375,4774,E-500 Avant. 5.0 V8 4p Aut. (Blindada),Mercedes-Benz,Gasolina,5.0,V6/V8,MPV,Auto,4,,
+1376,1617,E-500 Elegance/ Avant. 5.0 V8 24V 4p Aut,Mercedes-Benz,Gasolina,5.0,V6/V8,MPV,Auto,4,,24
+1378,1618,E-500 Tour. Avant./ Eleg. 24V V8 5p Aut.,Mercedes-Benz,Gasolina,,V6/V8,MPV,Auto,5,,24
+1379,1619,E-55 AMG,Mercedes-Benz,Gasolina,,,,,,,
+1381,4245,E-63 AMG 6.2 V8 32V,Mercedes-Benz,Gasolina,6.2,V6/V8,,,,,32
+1382,5151,G-55 Kompressor AMG 5.5 V8 507cv Aut.,Mercedes-Benz,Gasolina,5.5,V6/V8,,Auto,,5,
+1383,8499,G-63 AMG 4MATIC 4.0 V8 Bi-TB 585cv Aut.,Mercedes-Benz,Gasolina,4.0,V6/V8,,Auto,,5,
+1384,4250,GL-500 5.5 V8 32V 4x4 388cv Aut.,Mercedes-Benz,Gasolina,5.5,V6/V8,,Auto,,3,32
+1385,9329,GLA 200 AMG Line 1.3 16V TB Aut.,Mercedes-Benz,Gasolina,1.3,Other,,Auto,,,16
+1387,10882,GLA 200 AMG Line 1.3 16V TB Aut.(Híb.),Mercedes-Benz,Gasolina,1.3,Other,,Auto,,,16
+1389,7397,GLA 200 Enduro 1.6 TB 16V Flex Aut.,Mercedes-Benz,Gasolina,1.6,Other,,Auto,,,16
+1390,7161,GLA 200 Style 1.6 TB 16V/Flex Aut.,Mercedes-Benz,Gasolina,1.6,Other,,Auto,,,16
+1391,9350,GLB 200 Advance 1.3 TB 16V Aut.,Mercedes-Benz,Gasolina,1.3,Other,,Auto,,,16
+1392,9793,GLB 35 AMG 4MATIC 2.0 Turbo Aut.,Mercedes-Benz,Gasolina,2.0,Turbo,,Auto,,,
+1393,10972,GLB 35 AMG 4MATIC 2.0 Turbo Aut. (Híb.),Mercedes-Benz,Gasolina,2.0,Turbo,,Auto,,,
+1395,9615,GLC 220D 2.0 TB 4M Enduro Diesel,Mercedes-Benz,Diesel,2.0,Diesel,,,,,
+1399,9616,GLC 220D 2.0 TB 4M Off-Road Diesel,Mercedes-Benz,Diesel,2.0,Diesel,,,,,
+1400,8909,GLC 300 Coupe 4MATIC 2.0 TB 16V Aut.,Mercedes-Benz,Gasolina,2.0,Other,Coupe,Auto,,,16
+1401,10952,GLC-300 AMG L. Cou. 4M 2.0 TB Aut. (Híb),Mercedes-Benz,Gasolina,2.0,,,Auto,,,
+1402,9660,GLC-43 AMG Coupe 3.0 V6 Bi-TB Aut.,Mercedes-Benz,Gasolina,3.0,V6/V8,Coupe,Auto,,,
+1403,8633,GLC-63 AMG 4MATIC 4.0 Bi-TB V8,Mercedes-Benz,Gasolina,4.0,V6/V8,,,,,
+1404,7486,GLE-350 Sport 4MATIC 3.0 V6 4x4 Diesel,Mercedes-Benz,Diesel,3.0,V6/V8,Sport,,,,
+1405,7511,GLE-400 Night Coupe 3.0 V6 333cv Aut.,Mercedes-Benz,Gasolina,3.0,V6/V8,Coupe,Auto,,3,
+1406,7838,GLE-43 AMG 4MATIC Coupe 3.0 V6 Bi-TB Aut,Mercedes-Benz,Gasolina,3.0,V6/V8,Coupe,Auto,,,
+1407,7739,GLE-450 AMG 3.0 V6 367cv Aut.,Mercedes-Benz,Gasolina,3.0,V6/V8,,Auto,,3,
+1408,11018,GLE-450 Coupe 3.0 4MATIC Diesel (Híb),Mercedes-Benz,Diesel,3.0,Diesel,Coupe,,,,
+1410,5134,GLK 300 3.0 V6 24V 4x4 231cv Aut.,Mercedes-Benz,Gasolina,3.0,V6/V8,,Auto,,2,24
+1411,7356,GT S AMG 4.0 V8 Bi-Turbo 510cv,Mercedes-Benz,Gasolina,4.0,V6/V8,,,,5,
+1412,5035,ML-350 3.0 V6  4x4 Diesel,Mercedes-Benz,Diesel,3.0,V6/V8,,,,,
+1413,1623,ML-350 3.5  4x4,Mercedes-Benz,Gasolina,3.5,,,,,,
+1414,6124,ML-350 Sport CGI 3.5 V6 306cv 4x4 Aut.,Mercedes-Benz,Gasolina,3.5,V6/V8,Sport,Auto,,3,
+1415,4318,ML-63 AMG 6.2 V8 32V 510cv,Mercedes-Benz,Gasolina,6.2,V6/V8,,,,5,32
+1416,1627,S-320 L Classic/Wagon Classic 3.2,Mercedes-Benz,Gasolina,3.2,,Wagon,,,,
+1418,1630,S-500 C Classic 5.0,Mercedes-Benz,Gasolina,5.0,,,,,,
+1419,1632,S-500L 5.0,Mercedes-Benz,Gasolina,5.0,,,,,,
+1422,1635,S-600/ S-600 C Classic 6.0,Mercedes-Benz,Gasolina,6.0,,,,,,
+1423,4517,S-63 AMG 6.2 V8 525cv Aut,Mercedes-Benz,Gasolina,6.2,V6/V8,,Auto,,5,
+1424,4518,S-63 L AMG 6.2 V8/5.5 V8 Bi-TB Aut,Mercedes-Benz,Gasolina,6.2,V6/V8,,Auto,,,
+1427,4261,S-65 AMG 6.0 V12 612cv Aut,Mercedes-Benz,Gasolina,6.0,Other,,Auto,,6,
+1428,1638,SL-320 3.2/Classic 3.2,Mercedes-Benz,Gasolina,3.2,,,,,,
+1430,1639,SL-500 5.0 e 5.5/ Classic 5.0,Mercedes-Benz,Gasolina,5.0,,,,,,
+1434,1640,SL-55 AMG V8 24V 500cv,Mercedes-Benz,Gasolina,,V6/V8,,,,5,24
+1436,1641,SL-600,Mercedes-Benz,Gasolina,,,,,,,
+1438,6359,SL-63 AMG 5.5 Bi-Turbo V8 Aut.,Mercedes-Benz,Gasolina,5.5,Turbo,,Auto,,,
+1441,1642,SLK-200 Kompressor 16V/ 200 CGI 16V,Mercedes-Benz,Gasolina,,Other,,,,,16
+1443,1644,SLK-230 Plus,Mercedes-Benz,Gasolina,,,,,,,
+1444,1647,SLK-55 AMG V8 24V,Mercedes-Benz,Gasolina,,V6/V8,,,,,24
+1447,10685,Sprin. 517 VAN E.L.P.T.A. 20L Die. (E6),Mercedes-Benz,Diesel,,,,,,,
+1448,1655,Sprinter 311 Chassi 2.2 Diesel,Mercedes-Benz,Diesel,2.2,Diesel,,,,,
+1451,1657,Sprinter 311 Furgão Longo 2.2  Dies,Mercedes-Benz,Diesel,2.2,,,,,,
+1453,1658,Sprinter 311 Furgão Longo Teto alto Dies,Mercedes-Benz,Diesel,,,,,,,
+1455,1663,Sprinter 311 VAN Std. 2.2 109cv 13L Dies,Mercedes-Benz,Diesel,2.2,,,,,1,
+1456,1678,Sprinter 312 Van Street Luxo 15Lug.Dies.,Mercedes-Benz,Diesel,,,,,,,
+1457,1682,Sprinter 313 Furgão Curto 2.2 129cv Dies,Mercedes-Benz,Diesel,2.2,,,,,1,
+1459,1684,Sprinter 313 Furgão Longo T. Alto Diesel,Mercedes-Benz,Diesel,,Diesel,,,,,
+1462,1687,Sprinter 313 VAN Luxo 2.2 129cv 16L Dies,Mercedes-Benz,Diesel,2.2,,,,,1,
+1464,1691,Sprinter 313 VAN Street Std. 16L. Dies.,Mercedes-Benz,Diesel,,,,,,,
+1466,8912,Sprinter 314 Furgão Longo T.A. 2.2 Dies.,Mercedes-Benz,Diesel,2.2,,,,,,
+1467,10574,Sprinter 315 Furgão Str. L T.A 2.0 Dies.,Mercedes-Benz,Diesel,2.0,,,,,,
+1468,1693,Sprinter 413 Furgão Longo T.Alto Diesel,Mercedes-Benz,Diesel,,Diesel,,,,,
+1470,6179,Sprinter 415 Chassi L. 2.2 Diesel,Mercedes-Benz,Diesel,2.2,Diesel,,,,,
+1472,6128,Sprinter 415 Furgão Lon.T.Bai. 2.2 Dies.,Mercedes-Benz,Diesel,2.2,,,,,,
+1473,6182,Sprinter 415 VAN Luxo T.A. 2.2 Diesel,Mercedes-Benz,Diesel,2.2,Diesel,,,,,
+1475,9058,Sprinter 416 F. Vidrado E.L T.A. 2.2 Die,Mercedes-Benz,Diesel,2.2,,,,,,
+1476,10581,Sprinter 417 F. Vidrado L.T.A. Die. (E6),Mercedes-Benz,Diesel,,,,,,,
+1477,10585,Sprinter 417 Furgão Longo T.B Die. (E6),Mercedes-Benz,Diesel,,,,,,,
+1478,10589,Sprinter 417 VAN L.T.B 16L Diesel( E6),Mercedes-Benz,Diesel,,Diesel,,,,,
+1479,8923,Sprinter 516 Chassi E.L. T.B. 2.2 Dies.,Mercedes-Benz,Diesel,2.2,,,,,,
+1480,10594,Sprinter 517 F.Vidr. E.L.P.T.A. Die (E6),Mercedes-Benz,Diesel,,,,,,,
+1481,1781,350Z 3.5 V6 280cv/ 312cv 2p,Nissan,Gasolina,3.5,V6/V8,,,2,2,
+1482,1785,D-21 Pick-Up CD 4x2/4x4 2.7 Diesel,Nissan,Diesel,2.7,Diesel,Pickup,,,,
+1483,8551,Frontier ATTAC.CD 4x4 2.3 Bi-TB Die. Aut,Nissan,Diesel,2.3,,Pickup,Auto,,,
+1484,7887,Frontier LE CD 4x4 2.3 Bi-TB Diesel Aut.,Nissan,Diesel,2.3,Diesel,Pickup,Auto,,,
+1485,4775,Frontier LE CD 4x4 2.5 TB Diesel Aut.,Nissan,Diesel,2.5,Diesel,Pickup,Auto,,,
+1486,8636,Frontier S CD 4x4 2.3 TB Diesel Mec.,Nissan,Diesel,2.3,Diesel,Pickup,Manual,,,
+1488,4778,Frontier SE/SE Strik CD 4x4 2.5 TB Dies.,Nissan,Diesel,2.5,,Pickup,,,,
+1489,6241,Frontier SL CD 4x4 2.5TB Diesel Aut,Nissan,Diesel,,Diesel,Pickup,Auto,,,
+1490,4779,Frontier XE CD 4x2 2.5 TB Diesel,Nissan,Diesel,2.5,Diesel,Pickup,,,,
+1491,1795,Frontier XE/ XE TIT. CD 4x2 2.8 TDI Dies,Nissan,Diesel,2.8,,Pickup,,,,
+1492,9335,KICKS Advance 1.6 16V Flex Aut.,Nissan,Gasolina,1.6,Other,,Auto,,,16
+1493,7982,KICKS S 1.6 16V FlexStar 5p Mec.,Nissan,Gasolina,1.6,Other,,Manual,5,,16
+1494,9633,KICKS XPlay 1.6 16V Flex Aut.,Nissan,Gasolina,1.6,Other,,Auto,,,16
+1495,4984,LIVINA GRAND SL 1.8 16V Flex Fuel Aut.,Nissan,Gasolina,1.8,Other,,Auto,,,16
+1496,4867,LIVINA SL 1.8 16V Flex Fuel Aut.,Nissan,Gasolina,1.8,Other,,Auto,,,16
+1497,5691,MARCH S 1.6 16V Flex Fuel 5p,Nissan,Gasolina,1.6,Other,,,5,,16
+1498,5692,MARCH SV 1.6 16V Flex Fuel,Nissan,Gasolina,1.6,Other,,,,,16
+1499,1801,Maxima 30GV/30GV Aero/ GV 3.0 V6 24V,Nissan,Gasolina,3.0,V6/V8,,,,,24
+1500,1803,Maxima GXE 3.0,Nissan,Gasolina,3.0,,,,,,
+1501,1808,Pathfinder LE 2.5 16V TDI Diesel Aut,Nissan,Diesel,2.5,Other,,Auto,,,16
+1502,1814,Pathfinder SE Titanium 3.3 V6 12V,Nissan,Gasolina,3.3,V6/V8,,,,,12
+1503,1819,Pick-Up King Cab DX 2.7 4x2 Diesel,Nissan,Diesel,2.7,Diesel,,,,,
+1504,4294,Sentra 2.0/ 2.0 Flex Fuel 16V Aut.,Nissan,Gasolina,2.0,Flex,,Auto,,,16
+1505,10570,Sentra Advance 2.0 16V Aut.,Nissan,Gasolina,2.0,Other,,Auto,,,16
+1506,1824,Sentra GSX/ EX,Nissan,Gasolina,,,,,,,
+1507,7595,Sentra S 2.0 FlexStart 16V Aut.,Nissan,Gasolina,2.0,Flex,,Auto,,,16
+1508,7596,Sentra SL 2.0 FlexStart 16V Aut.,Nissan,Gasolina,2.0,Flex,,Auto,,,16
+1509,6616,Sentra SV 2.0 FlexStart 16V Aut.,Nissan,Gasolina,2.0,Flex,,Auto,,,16
+1510,4404,TIIDA S 1.8/1.8 Flex 16V  Mec.,Nissan,Gasolina,1.8,Flex,,Manual,,,16
+1511,7166,VERSA 1.0 12V FlexStart 4p Mec.,Nissan,Gasolina,1.0,Other,,Manual,4,,12
+1512,7627,VERSA S 1.6 16V FlexStart 4p Mec.,Nissan,Gasolina,1.6,Other,,Manual,4,,16
+1513,7628,VERSA SL 1.6 16V FlexStart 4p Aut.,Nissan,Gasolina,1.6,Other,,Auto,4,,16
+1514,7630,VERSA SV 1.6 16V FlexStart 4p Aut.,Nissan,Gasolina,1.6,Other,,Auto,4,,16
+1515,1831,XTerra XE 4x4 2.8 132cv TB Int. Diesel,Nissan,Diesel,2.8,Diesel,,,,1,
+1516,6307,PICK-UP Q22B CS 1.0 2p,RELY,Gasolina,1.0,,,,2,,
+1517,6647,PICK-UP Q22E CD 1.0 4p,RELY,Gasolina,1.0,,Pickup,,4,,
+2,53,A3 1.6 3p Aut.,Audi,Gasolina,1.6,,,Auto,3,,
+5,57,A3 1.8 3p Aut.,Audi,Gasolina,1.8,,,Auto,3,,
+6,65,A3 1.8 Turbo 3p Mec.,Audi,Gasolina,1.8,Turbo,,Manual,3,,
+8,8227,A3 Cabriolet Ambition 2.0 TFSI S-tronic,Audi,Gasolina,2.0,,,,,,
+9,8559,A3 Cabriolet Perfor. 2.0 TFSI S-tronic,Audi,Gasolina,2.0,,,,,,
+10,7419,A3 Sed. Ambition 2.0 TSFI 220cv S-tronic,Audi,Gasolina,2.0,,,,,2,
+13,8945,A3 Sed. P. Plus Tech 1.4 Flex TFSI Tip.,Audi,Gasolina,1.4,Flex,,,,,
+15,8768,A3 Sed. P.Plus 1.4 25Anos Flex TFSI Tip.,Audi,Gasolina,1.4,Flex,,,,,
+16,6689,A3 Sed.1.8/1.8 Ambit.16V TB FSI S-tronic,Audi,Gasolina,1.8,Other,,,,,16
+21,9963,A3 Sedan S-Line 2.0 TFSI  S-Tron.(Híb.),Audi,Gasolina,2.0,,Sedan,,,,
+26,89,A4 2.8 Avant V6 30V Mec.,Audi,Gasolina,2.8,V6/V8,MPV,Manual,,,30
+31,7537,A4 Launch Edition 2.0 TFSI 190cv S troni,Audi,Gasolina,2.0,,,,,1,
+33,6082,A5 Cabriolet 2.0 TFSI Quattro Stronic,Audi,Gasolina,2.0,,,,,,
+35,11039,A5 Sportb. S Line 2.0 TFSI Quatt. (Híb.),Audi,Gasolina,2.0,,Sport,,,,
+43,6413,A6 3.0 Avant.TFSI V6 Quattro S tronic 5p,Audi,Gasolina,3.0,V6/V8,MPV,,5,,
+48,9298,A6 Perf. Black 3.0 TFSI Quattro S-tronic,Audi,Gasolina,3.0,,,,,,
+50,9078,E-TRON Performace Aut. (Elétrico),Audi,Gasolina,,Electric,,Auto,,,
+53,6573,Q5 2.0 16V TFSI 225cv Quattro Tiptronic,Audi,Gasolina,2.0,Other,,,,2,16
+58,4936,Q5 2.0 16V TFSI Quattro S Tronic,Audi,Gasolina,2.0,Other,,,,,16
+64,10050,Q7 Perf. Black 3.0 TFSI Quat.Tip.(Híb.),Audi,Gasolina,3.0,,,,,,
+68,8658,Q7 Perf.Black 3.0 TDI Quat.Tip.5p Dies.,Audi,Diesel,3.0,,,,5,,
+69,9205,Q7 S-Line 3.0 V6 TFSI Quattro Tiptronic,Audi,Gasolina,3.0,V6/V8,,,,,
+71,10996,Q8 Perf.Black 3.0 TFSI Quat. S-tr/(Híb.),Audi,Gasolina,3.0,,,,,,
+76,5236,R8 5.2 V10 Quattro R-tronic/S-tronic,Audi,Gasolina,5.2,Other,,,,,
+85,5974,R8 GT 5.2 V10 560cv Quattro R-tronic,Audi,Gasolina,5.2,Other,,,,5,
+88,6865,RS Q3 2.5 TFSI Quattro S-tronic 5p,Audi,Gasolina,2.5,,,,5,,
+95,9292,RS Q3 Sportback 2.5 TFSI Quattro S-tron.,Audi,Gasolina,2.5,,Sport,,,,
+96,9247,RS5 Sportback 2.9 V6 TFSI Quattro Tip.,Audi,Gasolina,2.9,V6/V8,Sport,,,,
+97,6086,S4 3.0 TFSI V6 24V Quattro Stronic,Audi,Gasolina,3.0,V6/V8,,,,,24
+99,136,S4 4.2 Avant V8 40V 344cv Quattro Tipt.,Audi,Gasolina,4.2,V6/V8,MPV,,,3,40
+101,7128,S8 4.0 TFSI Quattro Tiptronic 4p,Audi,Gasolina,4.0,,,,4,,
+102,149,TT 1.8 TB 180cv,Audi,Gasolina,1.8,,,,,1,
+111,155,318i Cabrio 1.8 16V,BMW,Gasolina,1.8,Other,,,,,16
+115,170,323iA Confort,BMW,Gasolina,,,,,,,
+119,186,328i/iA (modelo antigo),BMW,Gasolina,,,,,,,
+120,4272,335iA 3.0 24V 306cv,BMW,Gasolina,3.0,,,,,3,24
+121,200,528iA High,BMW,Gasolina,,,,,,,
+130,203,530i/iA Touring,BMW,Gasolina,,,,,,,
+134,204,535i/iA 3.5 24V,BMW,Gasolina,3.5,,,,,,24
+137,211,545iA 4.4 32V V8 333cv,BMW,Gasolina,4.4,V6/V8,,,,3,32
+139,5268,550iA 4.4 32V 407cv Bi-Turbo,BMW,Gasolina,4.4,Turbo,,,,4,32
+142,3880,550iA 4.8 32V,BMW,Gasolina,4.8,,,,,,32
+146,4995,550iA Limited Sport Edition 4.8 32V,BMW,Gasolina,4.8,,Sport,,,,32
+147,4432,550iA Security 4.8 32V,BMW,Gasolina,4.8,,,,,,32
+149,213,730i 3.0 32V,BMW,Gasolina,3.0,,,,,,32
+150,227,850Ci/CiA 5.0 24V,BMW,Gasolina,5.0,,,,,,24
+151,7024,i3 Rex E Drive Full 170cv Aut.(Elétrico),BMW,Gasolina,,Electric,,Auto,,1,
+152,11103,iX 1 eDrive20 X-Line Aut. (Elétrico),BMW,Gasolina,,Electric,,Auto,,,
+157,236,M5 3.8/Touring 3.8 24V,BMW,Gasolina,3.8,,,,,,24
+158,9484,M5 Competition M XDRIVE 4.4 Bi-TB V8,BMW,Gasolina,4.4,V6/V8,,,,,
+159,8389,M5 Perform. Pack M XDRIVE 4.4 Bi-TB V8,BMW,Gasolina,4.4,V6/V8,,,,,
+162,5497,X3 XDRIVE 35i/M-Sport 3.0 306cv Bi-Turbo,BMW,Gasolina,3.0,Turbo,Sport,,,3,
+165,5188,X5 M 4.4 4x4 V8 32V Bi-Turbo Aut.,BMW,Gasolina,4.4,V6/V8,,Auto,,,32
+166,7283,X5 XDRIVE 30d 3.0 Diesel,BMW,Diesel,3.0,Diesel,,,,,
+167,10765,X5 XDRIVE 50e 3.0 M Sport Aut. (Hibrido),BMW,Gasolina,3.0,,Sport,Auto,,,
+168,247,Z3 2.8 Mec.,BMW,Gasolina,2.8,,,Manual,,,
+169,8777,Z4 M40i 3.0 340cv Aut.,BMW,Gasolina,3.0,,,Auto,,3,
+170,5190,Buggy VII/VII BIG/VII Flex,Bugre,Gasolina,,Flex,,,,,
+175,9039,ARRIZO 5 RT 1.5 Turbo Flex Aut.,Caoa Chery/Chery,Gasolina,1.5,Turbo,,Auto,,,
+177,9040,ARRIZO 5 RTS 1.5 Turbo Flex Aut.,Caoa Chery/Chery,Gasolina,1.5,Turbo,,Auto,,,
+180,8513,ARRIZO 5 RX 1.5 16V Turbo Flex Aut.,Caoa Chery/Chery,Gasolina,1.5,Other,,Auto,,,16
+182,9262,ARRIZO 5 RXS 1.5 Turbo Flex Aut.,Caoa Chery/Chery,Gasolina,1.5,Turbo,,Auto,,,
+183,8514,ARRIZO 5 RXT 1.5 16V Turbo Flex Aut.,Caoa Chery/Chery,Gasolina,1.5,Other,,Auto,,,16
+186,7224,QQ 1.0  ACT FL 12V/1.0 12V Flex  5p,Caoa Chery/Chery,Gasolina,1.0,Other,,,5,,12
+187,8339,Tiggo 2 ACT 1.5 16V Flex Aut.5p,Caoa Chery/Chery,Gasolina,1.5,Other,,Auto,5,,16
+198,5339,AIRCROSS GLX 1.6 Flex 16V 5p Mec.,Citroën,Gasolina,1.6,Flex,,Manual,5,,16
+203,7585,C3 Attraction Pure Tech 1.2 Flex 12V Mec,Citroën,Gasolina,1.2,Flex,,Manual,,,12
+208,8003,C3 Start 1.2 Flex 12V 5p,Citroën,Gasolina,1.2,Flex,,,5,,12
+211,6776,C3 Tendance 1.6 VTi Flex Start 16V Aut.,Citroën,Gasolina,1.6,Flex,,Auto,,,16
+212,4054,C3 XTR 1.6 Flex 16V 5p,Citroën,Gasolina,1.6,Flex,,,5,,16
+213,8472,C4 CACTUS SHINE Pack 1.6 Turbo Flex Aut.,Citroën,Gasolina,1.6,Turbo,,Auto,,,
+216,8515,C4 LOUNGE Live 1.6 Turbo Flex Aut.,Citroën,Gasolina,1.6,Turbo,,Auto,,,
+217,7658,C4 LOUNGE Orig.Business 1.6 TB Flex Aut.,Citroën,Gasolina,1.6,Flex,,Auto,,,
+218,4399,C4 PALLAS GLX 2.0/ 2.0 Flex Aut.,Citroën,Gasolina,2.0,Flex,,Auto,,,
+224,4400,C4 PALLAS GLX 2.0/2.0 Flex 16V Mec.,Citroën,Gasolina,2.0,Flex,,Manual,,,16
+238,302,Jumper 2.8 16Lug.  Diesel,Citroën,Diesel,2.8,Diesel,,,,,
+245,3930,Xsara Picasso Exclus. 1.6/ 1.6 Flex 16V,Citroën,Gasolina,1.6,Flex,,,,,16
+250,362,Lanos SX 1.6 16V Aut.,Daewoo,Gasolina,1.6,Other,,Auto,,,16
+251,380,Cuore 0/TS0 85i,Daihatsu,Gasolina,,,,,,,
+252,391,Dakota Durango 5.9 4x4 V8,Dodge,Gasolina,5.9,V6/V8,,,,,
+257,4640,ULC VAN 1.0 8V 5p,EFFA,Gasolina,1.0,Other,,,5,,8
+259,9041,V25 Furgão 1.3 16V 5p,EFFA,Gasolina,1.3,Other,,,5,,16
+261,7881,458 Speciale A,Ferrari,Gasolina,,,,,,,
+262,7502,488 GTB 3.9 V8 670cv,Ferrari,Gasolina,3.9,V6/V8,,,,6,
+266,9107,488 Pista 3.9 V8 720cv,Ferrari,Gasolina,3.9,V6/V8,,,,7,
+268,8986,488 Pista Spider 3.9 V8 720cv,Ferrari,Gasolina,3.9,V6/V8,,,,7,
+269,7876,488 Spider 3.9 V8 670cv,Ferrari,Gasolina,3.9,V6/V8,,,,6,
+274,4055,F430 Spider F1,Ferrari,Gasolina,,,,,,,
+275,6094,F458 Italia F1 4.5 V8 570cv,Ferrari,Gasolina,4.5,V6/V8,,,,5,
+279,439,147 Pick-Up (todas),Fiat,Gasolina,,,,,,,
+280,7965,ARGO DRIVE 1.0 6V Flex,Fiat,Gasolina,1.0,Flex,,,,,6
+284,441,Brava HGT 1.8 mpi 16V  4p,Fiat,Gasolina,1.8,Other,,,4,,16
+285,5591,Bravo T-JET 1.4 16V Turbo 5p,Fiat,Gasolina,1.4,Other,,,5,,16
+286,6515,Bravo WOLVERINE 1.8 Dualogic Flex 16V 5p,Fiat,Gasolina,1.8,Flex,,,5,,16
+287,445,Coupe 16V,Fiat,Gasolina,,Other,Coupe,,,,16
+288,9989,CRONOS DRIVE 1.0 6V Flex,Fiat,Gasolina,1.0,Flex,,,,,6
+290,5536,Doblo ESSENCE 1.8 Flex 16V 5p,Fiat,Gasolina,1.8,Flex,,,5,,16
+293,8206,Ducato Chassi 2.3 16V Diesel,Fiat,Diesel,2.3,Other,,,,,16
+295,455,Ducato Combinato 2.8 Turbo Diesel,Fiat,Diesel,2.8,Turbo,,,,,
+297,5026,Ducato Maxi. Long. 2.3 T.Alto ME Diesel,Fiat,Diesel,2.3,Diesel,,,,,
+303,465,Ducato-15 Furgão 2.8 Diesel,Fiat,Diesel,2.8,Diesel,,,,,
+304,468,Elba 1.6i.e/Top/CSL/ 1.6i.e/1.5 2p e 4p,Fiat,Gasolina,1.5,,,,2,,
+308,6663,Fiorino Furgão EVO 1.4 Flex 8V 2p,Fiat,Gasolina,1.4,Flex,,,2,,8
+311,478,Fiorino Pick-Up Trekking 1.5 mpi / i.e.,Fiat,Gasolina,1.5,,,,,,
+327,6956,Grand Siena ESSENCE ITALIA 1.6 Flex 16V,Fiat,Gasolina,1.6,Flex,,,,,16
+328,5928,Grand Siena TETRAFUEL 1.4 Evo F. Flex 8V,Fiat,Gasolina,1.4,Flex,,,,,8
+340,522,Palio ELX 1.3 mpi  Fire 16V 4p,Fiat,Gasolina,1.3,Other,,,4,,16
+341,530,Palio EX 1.0 mpi 2p,Fiat,Gasolina,1.0,,,,2,,
+342,534,Palio EX 1.3 mpi Fire 8V 67cv 2p,Fiat,Gasolina,1.3,Other,,,2,6,8
+347,543,Palio Weekend 1.5 mpi 4p,Fiat,Gasolina,1.5,,,,4,,
+348,550,Palio Weekend ELX 1.3 mpi  Fire 16V,Fiat,Gasolina,1.3,Other,,,,,16
+350,552,Palio Weekend ELX 1.4 mpi Fire Flex 8V,Fiat,Gasolina,1.4,Flex,,,,,8
+354,10219,PULSE ABARTH 1.3 Turbo 16V Flex Aut.,Fiat,Gasolina,1.3,Turbo,,Auto,,,16
+355,4421,Punto  ELX 1.4 Fire Flex 8V 5p,Fiat,Gasolina,1.4,Flex,,,5,,8
+360,5298,Punto Sporting Dualogic 1.8 Flex 16V 5p,Fiat,Gasolina,1.8,Flex,Sport,,5,,16
+361,4861,Siena EL Celeb. 1.0 mpi Fire Flex 8V 4p,Fiat,Gasolina,1.0,Flex,,,4,,8
+367,5362,Siena EL Celeb. 1.4 mpi Fire Flex 8V 4p,Fiat,Gasolina,1.4,Flex,,,4,,8
+373,582,Siena ELX 1.0 mpi Fire 16v 4p (25 anos),Fiat,Gasolina,1.0,,,,4,,
+374,586,Siena ELX 1.4 mpi Fire Flex 8V 4p,Fiat,Gasolina,1.4,Flex,,,4,,8
+375,588,Siena ELX 1.6 mpi 8V/16V 4p,Fiat,Gasolina,1.6,Other,,,4,,8
+377,4187,Stilo 1.8 SP Flex 8V 5p,Fiat,Gasolina,1.8,Flex,,,5,,8
+378,6637,Strada Adv.1.8 16V Dualogic Flex CE,Fiat,Gasolina,1.8,Other,,,,,16
+381,9109,Strada Endurance 1.4 Flex 8V CS Plus,Fiat,Gasolina,1.4,Flex,,,,,8
+382,3884,Strada Trekking 1.4 mpi Fire Flex 8V CE,Fiat,Gasolina,1.4,Flex,,,,,8
+383,6055,Strada Trekking 1.6 16V Flex CD,Fiat,Gasolina,1.6,Other,Pickup,,,,16
+384,9724,Strada Volcano 1.3 Flex 8V CD Aut.,Fiat,Gasolina,1.3,Flex,Pickup,Auto,,,8
+385,7134,Strada Working HARD 1.4 Fire Flex 8V CD,Fiat,Gasolina,1.4,Flex,Pickup,,,,8
+386,7136,Strada Working HARD 1.4 Fire Flex 8V CS,Fiat,Gasolina,1.4,Flex,,,,,8
+399,652,Uno Mille/ Mille EX/ Smart 4p,Fiat,Gasolina,,,,,4,,
+402,654,Uno Turbo 1.4 i.e. 2p,Fiat,Gasolina,1.4,Turbo,,,2,,
+404,5484,UNO VIVACE Celeb. 1.0 EVO F. Flex 8V 3p,Fiat,Gasolina,1.0,Flex,,,3,,8
+405,5241,UNO VIVACE/RUA 1.0 EVO Fire Flex 8V 5p,Fiat,Gasolina,1.0,Flex,,,5,,8
+406,5246,UNO WAY Celeb. 1.4 EVO Fire Flex 8V 5p,Fiat,Gasolina,1.4,Flex,,,5,,8
+411,7737,UNO WAY Dual./GSR 1.3 Flex 8V 5p,Fiat,Gasolina,1.3,Flex,,,5,,8
+413,7183,UNO WAY RIO 450 1.0 EVO Flex 8V 5p,Fiat,Gasolina,1.0,Flex,,,5,,8
+415,6322,UNO WAY XINGU 1.0 EVO F.Flex 8V 5P,Fiat,Gasolina,1.0,Flex,,,,,8
+417,6323,UNO WAY XINGU 1.4 EVO F.Flex 8V 5p,Fiat,Gasolina,1.4,Flex,,,5,,8
+419,10806,Buggy Off Road 1.6 8V,Fibravan,Gasolina,1.6,Other,,,,,8
+421,655,Aerostar Mini-Van 3.8,Ford,Gasolina,3.8,,,,,,
+427,668,Courier Si 1.4i 16V,Ford,Gasolina,,Other,,,,,16
+428,672,Del Rey Belina Ghia,Ford,Gasolina,,,,,,,
+433,678,Del Rey L 1.8 / 1.6 2p e 4p,Ford,Gasolina,1.8,,,,2,,
+434,679,EcoSport 4WD 2.0/ 2.0 Flex 16V 5p,Ford,Gasolina,2.0,Flex,Sport,,5,,16
+443,8588,EcoSport TITANIUM 1.5 12V Flex 5p Aut.,Ford,Gasolina,1.5,Other,Sport,Auto,5,,12
+444,681,EcoSport XL Supercharger 1.0 8V 95cv 5p,Ford,Gasolina,1.0,Other,Sport,,5,9,8
+451,4258,EcoSport XLT FREESTYLE 1.6 Flex 8V 5p,Ford,Gasolina,1.6,Flex,Sport,,5,,8
+452,686,Escort Ghia 1.8i / 1.8 / 1.6,Ford,Gasolina,1.8,,,,,,
+456,687,Escort Ghia 2.0i / 2.0,Ford,Álcool,2.0,,,,,,
+458,688,Escort GL 1.6 MPI,Ford,Gasolina,1.6,,,,,,
+464,692,Escort GL 1.8i 16V 4p,Ford,Gasolina,,Other,,,4,,16
+466,697,Escort Hobby 1.0,Ford,Gasolina,1.0,,,,,,
+471,701,Escort RS 1.8i 16V,Ford,Gasolina,,Other,,,,,16
+472,707,Escort XR3 1.8 / 1.6 Conversível,Ford,Gasolina,1.8,,,,,,
+476,715,Explorer XL 4x4 4.0 V6,Ford,Gasolina,4.0,V6/V8,,,,,
+486,730,F-1000 Super 3.6 / Super Série 3.6,Ford,Gasolina,3.6,,,,,,
+493,734,F-1000 Super Série CE 4.9/3.6,Ford,Álcool,4.9,,,,,,
+494,735,F-1000 Super Série CE Diesel 3.9,Ford,Diesel,3.9,Diesel,,,,,
+495,746,F-1000 XLT 2.5 HSD Diesel TB,Ford,Diesel,2.5,Diesel,,,,,
+496,748,F-1000 XLT CE 4.9i,Ford,Gasolina,,,,,,,
+497,751,F-150 XL Triton 4.3 V6,Ford,Gasolina,4.3,V6/V8,,,,,
+498,4161,F-250 TropiCab CE 3.9 TB Diesel,Ford,Diesel,3.9,Diesel,,,,,
+500,4057,F-250 XL 3.9 CD TB Diesel,Ford,Diesel,3.9,Diesel,Pickup,,,,
+502,759,F-250 XL 4.2 180cv CD TB Diesel,Ford,Diesel,4.2,Diesel,Pickup,,,1,
+505,760,F-250 XL 4.2 Turbo Diesel,Ford,Diesel,4.2,Turbo,,,,,
+517,765,F-250 XL Super Duty 4.2 V6,Ford,Gasolina,4.2,V6/V8,,,,,
+519,4059,F-250 XLT 3.9 4x4 CD TB Diesel,Ford,Diesel,3.9,Diesel,Pickup,,,,
+524,4135,Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p,Ford,Gasolina,1.0,Other,,,5,,8
+527,776,Fiesta CLX 1.3i 3p,Ford,Gasolina,,,,,3,,
+528,6522,Fiesta Sedan 1.6 16V Flex Mec.,Ford,Gasolina,1.6,Other,Sedan,Manual,,,16
+530,794,Fiesta Street/ Action 1.0 8v 5p,Ford,Gasolina,1.0,,,,5,,
+532,802,Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut,Ford,Gasolina,2.0,Other,,Auto,,,16
+537,4061,Fusion SEL 2.3 16V  162cv Aut.,Ford,Gasolina,2.3,Other,,Auto,,1,16
+543,6914,Ka 1.0 SEL TiVCT Flex 5p,Ford,Gasolina,1.0,Flex,,,5,,
+547,8443,Ka 1.5 SE Plus 12V Flex 5p Mec.,Ford,Gasolina,1.5,Other,,Manual,5,,12
+548,820,Ka Image 1.0i,Ford,Gasolina,,,,,,,
+549,3887,Ka MP3 1.0 MPI 8V 65cv,Ford,Gasolina,1.0,Other,,,,6,8
+552,10758,Maverick Lariat Hybrid 2.5 Aut.,Ford,Gasolina,2.5,,,Auto,,,
+554,840,Mustang GT V8,Ford,Gasolina,,V6/V8,,,,,
+566,843,Pampa Ghia 1.6/1.8/DUO,Ford,Álcool,1.6,,,,,,
+573,844,Pampa GL 1.6/ 1.8,Ford,Álcool,1.6,,,,,,
+580,853,Ranger 2.5 4x4 CD TB Diesel,Ford,Diesel,2.5,Diesel,Pickup,,,,
+582,855,Ranger 2.5 4x4 TB Diesel,Ford,Diesel,2.5,Diesel,,,,,
+586,10762,Ranger Limited+ 3.0 V6 4x4 CD TB Die Aut,Ford,Diesel,3.0,V6/V8,Pickup,Auto,,,
+587,861,Ranger Splash CS,Ford,Gasolina,,,,,,,
+589,7882,Ranger XL 2.2 4x4 CS Diesel Mec.,Ford,Diesel,2.2,Diesel,,Manual,,,
+594,867,Ranger XL 2.8 8v 135cv 4x2 CD TB Diesel,Ford,Diesel,2.8,Diesel,Pickup,,,1,
+597,890,Ranger XLT 2.5 4x4 CS TB Diesel,Ford,Diesel,2.5,Diesel,,,,,
+600,6171,Ranger XLT 3.2 20V 4x4 CD Diesel Aut.,Ford,Diesel,3.2,Diesel,Pickup,Auto,,,20
+601,912,Thunderbird SC 3.8 V6,Ford,Gasolina,3.8,V6/V8,,,,,
+602,9840,TRANSIT Furgão 2.0 Longo Turbo Diesel,Ford,Diesel,2.0,Turbo,,,,,
+605,916,Verona GLX 1.8i / 1.8 4p,Ford,Álcool,1.8,,,,4,,
+606,916,Verona GLX 1.8i / 1.8 4p,Ford,Gasolina,1.8,,,,4,,
+607,921,Versailles Ghia 2.0i / 2.0 2p e 4p,Ford,Álcool,2.0,,,,2,,
+609,7923,MINITRUCK 3.5-14ST 4x2 Diesel(E5),FOTON,Diesel,3.5,Diesel,,,,,
+611,926,A-10 2.5/4.1,GM - Chevrolet,Gasolina,2.5,,,,,,
+614,937,Astra Advantage 2.0 MPFI FlexPower 8V 3p,GM - Chevrolet,Gasolina,2.0,Other,,,3,,8
+617,938,Astra Comfort 2.0 MPFI FlexPower 8V 3p,GM - Chevrolet,Gasolina,2.0,Other,,,3,,8
+618,939,Astra Comfort 2.0 MPFI FlexPower 8V 5p,GM - Chevrolet,Gasolina,2.0,Other,,,5,,8
+621,940,Astra Eleg. 2.0 MPFI FlexPower 8V 5p Aut,GM - Chevrolet,Gasolina,2.0,Other,,Auto,5,,8
+625,4138,Astra Sed.Advan. 2.0 8V MPFI FlexP. Aut.,GM - Chevrolet,Gasolina,2.0,Other,,Auto,,,8
+626,973,C-10 De Luxe 2.5/4.1,GM - Chevrolet,Gasolina,2.5,,,,,,
+635,5415,Camaro SS 6.2 V8 16V,GM - Chevrolet,Gasolina,6.2,V6/V8,,,,,16
+647,987,Caravan Diplomata 4.1/2.5,GM - Chevrolet,Gasolina,4.1,,,,,,
+650,989,Cavalier 3.1 Conv.,GM - Chevrolet,Gasolina,3.1,,,,,,
+653,1006,Celta Spirit 1.4 MPFI 8V 85cv 5p,GM - Chevrolet,Gasolina,1.4,Other,,,5,8,8
+654,1007,Celta Super 1.0 MPFI 8V FlexPower 3p,GM - Chevrolet,Gasolina,1.0,Other,,,3,,8
+658,9588,COBALT 1.8 8V Econo.Flex 4p Aut.,GM - Chevrolet,Gasolina,1.8,Other,,Auto,4,,8
+660,6172,COBALT LT 1.8 8V Econo.Flex 4p Aut.,GM - Chevrolet,Gasolina,1.8,Other,,Auto,4,,8
+662,1020,Corsa Hat. Maxx 1.8 MPFI 8V FlexPower 5p,GM - Chevrolet,Gasolina,1.8,Other,,,5,,8
+667,1021,Corsa Hat. Prem. 1.0/1.0 FlexPower 8V 5p,GM - Chevrolet,Gasolina,1.0,Flex,,,5,,8
+670,4380,Corsa Hat. Premium 1.4 8V ECONOFLEX 5p,GM - Chevrolet,Gasolina,1.4,Other,,,5,,8
+672,3818,Corsa Hat. SS 1.8 MPFI 8V FlexPower 5p,GM - Chevrolet,Gasolina,1.8,Other,,,5,,8
+674,1031,Corsa Sed Class.Life 1.0/1.0 FlexPower,GM - Chevrolet,Álcool,1.0,Flex,,,,,
+675,1035,Corsa Sed Class.Super 1.0/1.0 FlexPower,GM - Chevrolet,Gasolina,1.0,Flex,,,,,
+678,1032,Corsa Sed Classic Life 1.6 MPFI VHC 8V,GM - Chevrolet,Gasolina,1.6,Other,,,,,8
+681,1036,Corsa Sed Classic Super 1.6 MPFI VHC 8V,GM - Chevrolet,Gasolina,1.6,Other,,,,,8
+683,1043,Corsa Sed.Wind 1.0/Millenium/Classic VHC,GM - Chevrolet,Gasolina,1.0,,,,,,
+684,1043,Corsa Sed.Wind 1.0/Millenium/Classic VHC,GM - Chevrolet,Álcool,1.0,,,,,,
+685,1044,Corsa Sedan 1.0 MPFI 8V 71cv 4p,GM - Chevrolet,Gasolina,1.0,Other,Sedan,,4,7,8
+687,1046,Corsa Sedan 1.8 MPFI FlexPower 8V 4p,GM - Chevrolet,Gasolina,1.8,Other,Sedan,,4,,8
+693,1060,Corsa Wagon GLS 1.6 8V 4p,GM - Chevrolet,Gasolina,1.6,Other,Wagon,,4,,8
+694,1065,Corsa Wind 1.6 MPFi 2p,GM - Chevrolet,Gasolina,1.6,,,,2,,
+700,1067,Corsa Wind Piquet/ Champ 1.0 MPFI 2p,GM - Chevrolet,Gasolina,1.0,Other,,,2,,
+701,5975,CRUZE HB Sport LT 1.8 16V FlexP. 5p Aut,GM - Chevrolet,Gasolina,1.8,Other,Sport,Auto,5,,16
+702,5977,CRUZE HB Sport LTZ 1.8 16V FlexP. 5p Aut,GM - Chevrolet,Gasolina,1.8,Other,Sport,Auto,5,,16
+707,5978,CRUZE HB Sport LTZ 1.8 16V FlexP. 5p Mec,GM - Chevrolet,Gasolina,1.8,Other,Sport,Manual,5,,16
+710,7618,CRUZE LT 1.4 16V Turbo Flex 4p Aut.,GM - Chevrolet,Gasolina,1.4,Other,,Auto,4,,16
+716,5635,CRUZE LT 1.8 16V FlexPower 4p Aut.,GM - Chevrolet,Gasolina,1.8,Other,,Auto,4,,16
+717,5636,CRUZE LT 1.8 16V FlexPower 4p Mec.,GM - Chevrolet,Gasolina,1.8,Other,,Manual,4,,16
+718,7827,CRUZE Sport LT 1.4 16V TB Flex 5p Aut.,GM - Chevrolet,Gasolina,1.4,Other,Sport,Auto,5,,16
+724,1074,D-20 S / Luxe 3.9/4.0 Diesel,GM - Chevrolet,Diesel,3.9,Diesel,,,,,
+726,8080,EQUINOX Premier 2.0 Turbo AWD 262cv Aut.,GM - Chevrolet,Gasolina,2.0,Turbo,,Auto,,2,
+727,1083,Kadett GLS 1.8 EFI / SL/e 1.8,GM - Chevrolet,Álcool,1.8,,,,,,
+731,1087,Kadett Sport 2.0 MPFI / EFI,GM - Chevrolet,Gasolina,2.0,Other,Sport,,,,
+732,1089,Marajo SL/SLe/Se,GM - Chevrolet,Gasolina,,,,,,,
+733,1094,Meriva Maxx 1.8 MPFI 8V FlexPower,GM - Chevrolet,Gasolina,1.8,Other,,,,,8
+734,1095,Meriva Premium 1.8 MPFI 8V FlexPower,GM - Chevrolet,Gasolina,1.8,Other,,,,,8
+735,3819,Meriva SS 1.8 MPFI 8V FlexPower 5p,GM - Chevrolet,Gasolina,1.8,Other,,,5,,8
+736,4770,Meriva SS EASYTRONIC 1.8 FlexPower 5p,GM - Chevrolet,Gasolina,1.8,Flex,,,5,,
+737,10402,MONTANA LT 1.2  Turbo Flex 12V 4p Mec.,GM - Chevrolet,Gasolina,1.2,Turbo,,Manual,4,,12
+738,5108,MONTANA Sport 1.4 ECONOFLEX 8V 2p,GM - Chevrolet,Gasolina,1.4,Other,Sport,,2,,8
+741,1102,Monza Classic/ SL/e/SR 1.8,GM - Chevrolet,Gasolina,1.8,,,,,,
+744,1109,Omega CD 4.1 / 3.0,GM - Chevrolet,Gasolina,4.1,,Pickup,,,,
+748,1107,Omega CD/ FITTIPALDI 3.6 V6 24V 4p,GM - Chevrolet,Gasolina,3.6,V6/V8,Pickup,,4,,24
+755,1110,Omega Diamond,GM - Chevrolet,Gasolina,,,,,,,
+756,1111,Omega GL 2.0/ 2.2,GM - Chevrolet,Gasolina,2.0,,,,,,
+757,1112,Omega GLS 2.2 / 2.0,GM - Chevrolet,Álcool,2.2,,,,,,
+758,1113,Omega GLS 4.1,GM - Chevrolet,Gasolina,4.1,,,,,,
+759,6748,ONIX  Lollapalooza 1.0 F.Power 5p Mec.,GM - Chevrolet,Gasolina,1.0,,,Manual,5,,
+760,8988,ONIX HATCH 1.0 12V Flex 5p Mec.,GM - Chevrolet,Gasolina,1.0,Other,,Manual,5,,12
+764,8889,ONIX HATCH 1.0 12V TB Flex 5p Aut.,GM - Chevrolet,Gasolina,1.0,Other,,Auto,5,,12
+768,7690,ONIX HATCH ACTIV 1.4 8V Flex 5p Mec.,GM - Chevrolet,Gasolina,1.4,Other,,Manual,5,,8
+769,7120,ONIX HATCH EFFECT 1.4 8V F.Power 5p Mec.,GM - Chevrolet,Gasolina,1.4,Other,,Manual,5,,8
+770,6231,ONIX HATCH LS 1.0 8V FlexPower 5p Mec.,GM - Chevrolet,Gasolina,1.0,Other,,Manual,5,,8
+774,6233,ONIX HATCH LT 1.4 8V FlexPower 5p Mec.,GM - Chevrolet,Gasolina,1.4,Other,,Manual,5,,8
+777,8826,ONIX SEDAN Plus LT 1.0 12V TB Flex Mec.,GM - Chevrolet,Gasolina,1.0,Other,,Manual,,,12
+783,1133,S10 Pick-Up 2.4 MPFI 8v 128cv CD 4p,GM - Chevrolet,Gasolina,2.4,Other,Pickup,,4,1,
+785,1134,S10 Pick-Up 2.4 MPFI 8v 128cv/ Rodeio,GM - Chevrolet,Gasolina,2.4,Other,,,,1,
+789,1135,S10 Pick-Up 2.5 4x2 CD TB Max HST Dies,GM - Chevrolet,Diesel,2.5,,Pickup,,,,
+793,1136,S10 Pick-Up 2.5 4x4 CD TB Max HST Dies.,GM - Chevrolet,Diesel,2.5,,Pickup,,,,
+797,5892,S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel,GM - Chevrolet,Diesel,2.8,Diesel,Pickup,,,,
+801,1150,S10 Pick-Up Luxe 2.2 MPFI / EFI,GM - Chevrolet,Gasolina,2.2,Other,,,,,
+803,1160,S10 Pick-Up Std. 2.2 MPFI / EFI,GM - Chevrolet,Gasolina,2.2,Other,,,,,
+804,7305,S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.,GM - Chevrolet,Diesel,2.8,,Pickup,Auto,,,
+808,10931,Silverado High Country 5.3 V8 AWD Aut.,GM - Chevrolet,Gasolina,5.3,V6/V8,,Auto,,,
+809,1186,Silverado Sport/ Fleet Side 5.7 CS,GM - Chevrolet,Gasolina,5.7,,Sport,,,,
+811,6059,SONIC HB LT 1.6 16V FlexPower 5p Mec.,GM - Chevrolet,Gasolina,1.6,Other,,Manual,5,,16
+813,6060,SONIC HB LTZ 1.6 16V FlexPower 5p Aut.,GM - Chevrolet,Gasolina,1.6,Other,,Auto,5,,16
+814,6063,SONIC Sed. LTZ 1.6 16V FlexPower 4p Aut.,GM - Chevrolet,Gasolina,1.6,Other,,Auto,4,,16
+818,6586,SPIN ADVANTAGE 1.8 8V Econo.Flex 5p Aut.,GM - Chevrolet,Gasolina,1.8,Other,,Auto,5,,8
+827,1203,Suprema GLS 4.1,GM - Chevrolet,Gasolina,4.1,,,,,,
+828,1206,Tigra Power Tech Coupe 1.6 SFI,GM - Chevrolet,Gasolina,1.6,,Coupe,,,,
+830,9597,TRACKER 1.0 Turbo 12V Flex Aut.,GM - Chevrolet,Gasolina,1.0,Turbo,,Auto,,,12
+832,1207,TRACKER 2.0 TB Int. Diesel 4x4 4p,GM - Chevrolet,Diesel,2.0,Diesel,,,4,,
+836,8124,TRACKER Premier 1.4 Turbo 16V Flex Aut,GM - Chevrolet,Gasolina,1.4,Turbo,,Auto,,,16
+838,10637,TRACKER RS 1.2 Turbo 12V Flex Aut.,GM - Chevrolet,Gasolina,1.2,Turbo,,Auto,,,12
+841,1208,Trafic Chassi Longo Diesel,GM - Chevrolet,Diesel,,Diesel,,,,,
+846,1209,Trafic Furgão Carga 2.1 Diesel,GM - Chevrolet,Diesel,2.1,Diesel,,,,,
+849,1214,Vectra CD 2.2 16V / 2.0 16V Mec./Aut.,GM - Chevrolet,Gasolina,2.2,Other,Pickup,Manual,,,16
+851,5554,Vectra COLLECTION 2.0 FlexPower 8V Aut.,GM - Chevrolet,Gasolina,2.0,Flex,,Auto,,,8
+852,3821,Vectra Elegan. 2.0 MPFI 8V FlexPower Mec,GM - Chevrolet,Gasolina,2.0,Other,,Manual,,,8
+856,1216,Vectra Elegance 2.0 MPFI,GM - Chevrolet,Gasolina,2.0,Other,,,,,
+857,1217,Vectra Elegance 2.2 MPFI 16V Aut.,GM - Chevrolet,Gasolina,2.2,Other,,Auto,,,16
+858,1218,Vectra Elite 2.0 MPFI,GM - Chevrolet,Gasolina,2.0,Other,,,,,
+859,4576,Vectra Elite 2.0 MPFI 8V FlexPower Aut.,GM - Chevrolet,Gasolina,2.0,Other,,Auto,,,8
+863,1219,Vectra Elite 2.2 MPFI 16V Aut.,GM - Chevrolet,Gasolina,2.2,Other,,Auto,,,16
+864,3822,Vectra Elite 2.4 MPFI 16V FlexPower Aut.,GM - Chevrolet,Gasolina,2.4,Other,,Auto,,,16
+868,1220,Vectra Expres./ Collection  2.0 MPFI 8V,GM - Chevrolet,Gasolina,2.0,Other,,,,,8
+870,4273,Vectra EXPRESSION 2.0 MPFI FlexPower Aut,GM - Chevrolet,Gasolina,2.0,Other,,Auto,,,
+875,4274,Vectra EXPRESSION 2.0 MPFI FlexPower Mec,GM - Chevrolet,Gasolina,2.0,Other,,Manual,,,
+880,1221,Vectra GL 2.2 / 2.0 MPFI,GM - Chevrolet,Gasolina,2.2,Other,,,,,
+882,1222,Vectra GL 2.2 MPFI Milenium,GM - Chevrolet,Gasolina,2.2,Other,,,,,
+884,4433,Vectra GT 2.0 MPFI 8V FlexPower Aut.,GM - Chevrolet,Gasolina,2.0,Other,,Auto,,,8
+894,1254,Civic Hatch LX Aut.,Honda,Gasolina,,,Hatchback,Auto,,,
+895,7693,Civic Sedan EXL 2.0 Flex 16V Aut.4p,Honda,Gasolina,2.0,Flex,Sedan,Auto,4,,16
+896,1264,Civic Sedan LX 1.7 16V 115cv Mec. 4p,Honda,Gasolina,1.7,Other,Sedan,Manual,4,1,16
+898,1270,CR-V 2.0 16V Aut.,Honda,Gasolina,2.0,Other,,Auto,,,16
+905,7151,HR-V EXL 1.8 Flexone 16V 5p Aut.,Honda,Gasolina,1.8,Flex,,Auto,5,,16
+906,8895,Creta Attitude Plus 1.6 16V Flex Aut.,Hyundai,Gasolina,1.6,Other,,Auto,,,16
+907,9601,Creta Comfort 1.0 TB 12V Flex Aut.,Hyundai,Gasolina,1.0,Other,,Auto,,,12
+912,10857,Creta Comfort Plus 1.0 TB 12V Flex Aut.,Hyundai,Gasolina,1.0,Other,,Auto,,,12
+915,8749,Creta Launch Edition 1.6 16V Flex Aut.,Hyundai,Gasolina,1.6,Other,,Auto,,,16
+917,6205,HB20 Comf./C.Plus/C.Style 1.0 Flex 12V,Hyundai,Gasolina,1.0,Flex,,,,,12
+919,1328,HR 2.5 TCI Diesel (RS/RD),Hyundai,Diesel,2.5,Diesel,,,,,
+922,8477,T50 1.6 16V 5p Aut.,JAC,Gasolina,1.6,Other,,Auto,5,,16
+923,8455,F-Type 2.0 R-Dynamic Coupe 300cv Aut.,Jaguar,Gasolina,2.0,,Coupe,Auto,,3,
+924,8695,I-Pace SE EV400 AWD Aut. (Elétrico),Jaguar,Gasolina,,Other,,Auto,,,
+926,4830,Grand Cherokee Limited 3.0 TB Dies. Aut,Jeep,Diesel,3.0,,,Auto,,,
+927,1381,Grand Cherokee Limited 5.2 Aut.,Jeep,Gasolina,5.2,,,Auto,,,
+928,9560,Renegade1.8 4x2 Flex 16V Aut.,Jeep,Gasolina,,Flex,,Auto,,,16
+930,4855,TOPIC VAN SL 2.2 8V/ 2.0 16V 4p,JINBEI,Gasolina,2.2,Other,,,4,,8
+931,1386,Jipe Montez 4x4 CD Teto Rígido Diesel,JPX,Diesel,,Diesel,Pickup,,,,
+933,1401,Bongo K-2700 2.7 4x4 CD Diesel,Kia Motors,Diesel,2.7,Diesel,Pickup,,,,
+935,4142,Picanto EX 1.1/1.0/ 1.0 Flex Mec.,Kia Motors,Gasolina,1.1,Flex,,Manual,,,
+937,4977,SOUL 1.6/ 1.6 16V FLEX Aut.,Kia Motors,Gasolina,1.6,Other,,Auto,,,16
+938,1427,Sportage DLX 2.0 16V Mec.,Kia Motors,Gasolina,2.0,Other,Sport,Manual,,,16
+939,1434,Sportage LX 2.0 16V 142cv 5p,Kia Motors,Gasolina,2.0,Other,Sport,,5,1,16
+941,1519,MX-3 1.6 16V,Mazda,Gasolina,1.6,Other,,,,,16
+942,9545,CAPTUR Iconic 1.3 TB 16V Flex 5p Aut.,Renault,Gasolina,1.3,Other,,Auto,5,,16
+943,9547,CAPTUR Zen 1.3 TB 16V Flex 5p Aut.,Renault,Gasolina,1.3,Other,,Auto,5,,16
+944,7891,CAPTUR Zen 1.6 16V Flex 5p Mec.,Renault,Gasolina,1.6,Other,,Manual,5,,16
+945,2002,Clio Expression 1.0/1.0 Hi-Power 16V 3p,Renault,Gasolina,1.0,Other,,,3,,16
+946,2009,Clio RL/ JP/Auth.1.0/1.0 Hi-Power 16V 5p,Renault,Gasolina,1.0,Other,,Auto,5,,16
+947,2011,Clio RN 1.6 5p,Renault,Gasolina,1.6,,,,5,,
+948,2012,Clio RN/Alizé/Expr./1.0 Hi-Power 16V 5p,Renault,Gasolina,1.0,Other,,,5,,16
+949,2016,Clio RT/ Privil. 1.0/1.0 Hi-Power 16V 5p,Renault,Gasolina,1.0,Other,,,5,,16
+950,2023,Clio Sed.RL/Auth.1.0/1.0 Hi-Power 16V 4p,Renault,Gasolina,1.0,Other,,Auto,4,,16
+951,5673,DUSTER Dynamique 2.0 Flex 16V Aut.,Renault,Gasolina,2.0,Flex,,Auto,,,16
+952,5676,DUSTER Expression 1.6 Hi-Flex 16V Mec.,Renault,Gasolina,1.6,Flex,,Manual,,,16
+953,7672,DUSTER OROCH Dyna. 2.0 Flex 16V Aut.,Renault,Gasolina,2.0,Flex,,Auto,,,16
+954,9064,DUSTER Zen 1.6 16V Flex Mec.,Renault,Gasolina,1.6,Other,,Manual,,,16
+955,5509,FLUENCE Sed. Dynamique 2.0 16V FLEX Aut.,Renault,Gasolina,2.0,Other,,Auto,,,16
+956,5510,FLUENCE Sed. Dynamique 2.0 16V FLEX Mec.,Renault,Gasolina,2.0,Other,,Manual,,,16
+957,4310,Kangoo Express Hi-Flex 1.6 16V,Renault,Gasolina,1.6,Flex,,,,,16
+960,8701,KWID OUTSIDER 1.0 Flex 12V 5p Mec.,Renault,Gasolina,1.0,Flex,,Manual,5,,12
+961,2046,Laguna RXE 2.0s 8V/16V,Renault,Gasolina,,Other,,,,,8
+962,6401,Master 2.3 dCi Extra F.Vitre 16V Diesel,Renault,Diesel,2.3,Other,,,,,16
+964,6405,Master 2.3 dCi Grand Furgão16V Diesel,Renault,Diesel,2.3,Other,,,,,
+966,4834,Master 2.5 dCi Executivo 115cv 16L Dies,Renault,Diesel,2.5,,,,,1,
+967,4067,Megane Sedan Dynamique 2.0 16V Aut.,Renault,Gasolina,2.0,Other,Sedan,Auto,,,16
+968,4506,SANDERO Expression Hi-Flex 1.0 16V 5p,Renault,Gasolina,1.0,Flex,,,5,,16
+969,7360,SANDERO SPORT RS 2.0 Flex 16V 5p,Renault,Gasolina,2.0,Flex,,,5,,16
+970,4580,Scénic Grand Dynamique 2.0 16V 5p Aut.,Renault,Gasolina,2.0,Other,,Auto,5,,16
+972,2071,Scénic Hi-Flex/Express. Hi-Flex 1.6 16V,Renault,Gasolina,1.6,Flex,,,,,16
+978,2072,Scénic Privilège Hi-Flex 1.6 16V,Renault,Gasolina,1.6,Flex,,,,,16
+984,2073,Scénic Privillège 1.6 16V Aut.,Renault,Gasolina,1.6,Other,,Auto,,,16
+987,2078,Scénic RT/Auth/Auth/Kids Hi-Flex 1.6 16V,Renault,Gasolina,1.6,Flex,,Auto,,,16
+988,2307,960 Sedan,Volvo,Gasolina,,,Sedan,,,,
+989,2354,V70 T5 2.3,Volvo,Gasolina,2.3,Other,,,,,
+990,2357,XC 90 4.4 V8 315cv AWD 5p,Volvo,Gasolina,4.4,V6/V8,,,5,3,
+991,7294,XC 90 T-6 MOMENTUM 2.0 320cv 5P,Volvo,Gasolina,2.0,,,,,3,
+2,4843,A4 2.0 16V TFSI 183/180cv Multitronic,Audi,Gasolina,2.0,Other,,,,1,16
+10,128,Allroad 2.7 30V Quattro Turbo Tiptronic,Audi,Gasolina,2.7,Turbo,,,,,30
+15,129,Avant RS2,Audi,Gasolina,,,MPV,,,,
+18,4431,TT Roadster 2.0 16v TFSI S-Tronic,Audi,Gasolina,2.0,,,,,,
+24,9957,335i 3.0 Active 3 (Híbrido),BMW,Gasolina,3.0,,,,,,
+30,4416,335iA Cabriolet 3.0 24V 306cv,BMW,Gasolina,3.0,,,,,3,24
+34,6148,335iA Sport 3.0 24V 306cv 4p,BMW,Gasolina,3.0,,Sport,,4,3,24
+35,197,525i/iA,BMW,Gasolina,,,,,,,
+37,6514,528iA M Sport 2.0 Turbo 16V 245cv 4p,BMW,Gasolina,2.0,Turbo,Sport,,4,2,16
+38,7918,530i M Sport 2.0 Turbo 252cv Aut.,BMW,Gasolina,2.0,Turbo,Sport,Auto,,2,
+43,6150,650iA 4.4 407cv Bi-Turbo,BMW,Gasolina,4.4,Turbo,,,,4,
+48,8818,i3 Bev Connected 170cv Aut. (Elétrico),BMW,Gasolina,,Electric,,Auto,,1,
+49,10019,i8 e-Drive 1.5 TB 12V  Aut. (Híbrido),BMW,Gasolina,1.5,Other,,Auto,,,12
+53,6260,M5 4.4 560cv Bi-Turbo Aut.,BMW,Gasolina,4.4,Turbo,,Auto,,5,
+58,5189,X6 M 4.4 4x4 V8 32V Bi-Turbo Aut.,BMW,Gasolina,4.4,V6/V8,,Auto,,,32
+68,10788,X6 M Competition 4.4 V8 BI-TB (Hib) Aut.,BMW,Gasolina,4.4,V6/V8,,Auto,,,
+71,9565,X6 M Competition 4.4 V8 BI-TB 625CV Aut.,BMW,Gasolina,4.4,V6/V8,,Auto,,,
+75,4746,X6 XDRIVE 50i 4.4 407cv Bi-Turbo,BMW,Gasolina,4.4,Turbo,,,,4,
+76,4997,Z4 Roadster sDRIVE 35i 3.0 24V 306cv 2p,BMW,Gasolina,3.0,,,,2,3,24
+79,252,Z4 Roadster Sport 3.0 24V 231cv Aut.,BMW,Gasolina,3.0,,Sport,Auto,,2,24
+82,4053,Buggy IV e V,Bugre,Gasolina,,,,,,,
+88,10068,Tiggo 7 PRO 1.5 Turbo (Híbrido),Caoa Chery,Gasolina,1.5,Turbo,,,,,
+90,7089,QQ 1.0 ACT 12V 69cv 5p,Caoa Chery/Chery,Gasolina,1.0,Other,,,5,6,12
+96,284,Berlingo MultSpace GLX 1.8i 3p,Citroën,Gasolina,,,,,3,,
+98,5551,C3 Picasso Exclusive 1.6 Flex 16V 5p Mec,Citroën,Gasolina,1.6,Flex,,Manual,5,,16
+102,8466,C4 CACTUS FEEL 1.6 16V Flex Aut.,Citroën,Gasolina,1.6,Other,,Auto,,,16
+110,388,Avenger ES 2.0/2.5 16V,Dodge,Gasolina,2.0,Other,,,,,16
+111,404,Dakota Sport CE 2.5 Diesel,Dodge,Diesel,2.5,Diesel,Sport,,,,
+112,3931,Ram 2500 H.DUTY 5.9 SLT TDI CS 4x4 Dies.,Dodge,Diesel,5.9,,,,,,
+113,5660,Plutus 3.2 8V 4x2 CD Turbo Diesel,EFFA,Diesel,3.2,Other,Pickup,,,,8
+115,5661,Start Picape CD 1.0 8V 5p,EFFA,Gasolina,1.0,Other,Pickup,,5,,8
+118,5662,Start Picape L 1.0 8V 2p,EFFA,Gasolina,1.0,Other,Pickup,,2,,8
+121,5663,Start Van 1.0 8V 4p,EFFA,Gasolina,1.0,Other,,,4,,8
+123,4638,ULC FURGÃO 1.0 8V 5p,EFFA,Gasolina,1.0,Other,,,5,,8
+125,5446,Bravo ABSOLUTE 1.8 Flex 16V 5p,Fiat,Gasolina,1.8,Flex,,,5,,16
+126,452,Doblo EX 1.3 Fire 16V 80cv 4/5p,Fiat,Gasolina,1.3,Other,,,5,8,16
+127,5023,Ducato Cargo Longo 2.3 ME Diesel,Fiat,Diesel,2.3,Diesel,,,,,
+132,473,Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex,Fiat,Gasolina,1.5,Flex,,,,,
+139,7824,Grand Siena ATTRACTIVE 1.0 Flex 8V 4p,Fiat,Gasolina,1.0,Flex,,,4,,8
+144,6955,Grand Siena ESSEN. ITALIA Dual. 1.6 Flex,Fiat,Gasolina,1.6,Flex,,,,,
+149,492,Marea Turbo 2.0 20V 4p,Fiat,Gasolina,2.0,Turbo,,,4,,20
+159,5297,Punto ESSENCE Dualogic 1.8 Flex 16V 5p,Fiat,Gasolina,1.8,Flex,,,5,,16
+161,5361,Siena EL 1.4 mpi Fire Flex 8V 4p,Fiat,Gasolina,1.4,Flex,,,4,,8
+164,5302,Siena ESSENCE Dualogic 1.6 Flex 16V 4p,Fiat,Gasolina,1.6,Flex,,,4,,16
+166,590,Siena EX 1.0 mpi Fire 16v 4p,Fiat,Gasolina,1.0,,,,4,,
+168,591,Siena EX 1.3 mpi Fire 8V 67cv 4p,Fiat,Gasolina,1.3,Other,,,4,6,8
+170,592,Siena EX 1.8 mpi 8V 103cv 4p,Fiat,Gasolina,1.8,Other,,,4,1,8
+172,593,Siena HL 1.6 mpi 16V,Fiat,Gasolina,1.6,Other,,,,,16
+176,6957,UNO ATTRACTIVE 1.0 Fire Flex 8V 5p,Fiat,Gasolina,1.0,Flex,,,5,,8
+179,4316,Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 2p,Fiat,Gasolina,1.0,Flex,,,2,,
+180,653,Uno S 1.5 i.e. / 1.5 / 1.3/ SX 1.3,Fiat,Gasolina,1.5,,,,,,
+181,5242,UNO VIVACE Celeb. 1.0 EVO F.Flex 8V 5p,Fiat,Gasolina,1.0,Flex,,,5,,8
+186,6263,EcoSport SE 2.0 16V Flex 5p Aut.,Ford,Gasolina,2.0,Other,Sport,Auto,5,,16
+190,6161,EcoSport TITANIUM 1.6 16V Flex 5p,Ford,Gasolina,1.6,Other,Sport,,5,,16
+193,6162,EcoSport TITANIUM 2.0 16V Flex 5p,Ford,Gasolina,2.0,Other,Sport,,5,,16
+200,706,Escort XR3 1.8 / 1.6 Beneton/Form./Laser,Ford,Gasolina,1.8,,,,,,
+212,805,Focus Sedan 1.8 16V 115cv 4p,Ford,Gasolina,1.8,Other,Sedan,,4,1,16
+222,823,Ka XR 1.6 MPI 8V,Ford,Gasolina,1.6,Other,,,,,8
+223,834,Mondeo GLX 2.0 16V 4p Aut,Ford,Gasolina,2.0,Other,,Auto,4,,16
+225,846,Pampa L 1.8i / 1.8,Ford,Álcool,1.8,,,,,,
+245,908,Taurus GL SW 3.0 V6 24V,Ford,Gasolina,3.0,V6/V8,,,,,24
+253,969,Brasinca Blazer CD 4.0 Diesel,GM - Chevrolet,Diesel,4.0,Diesel,Pickup,,,,
+257,7257,COBALT Graphite 1.8 8V Econo.Flex 4p Aut,GM - Chevrolet,Gasolina,1.8,Other,,Auto,4,,8
+258,7258,COBALT Graphite 1.8 8V Econo.Flex 4p Mec,GM - Chevrolet,Gasolina,1.8,Other,,Manual,4,,8
+259,5723,COBALT LS 1.4 8V FlexPower 4p,GM - Chevrolet,Gasolina,1.4,Other,,,4,,8
+264,5724,COBALT LT 1.4 8V FlexPower/EconoFlex 4p,GM - Chevrolet,Gasolina,1.4,Other,,,4,,8
+270,6174,COBALT LTZ 1.8 8V Econo.Flex 4p Aut.,GM - Chevrolet,Gasolina,1.8,Other,,Auto,4,,8
+272,1049,Corsa Sedan GLS 1.6 MPFI 4p,GM - Chevrolet,Gasolina,1.6,Other,Sedan,,4,,
+276,1103,Monza GL 1.8 EFI/ SL/ L/ 650/Barc. 2e4p,GM - Chevrolet,Gasolina,1.8,,,,,,
+281,8894,ONIX HATCH PREM. 1.0 12V TB Flex 5p Aut.,GM - Chevrolet,Gasolina,1.0,Other,,Auto,5,,12
+283,6866,PRISMA Sed. ADVANT. 1.0 8V FlexPower 4p,GM - Chevrolet,Gasolina,1.0,Other,,,4,,8
+284,7373,PRISMA Sed. ADVANT. 1.4 8V F.Power Aut.,GM - Chevrolet,Gasolina,1.4,Other,,Auto,,,8
+296,1154,S10 Pick-Up Luxe 2.8 4x2 CD TB Int.Dies.,GM - Chevrolet,Diesel,2.8,,Pickup,,,,
+297,1159,S10 Pick-Up Std 2.8 4x4 CD TB Int.Dies.,GM - Chevrolet,Diesel,2.8,,Pickup,,,,
+300,8691,SPIN PREMIER 1.8 8V Econo.Flex 5p Aut.,GM - Chevrolet,Gasolina,1.8,Other,,Auto,5,,8
+301,8692,SPIN PREMIER 1.8 8V Econo.Flex 5p Mec.,GM - Chevrolet,Gasolina,1.8,Other,,Manual,5,,8
+305,1231,Zafira Comfort 2.0 MPFI FlexPower 8V 5p,GM - Chevrolet,Gasolina,2.0,Other,,,5,,8
+325,1292,Atos Prime GLS 1.0 Aut.,Hyundai,Gasolina,1.0,,,Auto,,,
+328,1324,H100 GS Diesel (12 lugares),Hyundai,Diesel,,Diesel,,,,,
+330,6208,HB20 Premium 1.6 Flex 16V Aut.,Hyundai,Gasolina,1.6,Flex,,Auto,,,16
+333,1350,Rodeo 3.2 V6,Isuzu,Gasolina,3.2,V6/V8,,,,,
+334,9692,DAILY CH. 65-170 CD Longo 3.0 (Diesel),IVECO,Diesel,3.0,Diesel,Pickup,,,,
+339,7205,2008 Griffe 1.6 Turbo Flex 16V 5p Mec.,Peugeot,Gasolina,1.6,Turbo,,Manual,5,,16
+340,1862,206 Selection/ Sensation 1.0 16v 3p,Peugeot,Gasolina,1.0,,,,3,,
+341,4722,207 XR 1.4 Flex 8V 5p,Peugeot,Gasolina,1.4,Flex,,,5,,8
+342,9200,208 Active 1.6 Flex 16V 5p Aut.,Peugeot,Gasolina,1.6,Flex,,Auto,5,,16
+343,1897,307 Feline/Griff/Premi. 2.0 Flex 5p Aut.,Peugeot,Gasolina,2.0,Flex,,Auto,5,,
+344,1902,307 Rallye 2.0 16V 138cv 5p Aut.,Peugeot,Gasolina,2.0,Other,,Auto,5,1,16
+347,4144,307 Sed. Feline 2.0/2.0 Flex 16V 4p Mec.,Peugeot,Gasolina,2.0,Flex,,Manual,4,,16
+351,4146,307 Sed. Presence 1.6 Flex 16V 4p,Peugeot,Gasolina,1.6,Flex,,,4,,16
+357,5506,408 Sedan Feline 2.0 Flex 16V 4p Aut.,Peugeot,Gasolina,2.0,Flex,Sedan,Auto,4,,16
+358,1938,605 SV-3 3.0 V6 24V,Peugeot,Gasolina,3.0,V6/V8,,,,,24
+359,5077,Boxer 2.3 Furg.TB Dies. Méd/ LongoT.Alto,Peugeot,Diesel,2.3,,,,,,
+360,1946,Boxer 2.8 Furgão Dies/ TB Dies.curto/méd,Peugeot,Diesel,2.8,,,,,,
+0,9223,A4 Perfor. Black 2.0 TFSI Quat. S tronic,Audi,Gasolina,2.0,,,,,,
+2,11036,A4 Prestige 2.0 16V TFSI Quattro (Híb.),Audi,Gasolina,2.0,Other,,,,,16
+26,3879,130i 3.0 24V 265cv 5p,BMW,Gasolina,3.0,,,,5,2,24
+30,4473,130iA 3.0 24V 265cv 3p,BMW,Gasolina,3.0,,,,3,2,24
+37,9960,530e M Sport 2.0 Turbo Aut. (Híbrido),BMW,Gasolina,2.0,Turbo,Sport,Auto,,,
+43,6230,X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.,BMW,Gasolina,2.0,Flex,,Auto,,,
+44,10415,X1 SDRIVE 20i M Sport 2.0 TB Aut.,BMW,Gasolina,2.0,,Sport,Auto,,,
+48,9682,X1 SDRIVE 20i M Sport 2.0 TB Flex Aut.,BMW,Gasolina,2.0,Flex,Sport,Auto,,,
+49,10115,X1 SDRIVE 20i Outdoor 2.0.Flex Aut.,BMW,Gasolina,2.0,Flex,,Auto,,,
+56,10872,X4 XDRIVE 30i M-Sport 2.0 TB 252cv Aut,BMW,Gasolina,2.0,,Sport,Auto,,2,
+57,6092,C3 Picasso GL 1.5 Flex 8V Mec.,Citroën,Gasolina,1.5,Flex,,Manual,,,8
+60,5552,C3 Picasso GL 1.6 Flex 16V 5p Mec.,Citroën,Gasolina,1.6,Flex,,Manual,5,,16
+62,6093,C3 Picasso GLX 1.5 Flex 8V 5p Mec.,Citroën,Gasolina,1.5,Flex,,Manual,5,,8
+64,5612,C3 Picasso GLX 1.6 Flex 16V 5p Aut.,Citroën,Gasolina,1.6,Flex,,Auto,5,,16
+72,412,Engesa 4x4 4.0 Diesel,Engesa,Diesel,4.0,Diesel,,,,,
+73,416,Master 4.0 Diesel,Envemo,Diesel,4.0,Diesel,,,,,
+75,10159,296 GTB (Hibrido),Ferrari,Gasolina,,,,,,,
+79,10624,296 GTS (Híbrido),Ferrari,Gasolina,,,,,,,
+82,417,348 GTS 3.4,Ferrari,Gasolina,3.4,,,,,,
+88,497,Marea Weekend HLX 2.0 20V 4p,Fiat,Gasolina,2.0,,,,4,,20
+91,498,Marea Weekend HLX 2.4 mpi 20V 4p Aut.,Fiat,Gasolina,2.4,,,Auto,4,,20
+97,499,Marea Weekend HLX 2.4 mpi 20V 4p Mec.,Fiat,Gasolina,2.4,,,Manual,4,,20
+104,610,Strada Trekking 1.8 mpi Flex 8V CE,Fiat,Gasolina,1.8,Flex,,,,,8
+115,10837,Strada Ultra 1.0 Flex Turbo CD Aut.,Fiat,Gasolina,1.0,Flex,Pickup,Auto,,,
+124,702,Escort S.W GL 1.8i 16V,Ford,Gasolina,,Other,,,,,16
+130,703,Escort S.W. GLX 1.8i 16V,Ford,Gasolina,,Other,,,,,16
+142,850,Ranger 2.5 4x2 CD TB Diesel,Ford,Diesel,2.5,Diesel,Pickup,,,,
+146,851,Ranger 2.5 4x2 CE Diesel,Ford,Diesel,2.5,Diesel,,,,,
+149,852,Ranger 2.5 4x2 TB Diesel,Ford,Diesel,2.5,Diesel,,,,,
+170,979,Calibra 16V,GM - Chevrolet,Gasolina,,Other,,,,,16
+173,7790,CAMARO FIFTY 6.2 V8 16V 461cv,GM - Chevrolet,Gasolina,6.2,V6/V8,,,,4,16
+174,980,Camaro RS 5.0 V8,GM - Chevrolet,Gasolina,5.0,V6/V8,,,,,
+178,1001,Celta Spirit 1.0 MPFI 8V FlexPower 3p,GM - Chevrolet,Gasolina,1.0,Other,,,3,,8
+183,1064,Corsa Wind 1.0 MPFI / EFI  2p,GM - Chevrolet,Gasolina,1.0,Other,,,2,,
+192,1104,Monza GL 2.0 EFI/SL/L/650/Club/Barc.2e4p,GM - Chevrolet,Álcool,2.0,,,,,,
+206,6064,SONIC Sed. LTZ 1.6 16V FlexPower 4p Mec.,GM - Chevrolet,Gasolina,1.6,Other,,Manual,4,,16
+209,1192,Sonoma CE 4.3 V6,GM - Chevrolet,Gasolina,4.3,V6/V8,,,,,
+211,1193,SpaceVan Furgão 2.1 Diesel,GM - Chevrolet,Diesel,2.1,Diesel,,,,,
+213,1194,SpaceVan Furgão 2.2,GM - Chevrolet,Gasolina,2.2,,,,,,
+215,1195,SpaceVan Passageiro 2.1Diesel,GM - Chevrolet,Diesel,,Diesel,,,,,
+227,1248,Civic Coupe EX/ EXS 1.6 16V 2p,Honda,Gasolina,1.6,Other,Coupe,,2,,16
+229,4629,CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.,Honda,Gasolina,2.0,Other,,Auto,,,16
+246,5640,Veloster 1.6 16V  140cv Aut.,Hyundai,Gasolina,1.6,Other,,Auto,,1,16
+248,4384,VERACRUZ GLS 3.8 4WD Aut.,Hyundai,Gasolina,3.8,,,Auto,,,
+254,1348,Amigo 2.3 4x2/4x4,Isuzu,Gasolina,2.3,,,,,,
+6,10888,Q3 2.0 TFSI Anniversary Edition Quattro,Audi,Gasolina,2.0,,,,,,
+11,6045,Q3 2.0 TFSI Quat. 211/220cv S-tronic 5p,Audi,Gasolina,2.0,,,,5,2,
+23,10668,i4 e-Drive 35 M Sport (Elétrico),BMW,Gasolina,,Electric,Sport,,,,
+27,254,Buggy/M-8/M-8 Long 1.6,BRM,Gasolina,1.6,,,,,,
+35,290,C3 GLX 1.4/ GLX Sonora 1.4 Flex 8V 5p,Citroën,Gasolina,1.4,Flex,,,5,,8
+36,10777,Grand C4 Picasso 2.0 16V 143cv Aut,Citroën,Gasolina,2.0,Other,,Auto,,1,16
+37,309,Xantia Break 2.0 8V/GLX 2.0 16V Aut,Citroën,Gasolina,2.0,Other,,Auto,,,8
+40,350,Xsara VTS 1.8 16V,Citroën,Gasolina,1.8,Other,,,,,16
+44,460,Ducato Mult/ Vetrato 2.8 T.Alto TB Dies.,Fiat,Diesel,2.8,,,,,,
+50,609,Strada Trekking 1.6 mpi,Fiat,Gasolina,1.6,,,,,,
+62,741,F-1000 XL 2.5 HSD Diesel TB,Ford,Diesel,2.5,Diesel,,,,,
+67,859,Ranger Limited 3.0 PSE 4x4 CD TB Diesel,Ford,Diesel,3.0,Diesel,Pickup,,,,
+85,1127,S10 Blazer DLX 4.3 V6,GM - Chevrolet,Gasolina,4.3,V6/V8,,,,,
+87,5893,S10 Pick-Up LT 2.8 TDI 4x4 CD Diesel Aut,GM - Chevrolet,Diesel,2.8,Diesel,Pickup,Auto,,,
+92,4975,CITY Sedan LX 1.5 Flex 16V 4p Aut.,Honda,Gasolina,1.5,Flex,Sedan,Auto,4,,16
+94,4009,Civic Sedan EXS 1.8/1.8 Flex 16V Aut. 4p,Honda,Gasolina,1.8,Flex,Sedan,Auto,4,,16
+101,5933,J5 Sedan 1.5 16V 4p Mec.,JAC,Gasolina,1.5,Other,Sedan,Manual,4,,16
+2,126,A8 4.2 Quattro Tiptronic,Audi,Gasolina,4.2,,,,,,
+3,127,A8 4.2 V8 32V Tiptronic,Audi,Gasolina,4.2,V6/V8,,,,,32
+4,8628,RS4 2.9 Avant V6 TFSI Quattro Tiptronic,Audi,Gasolina,2.9,V6/V8,MPV,,,,
+12,9038,X7 M50i 4.4 V8 Bi-TB Aut.,BMW,Gasolina,4.4,V6/V8,,Auto,,,
+14,274,Neon Sport 1.8/2.0,Chrysler,Gasolina,1.8,,Sport,,,,
+16,4575,Ram 2500 TROPIVAN 5.9 SLT TDI 4x4 Dies.,Dodge,Diesel,5.9,,,,,,
+17,4637,M-100 1.0 8V 5p,EFFA,Gasolina,1.0,Other,,,5,,8
+21,5578,LINEA ESSENCE Dualogic 1.8 Flex 16V 4p,Fiat,Gasolina,1.8,Flex,,,4,,16
+23,5271,Palio ATTRA./ITÁLIA 1.4 EVO F.Flex 8V 5p,Fiat,Gasolina,1.4,Flex,,,5,,8
+25,3813,Stilo 1.8/ 1.8 Connect Flex 8V 5p,Fiat,Gasolina,1.8,Flex,,,5,,8
+37,942,Astra Elegance 2.0 MPFI FlexPower 8V 5p,GM - Chevrolet,Gasolina,2.0,Other,,,5,,8
+41,1033,Corsa Sed Class.Spirit 1.0/1.0 FlexPower,GM - Chevrolet,Álcool,1.0,Flex,,,,,
+44,1082,Kadett GL/SL/Lite/Turim 1.8,GM - Chevrolet,Gasolina,1.8,,,,,,
+59,1168,S10 P-Up Luxe 2.5 4x4 CD TB Max HST Dies,GM - Chevrolet,Diesel,2.5,,Pickup,,,,
+73,6270,Fit Twist 1.5 Flex 16V 5p Aut.,Honda,Gasolina,1.5,Flex,,Auto,5,,16
+74,7150,HR-V EX 1.8 Flexone 16V 5p Aut.,Honda,Gasolina,1.8,Flex,,Auto,5,,16
+75,5726,AZERA 3.0 V6 24V 4p Aut.,Hyundai,Gasolina,3.0,V6/V8,,Auto,4,,24
+76,6435,HB20S C.Style/C.Plus1.6 Flex 16V Aut. 4p,Hyundai,Gasolina,,Flex,,Auto,4,,16
+77,10014,HB20S Limited 1.0  Flex 12V Mec.,Hyundai,Gasolina,1.0,Flex,,Manual,,,12

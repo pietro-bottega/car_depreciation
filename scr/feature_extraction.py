@@ -1,14 +1,44 @@
 import pandas as pd
+import numpy as np
 import pprint
 import os
 import re
 
 from os import listdir, getcwd
 
+#----------------------
+# Creating dataset
+#----------------------
+
+def create_dataset() -> pd.DataFrame:
+    """
+    Get files extracted from Tabela FIPE by month and consolidates into a single dataframe.
+
+    Parameters:
+    - folder: where the files are stored
+
+    Returns:
+    - pd.DataFrame: fipe_data
+    """
+
+    cwd = os.getcwd()
+    cwd_up = os.path.dirname(cwd) 
+    path = f"{cwd_up}/data/raw-data/"
+    data_files = [path + file for file in listdir(path)]
+    fipe_data = pd.concat(map(lambda f: pd.read_csv(f, on_bad_lines='skip'), data_files))
+    print("Dataframe created")
+
+    return fipe_data
+
+
+#----------------------
+# Extracting features
+#----------------------
+
 def extract_features_from_modelo(modelo: str) -> pd.Series:
     """
     Extract version, engine type, and car category from the 'modelo' column.
-    Also strips leading and trailing spaces and classifies engine type and car category.
+    Also strips leading and trailing spaces and extract different informations from the model handle.
 
     Parameters:
     - modelo: str: The car model description.
@@ -43,7 +73,7 @@ def extract_features_from_modelo(modelo: str) -> pd.Series:
     doors_pattern = r'(\b[2-5]p\b)'
 
     # Extracting horse_power (e.g. 340cv)
-    hp_pattern = r'(\b([0-9]{1,3})cv\b)'
+    hp_pattern = r'(\d{1,3})(?:cv?|c)\b'
 
     # Extracting valves (e.g. 8V, 12V) - always multiples of 2 or 4
     valves_pattern = r'(\b([0-9]{1,2})V\b)'
@@ -156,3 +186,14 @@ def extract_features_from_modelo(modelo: str) -> pd.Series:
 
     return pd.Series([version, engine_type, car_category, transmission_type, doors, horse_power, valves])
 
+
+#----------------------
+# RUN PIPELINE
+#----------------------
+
+fipe_data = create_dataset()
+fipe_data.to_csv("../data/output/fipe_data.csv")
+
+fipe_data[['version', 'engine', 'category', 'transmission_type', 'doors', 'hp', 'valves']] = fipe_data['modelo'].apply(extract_features_from_modelo)
+fipe_features = fipe_data[['modelo_id','modelo', 'marca', 'comb', 'version', 'engine', 'category', 'transmission_type', 'doors', 'hp', 'valves']].drop_duplicates()
+fipe_features.to_csv("../data/output/fipe_features.csv", encoding='utf-8')
