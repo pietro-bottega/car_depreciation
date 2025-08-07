@@ -6,6 +6,9 @@ This project analyzes vehicle data to identify and suggest similar car models ba
 > [!TIP]
 > This [**interactive app**](https://car-finder.streamlit.app) can be used to explore results.
 
+> [!WARNING]
+> You will see that end results do not have the quality we would expect. The key challenge faced in this project, which I consider as main driver for results below what was expected, are limitations deriving from "Tabela Fipe" data. The primary source from which features were extracted was the car model description, which does not present a consistent pattern across all observations, resulting in a high rate of missing data. In the end, this dataset may not be the better option for this task, as presenting rich description of car models is not it's main purpose, but it was the option I found available. Good to learn anyway!
+
 ---
 
 ## Methodology
@@ -54,25 +57,25 @@ The dataset is derived from the **Tabela FIPE**, which is a primary reference fo
 
 
 #### Distribuition of car values:
-![Distribuition of car values](https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/assets/car_value_no_outlier_histplot.png)
+![Distribuition of car values](https://raw.githubusercontent.com/pietro-bottega/fipe_car_similarity/refs/heads/master/assets/car_value_no_outlier_histplot.png)
 
 ### VarianceThreshold
 
 This technique is used as a baseline for feature selection. It removes all features whose variance doesn't meet a certain threshold. In practice, this is used to eliminate features with little to no variation across all samples (e.g., a feature that is 'True' for 99% of the cars), as they provide little to no information for the model.
 
 #### Feature Variance:
-![Feature Variance](https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/assets/features_variance.png)
+![Feature Variance](https://raw.githubusercontent.com/pietro-bottega/fipe_car_similarity/refs/heads/master/assets/features_variance.png)
 
 ### Principal Component Analysis (PCA)
 
 PCA is a dimensionality reduction method used to transform a large set of variables into a smaller one that still contains most of the information in the large set. The optimal number of components was selected by plotting the cumulative explained variance against the number of components. The goal was to find the "elbow point" where adding another component yields diminishing returns, thus retaining over 95% of the variance with significantly fewer features.
 
 #### PCA Explained Variance
-![PCA Explained Variance](https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/assets/pca_cumulative_explained_variance.png)
+![PCA Explained Variance](https://raw.githubusercontent.com/pietro-bottega/fipe_car_similarity/refs/heads/master/assets/pca_cumulative_explained_variance.png)
 
 ### t-SNE Visualization
 
 t-SNE (t-distributed Stochastic Neighbor Embedding) is a statistical method for visualizing high-dimensional data by giving each datapoint a location in a two or three-dimensional map. It's particularly useful for revealing the underlying structure of the data, such as clusters. In this project, it was used to visually confirm that the feature space created by PCA effectively groups similar cars together, validating the model's ability to find meaningful similarities.
 
 #### t-SNE plot into 2 dimensions
-![t-SNE Plot](https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/assets/t-SNE_2d_v2.png)
+![t-SNE Plot](https://raw.githubusercontent.com/pietro-bottega/fipe_car_similarity/refs/heads/master/assets/t-SNE_2d_v2.png)

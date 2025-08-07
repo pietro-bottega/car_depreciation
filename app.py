@@ -11,10 +11,10 @@ import matplotlib.pyplot as plt
 def load_data():
     """Load all dataframe from repo"""
 
-    fipe_features_PCA_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_features_PCA.csv"
-    fipe_features_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_features.csv"
-    fipe_data_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/fipe_data.csv"
-    TSNE_path = "https://raw.githubusercontent.com/pietro-bottega/car_depreciation/refs/heads/issue22/data/output/car_models_TSNE.csv"
+    fipe_features_PCA_path = "https://raw.githubusercontent.com/pietro-bottega/fipe_car_similarity/refs/heads/master/data/output/fipe_features_PCA.csv"
+    fipe_features_path = "https://raw.githubusercontent.com/pietro-bottega/fipe_car_similarity/refs/heads/master/data/output/fipe_features.csv"
+    fipe_data_path = "https://raw.githubusercontent.com/pietro-bottega/fipe_car_similarity/refs/heads/master/data/output/fipe_data.csv"
+    TSNE_path = "https://raw.githubusercontent.com/pietro-bottega/fipe_car_similarity/refs/heads/master/data/output/car_models_TSNE.csv"
 
     try:
         fipe_features_PCA = pd.read_csv(fipe_features_PCA_path, encoding='latin1')
@@ -156,6 +156,8 @@ else:
                 similar_indices = similar_models_filter.index
                 tsne_fig = plot_tsne_chart_v2(target_car_index, similar_indices)
                 st.pyplot(tsne_fig)
+
+            st.warning("You will see that end results do not have the quality we would expect. The key challenge faced in this project, which I consider as main driver for results below what was expected, are limitations deriving from 'Tabela Fipe' data. The primary source from which features were extracted was the car model description, which does not present a consistent pattern across all observations, resulting in a high rate of missing data. In the end, this dataset may not be the better option for this task, as presenting rich description of car models is not it's main purpose, but it was the option I found available.", icon=":material/warning:")
 
         except Exception as e:
             st.error(f"Unexpected error: {e}")
